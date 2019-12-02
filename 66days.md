@@ -11,3 +11,4 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 5   | 29/11 | **5:00** | **10 phút**  | **1000 cái** | **100 cái** | 2.43km/ pace 8:21 | **CREED**, **TAWDRY**, **PEEVISH**, **ARDUOUS**, **PERSONABLE**
 6   | 30/11 | **5:30** | **10 phút** | **1000 cái** | **100 cái** | **5.20km** / pace 7:48                                  | **RESOLUTE**, **SUPPOSITION**, **ARBITRARY**, **MONOTONOUS**, **LEGACY**
 7   | 01/12 |   6:30   | **10 phút** | Hồi sức      | **100 cái** | Hồi sức | **MANIFOLD**, **PLIANT**, **RETORT**, **OBSTINATE**, **LACERATE**
+8   | 02/12 |   8:00   | **15 phút** | **1000 cái** | **100 cái** | 3.02km/ pace 8:57 | **OMNIPOTENT**, **UNSCRUPULOUS**, **RENAISSANCE**, **GENESIS**, **WARRANT**
