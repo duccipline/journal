@@ -9,7 +9,13 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 3   | 27/11 | 7:00     |              | **1000 cái** | **100 cái** | 1.79km/ pace 7:53 | **CAPRICIOUS**, **BLATANT**, **OBLIGATORY**, **NEGLIGIBLE**, **ADAMANT**
 4   | 28/11 | **5:50** | **6 phút**   | **1000 cái** | **100 cái** | 2.32km/ pace 7:20 | **SPORADIC**, **VANGUARD**, **CONCUR**, **PRECOCIOUSNESS**, **ALOOF**
 5   | 29/11 | **5:00** | **10 phút**  | **1000 cái** | **100 cái** | 2.43km/ pace 8:21 | **CREED**, **TAWDRY**, **PEEVISH**, **ARDUOUS**, **PERSONABLE**
-6   | 30/11 | **5:30** | **10 phút** | **1000 cái** | **100 cái** | **5.20km** / pace 7:48                                  | **RESOLUTE**, **SUPPOSITION**, **ARBITRARY**, **MONOTONOUS**, **LEGACY**
+6   | 30/11 | **5:30** | **10 phút** | **1000 cái** | **100 cái** | **5.20km**/ pace 7:48                                  | **RESOLUTE**, **SUPPOSITION**, **ARBITRARY**, **MONOTONOUS**, **LEGACY**
 7   | 01/12 |   6:30   | **10 phút** | Hồi sức      | **100 cái** | Hồi sức | **MANIFOLD**, **PLIANT**, **RETORT**, **OBSTINATE**, **LACERATE**
 8   | 02/12 |   8:00   | **15 phút** | **1000 cái** | **100 cái** | 3.02km/ pace 8:57 | **OMNIPOTENT**, **UNSCRUPULOUS**, **RENAISSANCE**, **GENESIS**, **WARRANT**
-9   | 03/12 |   8:00   |             | 0 cái        | **100 cái** | 5.09km/ pace 8:24 | **CANTANKEROUS**, **FLIPPANT**, **SUBJUGATE**, **WRY**, **URBANE**
+9   | 03/12 |   8:00   |             | 0 cái        | **100 cái** | **5.09km**/ pace 8:24 | **CANTANKEROUS**, **FLIPPANT**, **SUBJUGATE**, **WRY**, **URBANE**
+10  | 04/12 |   5:30   |             | **1000 cái** | **100 cái** | **5.10km**/ pace 8:22 | **JARGON**, **PRUDENT**, **INVIOLABLE**, **COMMODIOUS**, **PROXIMITY**
+11  | 05/12 |   7:48   |             |              |             |
+
+Ngày 04/12  
+
+> Khi người có tiền gặp người có kinh nghiệm, thì người có kinh nghiệm sẽ có tiền và người có tiền sẽ có kinh nghiệm.
