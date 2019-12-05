@@ -14,8 +14,12 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 8   | 02/12 |   8:00   | **15 phút** | **1000 cái** | **100 cái** | 3.02km/ pace 8:57 | **OMNIPOTENT**, **UNSCRUPULOUS**, **RENAISSANCE**, **GENESIS**, **WARRANT**
 9   | 03/12 |   8:00   |             | 0 cái        | **100 cái** | **5.09km**/ pace 8:24 | **CANTANKEROUS**, **FLIPPANT**, **SUBJUGATE**, **WRY**, **URBANE**
 10  | 04/12 |   5:30   |             | **1000 cái** | **100 cái** | **5.10km**/ pace 8:22 | **JARGON**, **PRUDENT**, **INVIOLABLE**, **COMMODIOUS**, **PROXIMITY**
-11  | 05/12 |   7:48   |             |              |             |
+11  | 05/12 |   7:48   |             | Nghỉ bệnh    | Nghỉ bệnh   | Nghỉ bệnh             | **Ôn lại 50 từ Level 1**
 
 Ngày 04/12  
 
 > Khi người có tiền gặp người có kinh nghiệm, thì người có kinh nghiệm sẽ có tiền và người có tiền sẽ có kinh nghiệm.
+
+Ngày 05/12
+
+> Bị cảm 3 ngày nay, hôm nay đuối nhất, không chạy và tập thể dục nổi. Đi ngủ sớm
