@@ -15,6 +15,7 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 9   | 03/12 |   8:00   |             | 0 cái        | **100 cái** | **5.09km**/ pace 8:24 | **CANTANKEROUS**, **FLIPPANT**, **SUBJUGATE**, **WRY**, **URBANE**
 10  | 04/12 |   5:30   |             | **1000 cái** | **100 cái** | **5.10km**/ pace 8:22 | **JARGON**, **PRUDENT**, **INVIOLABLE**, **COMMODIOUS**, **PROXIMITY**
 11  | 05/12 |   7:48   |             | Nghỉ bệnh    | Nghỉ bệnh   | Nghỉ bệnh             | **Ôn lại 50 từ Level 1**
+12  | 06/12 |   6:00   | **15 phút** | Nghỉ bệnh    | Nghỉ bệnh   | 2.05km/ pace 7:37     | **ADVOCATE**, **DELEGATE**, **UNPRECEDENTED**, **POIGNANT**, **NEBULOUS**
 
 Ngày 04/12  
 
@@ -23,3 +24,7 @@ Ngày 04/12
 Ngày 05/12
 
 > Bị cảm 3 ngày nay, hôm nay đuối nhất, không chạy và tập thể dục nổi. Đi ngủ sớm
+
+Ngày 06/12
+
+> Vẫn còn sốt và khó thở nhẹ, xỏ giày vào chạy được 2km thì mệt rồi. Ngày mai cố gắng hoàn thành 5km.
