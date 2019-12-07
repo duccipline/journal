@@ -16,6 +16,7 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 10  | 04/12 |   5:30   |             | **1000 cái** | **100 cái** | **5.10km**/ pace 8:22 | **JARGON**, **PRUDENT**, **INVIOLABLE**, **COMMODIOUS**, **PROXIMITY**
 11  | 05/12 |   7:48   |             | Nghỉ bệnh    | Nghỉ bệnh   | Nghỉ bệnh             | **Ôn lại 50 từ Level 1**
 12  | 06/12 |   6:00   | **15 phút** | Nghỉ bệnh    | Nghỉ bệnh   | 2.05km/ pace 7:37     | **ADVOCATE**, **DELEGATE**, **UNPRECEDENTED**, **POIGNANT**, **NEBULOUS**
+13  | 07/12 |   7:00   | **15 phút** | Nghỉ bệnh    | **100 cái** | Nghỉ bệnh   | **CLANDESTINE**, **TIRADE**, **RECUR**, **TACIT**, **ALLEGATION**
 
 Ngày 04/12  
 
@@ -28,3 +29,8 @@ Ngày 05/12
 Ngày 06/12
 
 > Vẫn còn sốt và khó thở nhẹ, xỏ giày vào chạy được 2km thì mệt rồi. Ngày mai cố gắng hoàn thành 5km.
+
+Ngày 07/12
+
+> Nằm mê man từ 11h đến 14h.  
+> Đọc **Thế giới quả là rộng lớn và có rất nhiều việc phải làm**
