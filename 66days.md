@@ -18,6 +18,7 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 12  | 06/12 |   6:00   | **15 phút** | Nghỉ bệnh    | Nghỉ bệnh   | 2.05km/ pace 7:37     | **ADVOCATE**, **DELEGATE**, **UNPRECEDENTED**, **POIGNANT**, **NEBULOUS**
 13  | 07/12 |   7:00   | **15 phút** | Nghỉ bệnh    | **100 cái** | Nghỉ bệnh   | **CLANDESTINE**, **TIRADE**, **RECUR**, **TACIT**, **ALLEGATION**
 14  | 08/12 |          |             |  **500 cái** | **100 cái** | **10.10km**/ pace 7:40 | Ôn lại 60 từ
+15  | 09/12 |   7:00   | **15 phút** |  **500 cái** | **100 cái** | 2.24km/ pace 8:15     | **GULLIBLE**, **BENIGN**, **PERIPHERAL**, **REBUFF**, **ANIMOSITY**
 
 Ngày 04/12  
 
@@ -38,5 +39,9 @@ Ngày 07/12
 
 Ngày 08/12
 
+> Đọc được nửa cuốn **Thế giới quả là rộng lớn và có rất nhiều việc phải làm**  
 > Hôm nay chạy được 10km, rất phê, vượt qua được 1 ngưỡng nào đó rồi thì chạy không biết mệt nữa.
 
+Ngày 09/12
+
+> Hôm nay nhảy dây 500 cái là đau cơ rồi, quyết định dừng để hồi phục, ngày mai hi vọng nhảy đủ 1000 cái.  
