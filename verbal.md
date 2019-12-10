@@ -1,25 +1,30 @@
-# Verbal Advantage
 
-## Level 1
 
-### Words 1 - 10
+# Level 1
+
+## Words 1 - 10
 
 1. PARAPHRASE
-* OSTENSIBLE
-* DIGRESS
-* UNCANNY
-* CANDOR
-* MOROSE
-* ADEPT
-* SATURATED
-* PRAGMATIC
-* CONGENIAL
+2. OSTENSIBLE
+3.	DIGRESS
+4. UNCANNY
+5. CANDOR
+6. MOROSE
+7. ADEPT
+8. SATURATED
+9. PRAGMATIC
+10. CONGENIAL
 
-#### PARAPHRASE (PAR-uh-frayz)
+### PARAPHRASE (PAR-uh-frayz)
 
+* Verb, noun
 * Distinguish between `quote` and `paraphrase`
 
-#### OSTENSIBLE (ah-STEN-si-bul)
+> You can either quote or paraphrase literary texts.  
+
+> Besides Pyrame et Thisbe, his works include a paraphrase, half verse, half prose, of the Phaedo.  
+
+### OSTENSIBLE (ah-STEN-si-bul)
 
 * Note the factor of `without being demonstrated or proved`
 * = `plausible` (PLAW-zi-bul), seeming to be true
@@ -28,7 +33,7 @@
 
 > The delay may have a deeper cause than the ostensible reason.  
 
-#### DIGRESS (di-GRES or dy-GRES)
+### DIGRESS (di-GRES or dy-GRES)
 
 * Nowaday, people don't say it with the physicall meaning. `digress` is used with `speaking` or `writing`
 * Noun `digression` (di-GRESH-un or dy-GRESH-un)
@@ -37,7 +42,7 @@
 
 > The old man's story was full of humorous digressions.  
 
-#### UNCANNY (uhn-KAN-ee)
+### UNCANNY (uhn-KAN-ee)
 
 2 common meaning:
 
@@ -48,7 +53,7 @@
 
 > An uncanny feeling that she was being watched.  
 
-#### CANDOR (KAN-dur)
+### CANDOR (KAN-dur)
 
 * Pay attention: **candor** is a **noun**
 * = `straightforwardness`, `outspokenness`, `forthrightness`, `ingenuousness`
@@ -60,7 +65,7 @@
 
 > The _ingenuous_ person speaks honestly and sincerely, with no hint of evasiveness or deception  
 
-#### MOROSE (muh-ROHS)
+### MOROSE (muh-ROHS)
 
 * = `dolorous` (DOH-luh-rus), mournful, full of sadness
 * = `lugubrious` (luh-GOO-bree-us), extremely gloomy or dismal
@@ -75,7 +80,7 @@
 
 > After weeks of futile job-hunting, he became morose.  
 
-#### ADEPT (uh-DEPT)
+### ADEPT (uh-DEPT)
 
 **skilled**
 
@@ -86,7 +91,7 @@
 
 > They are adepts at kungfu and karate.  
 
-#### SATURATED (SACH-uh-RAY-tid)
+### SATURATED (SACH-uh-RAY-tid)
 
 * = `drenched`, `steeped`, `permeated` (PUR-mee-AY-tid), `impregnated`, `imbued` (im-BYOOD), `sodden` (SAHD-'n)
 * verb: **saturate**
@@ -96,18 +101,18 @@
 
 > The company saturated the media with ads for its new product.  
 
-#### PRAGMATIC (prag-MAT-ik)
+### PRAGMATIC (prag-MAT-ik)
 
 > a pragmatic approach to politics  
 
-#### CONGENIAL (kun-JEE-nee-ul)
+### CONGENIAL (kun-JEE-nee-ul)
 
 Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, nature, temperament.
 
 * Congenial persons have similar or sympathetic tastes, interests, or personalities. Congenial things to agree, go well together.
 * ≠ `alien`, `dissident` (DIS-uh-dint), `incongruous` (in-KAHNG-groo-us)
 
-#### Review
+### Review
 
 1. When you **paraphrase** something, can you change the wording? `YES`
 2. Is an **ostensible** reason always a true reason? `NO`
@@ -118,7 +123,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 7. Would a **pragmatic** person be likely to make a business dicision based on a hunch? `NO`
 8. Can the market ever be **saturated** with competing products? `YES`
 
-### Words 11 - 20
+## Words 11 - 20
 
 1. CAPRICIOUS 
 2. BLATANT
@@ -131,14 +136,14 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 9. PRECOCIOUSNESS
 10. ALOOF
 
-#### CAPRICIOUS (kuh-PRISH-us, kuh-PREE-shus)
+### CAPRICIOUS (kuh-PRISH-us, kuh-PREE-shus)
 
 * Unpredictable, tending to change abruptly (no apparent or logical reason)
 * = _flighty_, _changeable_, _impulsive_, _fickle_
 * difficult = _erratic_, _whimsical_ (WHIM-zi-kul), _volatile_ (VAHL-uh-tul), _mercurial_ (mur-KYUR-ee-ul)
 * Noun: **caprice** (kuh-PREES), a sudden change of mind or change in the emotions
 
-#### BLATANT (BLAYT-'nt)
+### BLATANT (BLAYT-'nt)
 
 * Noisy, disagreeably, offensively loud, boisterous, clamorous
 
@@ -152,7 +157,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 
 * Either sense: _blatant_ suggests sth **conspicuous** and **disagreeable**
 
-#### OBLIGATORY (uh-BLIG-uh-tor-ee)
+### OBLIGATORY (uh-BLIG-uh-tor-ee)
 
 * Required, necessary, binding, mandatory
 
@@ -160,14 +165,14 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 
 * Do not pronounce the initial o in `obligatory` like the o in `open`. Pronounce it like the a in `above`
 
-#### NEGLIGIBLE (NEG-li-ji-bul)
+### NEGLIGIBLE (NEG-li-ji-bul)
 
 * Unimportant, trifling, of little consequence
 * It is so trivial and insignificant that it warrants little or no attention
 
 > Sound could at last be recorded with incredible ease and at negligible cost.  
 
-#### ADAMANT (AD-uh-mint)
+### ADAMANT (AD-uh-mint)
 
 * Unyielding, immovable, inflexible, refusing to give in, unshakable, unrelenting, implacable
 
@@ -178,7 +183,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 
 > He is adamant that he is not going to resign.  
 
-#### SPORADIC (spuh-RAD-ik, spor-AD-ik)
+### SPORADIC (spuh-RAD-ik, spor-AD-ik)
 
 * Occasional, infrequent, irregular, not constant, occurring in a scattered or random way
 
@@ -193,7 +198,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 * ≠ _constant_, _incessant_ (in-SES-int), _unremitting_
 * Nghĩa thứ hai, _rời rạc_, _lác đác_, **scattered**, **isolated**
 
-#### VANGUARD (VAN-gahrd)
+### VANGUARD (VAN-gahrd)
 
 * Noun
 * The forefront of an action or movement
@@ -208,7 +213,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 * (Military) The troops moving at the head of an army
 
 
-#### CONCUR (kun-KUR)
+### CONCUR (kun-KUR)
 
 * Intransitive verb
 
@@ -216,7 +221,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 2. _concur_ &rarr; happen together, occur at the same time, coincide. `His pay raise concurred with his promotion.`
 3. _concur_ &rarr; to agree, `Your story concurs with theirs.`; `We concurred on almost every point of negotiation.`
 
-#### PRECOCIOUSNESS (pruh-KOH-shus-nis)
+### PRECOCIOUSNESS (pruh-KOH-shus-nis)
 
 * **Noun**
 * Early development or maturity especially in mental ability
@@ -229,7 +234,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 
 > A precocious talent for computing.  
 
-#### ALOOF (uh-LOOF)
+### ALOOF (uh-LOOF)
 
 * Apart, at a distance, removed, withdrawn, not wishing to speak or associate with others
 * _The aloof person is emotionally reserved and keeps a cool distance from others.
@@ -242,7 +247,7 @@ Sympathetic, agreeable, compatible, kindred, harmonious, having the same taste, 
 
 * **Aloofness** means reluctance to get involved or take an interest in something.
 
-#### Review
+### Review
 
 TRUE/FALSE game
 
@@ -257,7 +262,7 @@ TRUE/FALSE game
 9. **Precociousness** in a child may be a sign of above-average intelligence. &rarr; True
 10. An **aloof** person is unwilling to associate with others. &rarr; True
 
-### Words 21 - 30
+## Words 21 - 30
 
 1. CREED
 2. TAWDRY
@@ -270,7 +275,7 @@ TRUE/FALSE game
 9. MONOTONOUS
 10. LEGACY
 
-#### CREED (rhymes with _need_)
+### CREED (rhymes with _need_)
 
 * Noun
 * Tín điều, tín ngưỡng
@@ -288,7 +293,7 @@ TRUE/FALSE game
 
 > Liberalism was more than a political creed.  
 
-#### TAWDRY (TAW-dree, rhymes with _Audrey_)
+### TAWDRY (TAW-dree, rhymes with _Audrey_)
 
 * Showy but cheap, gaudy, garish, sleazy.
 * **Tawdrier**, **Tawdriest**
@@ -299,7 +304,7 @@ TRUE/FALSE game
 
 > A tawdry business of politics.  
 
-#### PEEVISH (PEE-vish)
+### PEEVISH (PEE-vish)
 
 * Adjective
 * Irritable, cross, complaining, fretful, ill-humored
@@ -318,7 +323,7 @@ TRUE/FALSE game
 
 > Her pet peeve is a wet towel left on the bed  
 
-#### ARDUOUS (AHR-joo-us)
+### ARDUOUS (AHR-joo-us)
 
 * Adjective
 * Very difficult, hard to achieve or accomplish, requiring great effort
@@ -332,7 +337,7 @@ TRUE/FALSE game
 * = **strenuous**, **laborious**, and **toilsome**
 * Noun _arduousness_	
 
-#### PERSONABLE (PUR-suh-nuh-buul)
+### PERSONABLE (PUR-suh-nuh-buul)
 
 * Attractive, pleasing in appearance, handsome, comely, fair, presentable
 * Xinh đẹp, duyên dáng, dễ coi, (of a person) having a pleasant appearance and manner.
@@ -343,7 +348,7 @@ TRUE/FALSE game
 
 &rarr; Reserve _personable_ for **someone who is either attractive in appearance** or **attractive both in appearance and personality.**
 
-#### RESOLUTE (REZ-uh-loot)
+### RESOLUTE (REZ-uh-loot)
 
 * Adjective
 * Firmly determined, settles, resolved
@@ -364,7 +369,7 @@ TRUE/FALSE game
 
 * to _resolve_ = to decide, determine, settle once and for all
 
-#### SUPPOSITION (SUHP-uh-ZISH-in)
+### SUPPOSITION (SUHP-uh-ZISH-in)
 
 * Noun
 * An assumption, theory, hypothesis, an uncertain belief
@@ -380,7 +385,7 @@ TRUE/FALSE game
 
 > There are conflicting hypotheses (hy-PAHTH-uh-seez) about the origin of the universe.  
 
-#### ARBITRARY (AHR-bi-TRAIR-ee or -TRER-ee)
+### ARBITRARY (AHR-bi-TRAIR-ee or -TRER-ee)
 
 * Adjective
 * Determined, chuyên quyền, độc đoán
@@ -396,7 +401,7 @@ TRUE/FALSE game
 
 * **Arbiter**, **Arbitrator** both means a judge
 
-#### MONOTONOUS (muh-NAHT-uh-nus)
+### MONOTONOUS (muh-NAHT-uh-nus)
 
 * Adjective
 * Lacking variety, tediously uniform, unvarying and dull
@@ -412,7 +417,7 @@ TRUE/FALSE game
 * _Monocle_ (MAHN-uh-kul) - a single eyeglass
 * _Monogram_ (MAHN-uh-gram) - two or more letters woven into one
 
-#### LEGACY (LEG-uh-see)
+### LEGACY (LEG-uh-see)
 
 * Noun
 * Something handed down from the past, an inheritance
@@ -421,7 +426,7 @@ TRUE/FALSE game
 
 > The legacy of centuries of neglect.  
 	
-#### Review 
+### Review 
 
 Synonym-antonym game
 
@@ -436,7 +441,7 @@ Synonym-antonym game
 9. _varied_ and _monotonous_ are synonyms or **antonyms**?
 10. _legacy_ and _bequest_ are **synonyms** or antonyms?
 
-### Words 31 - 40
+## Words 31 - 40
 
 1. MANIFOLD
 2. PLIANT
@@ -449,7 +454,7 @@ Synonym-antonym game
 9. GENESIS
 10. WARRANT
 
-#### MANIFOLD (MAN-ih-fohld)
+### MANIFOLD (MAN-ih-fohld)
 
 * Adjective, transitive verb
 * Numberous and varied, consisting of many kinds, containing many elements, features, or characteristics
@@ -469,7 +474,7 @@ Synonym-antonym game
 
 > After his promotion to management, Bob was sometimes overwhelmed by mountains of paperwork and multitudinous administrative chores.  
 
-#### PLIANT (PLY-int)
+### PLIANT (PLY-int)
 
 * Adjective
 * Bending easily, flexible, adaptable, workable
@@ -477,7 +482,7 @@ Synonym-antonym game
 
 > An economy pliant to political will.  
 
-#### RETORT (ri-TORT)
+### RETORT (ri-TORT)
 
 * Noun, verb
 * A quick reply, especially one that is cutting or witty
@@ -499,7 +504,7 @@ With object
 
 > She opened her mouth to make a suitably cutting retort (noun).  
 
-#### OBSTINATE (AHB-sti-nit)
+### OBSTINATE (AHB-sti-nit)
 
 * Adjective
 * Subborn, inflexible, unwilling to give in or compromise
@@ -510,7 +515,7 @@ With object
 
 * Bệnh khó chữa
 
-#### LACERATE (LAS-uh-rayt)
+### LACERATE (LAS-uh-rayt)
 
 * Transitive verb
 * To tear, cut roughly, rend, mangle, Xé, xé rách
@@ -523,7 +528,7 @@ With object
 
 > Her husband's vicious retort lacerated her pride and made her burst into tears.  
 
-#### OMNIPOTENT (ahm-NIP-uh-tint)
+### OMNIPOTENT (ahm-NIP-uh-tint)
 
 * Adjective
 * All-powerful, almighty, having unlimited power or authority
@@ -538,7 +543,7 @@ With object
 * _omniscient_ (ahm-NISH-int) = all-knowing, having universal knowledge
 * _omnivorous_ (ahm-NIV-uh-rus) = eating all kinds of food or taking in everything &rarr; `She is an avid reader with an omnivorous mind.`
 
-#### UNSCRUPULOUS (uhn-SKROO-pyuh-lus)
+### UNSCRUPULOUS (uhn-SKROO-pyuh-lus)
 
 * Adjective
 * Untrustworthy, dishonorable, deceitful, corrupt, lacking integrity or moral principles
@@ -553,7 +558,7 @@ With object
 
 > Unscrupulous people will do almost anything, no matter how dishonorable, to get what they want.  
 
-#### RENAISSANCE (ren-uh-SAHNS or REN-uh-sahns)
+### RENAISSANCE (ren-uh-SAHNS or REN-uh-sahns)
 
 * Noun
 * A reivival, rebirth, resurgence, renewa of life or **vigor**
@@ -561,7 +566,7 @@ With object
 
 > Rail travel is enjoying a renaissance.  
 
-#### GENESIS (JEN-uh-sis)
+### GENESIS (JEN-uh-sis)
 
 * Noun
 * A coming into being, beginning, origin, birth, creation
@@ -569,7 +574,7 @@ With object
 
 > This tale had its genesis in fireside stories.  
 
-#### WARRANT (WAHR-int)
+### WARRANT (WAHR-int)
 
 * Noun, sự cho phép, giấy phép; trát bắt (tòa án)
 * Transitive verb
@@ -593,7 +598,7 @@ With object
 
 > People resent unwarranted government interference in private enterprise.  
 
-#### Review
+### Review
 
 Choose the word that doesn't fit in the meaning
 
@@ -610,7 +615,7 @@ Renaissance  | **revival**      | reevaluation      | **rebirth**        |
 Genesis      | **creation**     | **origin**        | completion         |
 Warrant      | **justify**      | **guarantee**     | obligate           |
 
-### Words 41 - 50
+## Words 41 - 50
 
 1. CANTANKEROUS
 2. FLIPPANT
@@ -623,7 +628,7 @@ Warrant      | **justify**      | **guarantee**     | obligate           |
 9. COMMODIOUS
 10. PROXIMITY
 
-#### CANTANKEROUS (kan-TANGK-uh-rus)
+### CANTANKEROUS (kan-TANGK-uh-rus)
 
 * Adjective
 * Difficult to deal with, disagreeable, argumentative, quick to quarrel or to exhibit ill will
@@ -635,7 +640,7 @@ Warrant      | **justify**      | **guarantee**     | obligate           |
 
 > Cantankerous relatives are argumentative and hard to get along with.
 
-#### FLIPPANT (FLIP-'nt)
+### FLIPPANT (FLIP-'nt)
 
 * Adjective
 * Treating something serious in a trivial manner, Thiếu nghiêm trang, khiếm nhã
@@ -650,7 +655,7 @@ Warrant      | **justify**      | **guarantee**     | obligate           |
 _Flippant_ refers to speech or writing that **trivializes** or makes fun of something that deserves **respect**
 Flippant language is inapproriately lighthearted or disrespectful  
 
-#### SUBJUGATE (SUHB-juh-gayt)
+### SUBJUGATE (SUHB-juh-gayt)
 
 * Transitive verb
 * To conquer, defeat, vanquish, overwhelm completely, brin under rigid control, make submissive, dominate, enslave
@@ -667,7 +672,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > After the Austrian victories King Ferdinand sent a Neapolitan army of 20,000 men under Filangieri to subjugate the island.  
 
-#### WRY (like _rye_)
+### WRY (like _rye_)
 
 * Adjective
 * Twisted, crooked, lopsided, askew, distorted in an odd, **amusing way**
@@ -680,7 +685,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > He gazed up at her with a wry smile.
 
-#### URBANE (ur-BAYN)
+### URBANE (ur-BAYN)
 
 * Adjective
 * Polished, sophisticated, suave, cosmopolitan
@@ -691,7 +696,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > In June 1801 he arrived in Paris, where his handsome presence, urbane manners, and conspicuous ability made him a general favourite.
 
-#### JARGON (JAHR-gun)
+### JARGON (JAHR-gun)
 
 * Noun
 * Specialized, _often pretentious_ language;
@@ -701,7 +706,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > Savvy businesspeople know that using a lot of professional jargon will only alienate clients.
 
-#### PRUDENT (PROO-dint)
+### PRUDENT (PROO-dint)
 
 * Adjective
 * Cautious, careful, planning wisely, exercising sound judgment in practical matters
@@ -716,7 +721,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > No prudent money manager would authorize a loan without first knowing its purpose.
 
-#### INVIOLABLE (in-VY-ul-uh-bul)
+### INVIOLABLE (in-VY-ul-uh-bul)
 
 * Adjective
 * Secure, safe from assault, infringement, or destruction, sacred, untouchable, unassailable, incorruptible
@@ -732,7 +737,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > It is also an inviolable rule that every part must show beautiful and highly finished work, whether it be an external or an internal part.
 
-#### COMMODIOUS (kuh-MOH-dee-us)
+### COMMODIOUS (kuh-MOH-dee-us)
 
 * Adjective
 * Spacious, having plenty of room, comfortably convenient
@@ -741,7 +746,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > The harbour is safe and commodious, but has a bar at the mouth.  
 
-#### PROXIMITY (prahk-SIM-i-tee)
+### PROXIMITY (prahk-SIM-i-tee)
 
 * Noun
 * Nearness, closeness, the state of being in the vicinity of something
@@ -753,7 +758,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > Do not operate microphones in close proximity to television sets.
 
-#### Review
+### Review
 
 | Word          | Option 1                 | Option 2           | Option 3                    |
 |---------------|--------------------------|--------------------|-----------------------------|
@@ -768,22 +773,22 @@ Flippant language is inapproriately lighthearted or disrespectful
 **commodious**  | appropriate              | **spacious**       | friendly
 **proximity**   | relation                 | distance           | **nearness**
 
-## Level 2
+# Level 2
 
-### Words 1 - 10
+## Words 1 - 10
 
 1. ADVOCATE
-* DELEGATE
-* UNPRECEDENTED
-* POIGNANT
-* NEBULOUS
-* CLANDESTINE
-* TIRADE
-* RECUR
-* TACIT
-* ALLEGATION
+2. DELEGATE
+3. UNPRECEDENTED
+4. POIGNANT
+5. NEBULOUS
+6. CLANDESTINE
+7. TIRADE
+8. RECUR
+9. TACIT
+10. ALLEGATION
 
-#### ADVOCATE (AD-vuh-kayt)
+### ADVOCATE (AD-vuh-kayt)
 
 * Verb, Noun
 * To support, plead for, defend by argument
@@ -798,7 +803,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > Their organization advocates educational reforms
 
-#### DELEGATE (DEL-uh-gayt)
+### DELEGATE (DEL-uh-gayt)
 
 * Verb, Noun
 * To entrust with authority or power
@@ -809,7 +814,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > Our department chief has trouble letting go of the reins and delegating responsibility.  
 
-#### UNPRECEDENTED (uhn-PRES-i-den-tid)
+### UNPRECEDENTED (uhn-PRES-i-den-tid)
 
 * Adjective
 * Unheard-of, novel, new, having no precedent or parallel
@@ -817,7 +822,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > The government took the unprecedented step of releasing confidential correspondence.
 
-#### POIGNANT (POYN-yint)
+### POIGNANT (POYN-yint)
 
 * Adjective
 * Piercing, sharp, biting, penetrating, keen
@@ -831,7 +836,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > A poignant reminder of the passing of time.
 
-#### NEBULOUS (NEB-yuh-lus)
+### NEBULOUS (NEB-yuh-lus)
 
 * Adjective
 * Unclear, vague, obscure, hazy, indefinite, indistinct
@@ -841,7 +846,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > Nebulous concepts like quality of life.
 
-#### CLANDESTINE (klan-DES-tin)
+### CLANDESTINE (klan-DES-tin)
 
 * Adjective
 * Kept secret, done in secrecy, especially for an **evil**, **immoral**, **illegal** purpose &rarr; `a clandestine affair`, `a clandestine business deal`, `a clandestine intelligence operation`
@@ -850,7 +855,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > She deserved better than these clandestine meetings.
 
-#### TIRADE (TY-rayd)
+### TIRADE (TY-rayd)
 
 * Noun
 * A long-drawn-out speech, especially a **vehement** and **abusive** one
@@ -862,7 +867,7 @@ Flippant language is inapproriately lighthearted or disrespectful
 
 > After suffering through yet another one of his boss's frequent tirades, Joe decided it was time to quit and move on.
 
-#### RECUR (ri-KUR)
+### RECUR (ri-KUR)
 
 * Verb
 * To happen again, occur again, especially at intervals or after some lapse of time
@@ -878,7 +883,7 @@ Difference between _recur_ and _reoccur_
 > The revolt is not likely to reoccur, as long as these skrmishes recur, the revolt will continue.
 
 
-#### TACIT (TAS-it)
+### TACIT (TAS-it)
 
 * Adjective
 * Unspoken, silent, implied or understood without words
@@ -889,7 +894,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > Your silence may be taken to mean tacit agreement.
 
-#### ALLEGATION (AL-uh-GAY-shin)
+### ALLEGATION (AL-uh-GAY-shin)
 
 * Noun
 * An assertion or declaration, especially one made without proof
@@ -900,7 +905,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 > A spokesperson for the company today denied the allegations of wrongdoing regarding the firm's hiring practices.  
 
 
-#### Review
+### Review
 
 1. Can someone **advocate** an unworthy cause? `YES` (advocate = to support, either worthy or unworthy)
 2. Can you seize or maintain control by **delegating** it? `NO`
@@ -913,7 +918,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 9. Is an oral agreement also a **tacit** agreement? `NO` (_tacit_ means unspoken, silent, implied or understood without words)
 10. Can a **tirade** contain an **allegation**? `YES`
 
-### Word 11 - 20
+## Word 11 - 20
 
 1. GULLIBLE
 2. BENIGN
@@ -926,7 +931,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 9. DEFUNCT
 10. ABET
 
-#### GUILLIBLE (GUHL-uh-bul)
+### GUILLIBLE (GUHL-uh-bul)
 
 * Adjective
 * Easily deceived, fooled, cheated
@@ -935,7 +940,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > Where are your gullible buyers?
 
-#### BENIGN (bi-NYN)
+### BENIGN (bi-NYN)
 
 * Adjective
 * Kindly, good-natured, gracious, mild
@@ -948,7 +953,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 > A benign intention  
 > A benign government
 
-#### PERIPHERAL(puh-RIF-uh-rul)
+### PERIPHERAL(puh-RIF-uh-rul)
 
 * Adjective
 * External, outer, lying at or forming the outside or boundary of something
@@ -961,7 +966,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > They are peripheral to me.
 
-#### REBUFF (ri-BUHF)
+### REBUFF (ri-BUHF)
 
 * Transitive verb, Noun
 * To refuse bluntly, reject sharply, turndown abruptly, spurn
@@ -974,7 +979,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > The check, however, was but temporary, and the French king only bided his time to take vengeance for the rebuff he had suffered
 
-#### ANIMOSITY (AN-i-MAHS-i-tee)
+### ANIMOSITY (AN-i-MAHS-i-tee)
 
 * Noun 
 * Ill will, **hostility**, antagonism
@@ -986,7 +991,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > We do not want **animosity** **_between_** plant management and inspectors.
 
-#### TENUOUS (TEN-yoo-us)
+### TENUOUS (TEN-yoo-us)
 
 * Adjective
 * Thin, slender, slight, flimsy, weak, not dense or substantial, lacking a strong basis
@@ -999,7 +1004,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > I knew I would be suborning a lie and allowing a relationship I felt strongly was tenuous at best to move forward into a life commitment.  
 
-#### COMPLACENT (kum-PLAY-sint)
+### COMPLACENT (kum-PLAY-sint)
 
 * Adjective
 * Self-satisfied, sug, overly pleased with oneself
@@ -1022,14 +1027,14 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > You should not have a complacent attitude toward unemployment.  
 
-#### ACME (AK-mee)
+### ACME (AK-mee)
 
 * Noun
 * The **peak**, highest point, summit, **zenith**, especially `the point of culmination`, `the highest possible point` in the `development` or `progress` of something
 
 > The succeeding century Brought the Empire to the acme of its power, until Henry III.
 
-#### DEFUNCT (di-FUHNGKT)
+### DEFUNCT (di-FUHNGKT)
 
 * Adjective
 * Dead, extinct, obsolete
@@ -1039,7 +1044,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 &rarr; A defunct organization is no longer functioning or doing business.  
 &rarr; `a defunct factory`, `a defunct procedure`, `a defunct species`, `a defunct idea`
 
-#### ABET (uh-BET)
+### ABET (uh-BET)
 
 * Transitive verb
 * To encourage, support, help, aid, promote, assist in achieving a purpose
@@ -1053,7 +1058,7 @@ A tacit agreement is an unspoken understanding, one arrived at in silence.
 
 > Try not to aid, abet, counsel or procure dishonesty.  
 
-#### REVIEW
+### REVIEW
 
 True or False  
 
