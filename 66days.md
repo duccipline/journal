@@ -20,7 +20,7 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 14  | 08/12 |          |             |  **500 cái** | **100 cái** | **10.10km**/ pace 7:40 | Ôn lại 60 từ
 15  | 09/12 |   7:00   | **15 phút** |  **500 cái** | **100 cái** | 2.24km/ pace 8:15     | **GULLIBLE**, **BENIGN**, **PERIPHERAL**, **REBUFF**, **ANIMOSITY**
 16  | 10/12 |   8:00   | **Việt**    | **Nam**      | **vô**      | **địch**              | **TENUOUS**, **COMPLACENT**, **ACME**, **DEFUNCT**, **ABET**
-17  | 11/12 |   5:37   |             |              |             |      | **HAGGARD**, **WAIVE**, **CARNAL**, **SANCTION**, **AMBIGUOUS**
+17  | 11/12 |   5:37   |             | **1000 cái** | **100 cái** | 3.20km/ pace 9:02      | **HAGGARD**, **WAIVE**, **CARNAL**, **SANCTION**, **AMBIGUOUS**
 
 Ngày 04/12  
 
@@ -47,3 +47,7 @@ Ngày 08/12
 Ngày 09/12
 
 > Hôm nay nhảy dây 500 cái là đau cơ rồi, quyết định dừng để hồi phục, ngày mai hi vọng nhảy đủ 1000 cái.  
+
+Ngày 11/12
+
+> Chạy xong quên bấm dừng đồng hồ, từ pace 7 lên pace 9 luôn 
