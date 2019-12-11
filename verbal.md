@@ -1072,3 +1072,97 @@ True or False
 8. The peak of a person's career is the **acme**. `TRUE`
 9. A **defunct** corporation is likely to grow and turn a profit. `FALSE`
 10. You can **abet** a criminal or **abet** a worthy cause. `TRUE`
+
+## Word 21 - 30
+
+1. HAGGARD
+2. WAIVE
+3. CARNAL
+4. SANCTION
+5. AMBIGUOUS
+6. SPENDTHRIFT
+7. MOLLIFY
+8. UNEQUIVOCAL
+9. MALLEABLE
+10. VERBOSE
+
+### HAGGARD (HAG-urd)
+
+* Adjective
+* Worn out, tired, gaunt (GAWNT), drawn, emaciated
+* Hốc hác, phờ phạc
+
+A person who is _haggard_ has a wild-eyed and wasted look, as from exhaustion, illness, or grief.  
+
+Long hours at work, lack of sleep, inadequate nutrition can easily make you _haggard_, worn out, tired, wasted, gaunt.
+
+> I trailed on behind, haggard and disheveled.  
+
+> Taran glanced at him, noticing how haggard the older man suddenly appeared.
+
+> They looked haggard, their chests sunken, **black rings** under their eyes.
+
+### WAIVE (WAYV, like wave)
+
+* Transitive verb
+* To relinquish voluntarily, give up, **forgo**
+* To postpone, defer, dispense with &rarr; to waive discussion, to waive formalities and get on with business
+* (pháp lý) bỏ, từ bỏ, khước từ
+
+> He will waive all rights to the money.  
+
+> Her tuition fees would be waived. (refrain from applying or enforcing (a rule, restriction, or fee)  
+
+> The clothing store will only waive their return policy in extreme cases.  
+
+to waive a right  
+to waive a privilege  
+
+### CARNAL (KAHR-nal)
+
+* Adjective
+* Bodily, pertaining to the flesh as opposed to the **spirit**, sensual, corporeal
+* We do not say `carnal functions` or `carnal aches and pains` &rarr; refers to the basic physical appetites of the body, `sexual appetite`
+
+`carnal desires`, `carnal lust`, `carnal knowledge`    
+
+> His mind coursed with carnal lust, raw and insatiable.  
+
+> Love is treated from a frankly carnal point of view.  
+
+### SANCTION (SANGK-shun)
+
+* Transitive verb, noun
+* To approve, allow, permit, **authorize**, certify, ratify
+	* To _ratify_ = to officially approve something done by a representative &rarr; `to ratify a treaty`
+	* To _certify_ = to officially approve compliance with requirements or standards &rarr; `a certified public accountant`
+	* To _sanction_ = to give authoritative approval 
+
+> The company's board of directors sanctioned the merger  
+
+> Many religions do not sanction unmarried sexual relations  
+
+> The law sanctions free speech but not antisocial behavior  
+
+> We had tacit official sanction, on our terms.  
+
+### AMBIGUOUS (am-BIG-yoo-us)
+
+* Adjective
+* Uncertain, unclear, doubtful, dubious, questionable, puzzling, having an obscure or indefinite meaning
+
+| Synonyms | Antonyms |
+|----------|----------|
+**_enigmatic_** (EN-ig-MAT-ik)  | distinct
+**_cryptic_** (KRIP-tik)        | apparent
+**_equivocal_** (i-KWIV-uh-kul) | **_evident_**
+                                | **_conspicuous_**
+                                | **_manifest_**
+
+> An ambiguous intention is uncertain, difficult to determine  
+
+> An ambiguous statement is puzzling because it can be interpreted in more than one way; it is unclear and indefinite  
+
+> Her songs are intentionally ambiguous.  
+
+> The ending was more ambiguous, one in which the future of the world was in question.  
