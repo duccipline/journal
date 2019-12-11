@@ -1151,13 +1151,13 @@ to waive a privilege
 * Adjective
 * Uncertain, unclear, doubtful, dubious, questionable, puzzling, having an obscure or indefinite meaning
 
-| Synonyms | Antonyms |
-|----------|----------|
-**_enigmatic_** (EN-ig-MAT-ik)  | distinct
-**_cryptic_** (KRIP-tik)        | apparent
-**_equivocal_** (i-KWIV-uh-kul) | **_evident_**
-                                | **_conspicuous_**
-                                | **_manifest_**
+| Synonyms                        | Antonyms          |
+|---------------------------------|-------------------|
+| **_enigmatic_** (EN-ig-MAT-ik)  | distinct          |
+| **_cryptic_** (KRIP-tik)        | apparent          |
+| **_equivocal_** (i-KWIV-uh-kul) | **_evident_**     |
+|                                 | **_conspicuous_** | 
+|                                 | **_manifest_**    |
 
 > An ambiguous intention is uncertain, difficult to determine  
 
