@@ -19,6 +19,8 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 13  | 07/12 |   7:00   | **15 phút** | Nghỉ bệnh    | **100 cái** | Nghỉ bệnh   | **CLANDESTINE**, **TIRADE**, **RECUR**, **TACIT**, **ALLEGATION**
 14  | 08/12 |          |             |  **500 cái** | **100 cái** | **10.10km**/ pace 7:40 | Ôn lại 60 từ
 15  | 09/12 |   7:00   | **15 phút** |  **500 cái** | **100 cái** | 2.24km/ pace 8:15     | **GULLIBLE**, **BENIGN**, **PERIPHERAL**, **REBUFF**, **ANIMOSITY**
+16  | 10/12 |   8:00   | **Việt**    | **Nam**      | **vô**      | **địch**              | **TENUOUS**, **COMPLACENT**, **ACME**, **DEFUNCT**, **ABET**
+17  | 11/12 |   5:37   |             |              |             |      | **HAGGARD**, **WAIVE**, **CARNAL**, **SANCTION**, **AMBIGUOUS**
 
 Ngày 04/12  
 
