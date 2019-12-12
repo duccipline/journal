@@ -1166,3 +1166,97 @@ to waive a privilege
 > Her songs are intentionally ambiguous.  
 
 > The ending was more ambiguous, one in which the future of the world was in question.  
+
+### SPENDTHRIFT (rhymes with _bend lift_)
+
+* Noun, adjective
+* A wasteful person
+* Wasteful, spending extravagantly, foolishly, squandering one's resources
+* = _improvident_, _prodigal_, _profligate_
+	* _improvident_ (im-PRAHV-i-dent), not provident &rarr; `The improvident person does not save money for retirement or for a rainy day`
+	* _prodigal_ (PRAH-di-gal), spending money in a reckless, extravagant way, (usually) to support a lavish, luxurious lifestyle	* _profligate_ (PRAHF-li-git), **extremely** prodigal or spendthrift &rarr; `A profligate Hollywood movie star who squandered his fortune in exclusive nightclubs and casinos.`
+	
+> Throughout his life he was a **profligate** and a **spendthrift**.
+
+> His spendthrift habits will put the company out of business.  
+
+> They live frugally, and are only prodigal in powder and human life.  
+> Every prodigal, therefore, is a public enemy; every frugal man a public benefactor.  
+
+### MOLLIFY (MAHL-uh-fy)
+
+* Transitive verb
+* To calm, soothe, pacify,, appease, soften in feeling or tone, **make less harsh** or severe
+
+> Nothing mollified his anger  
+
+> The union leaders decided to mollify their demands.  
+
+> A good manager should be adept at mollifying conflicts that can damage morale.  
+
+> The plaintiff's attorney said that only a million-dollar settlement would mollify her client.  
+
+> He was furious, and nothing she said mollified him.  
+
+### UNEQUIVOCAL (UHN-i-KWIV-uh-kul)
+
+* Adjective
+* Clear and direct, definite, straighforward, certain, having a single, obvious meaning, capable of being interpreted in only one way.
+* ≠ _ambiguous_
+* `un`+`equivocal`
+
+> an unequivocal answer  
+
+> He was unequivocal in condemning the violence.
+
+### MALLEABLE (MAL-ee-uh-bul)
+
+* Adjective
+* Capable of being shaped, able to be molded or manipulated, adaptable, impressionable
+* Dễ uốn, dễ bảo
+* = **tractable** (TRAK-tuh-bul)
+* ≠ _malleable_, _tractable_, _inflexible_, _unyielding_, _stubborn_, _obstinate_, _intransigent_ (in-TRAN-zi-jint)
+
+> Gold and iron are malleable  
+
+> A malleable person is easily hammered into shape, and therefore is adaptable, impressionable.  
+
+> It is malleable and can be rolled out into sheets.  
+
+> Labor will fall, material costs will fall, materials will be better, stronger, greener, prettier, lighter, more malleable, and just altogether better.  
+
+### VERBOSE (vur-BOHS)
+
+* Adjective
+* Wordy, having too many words, long-winded, full of verbiage (VUR-bee-ij)
+* = **garrulous** (GAR-uh-lus), **loquacious** (loh-KWAY-shus), **voluble** (VAHL-yuh-bul), **prolix** (PROH-liks)
+
+`a verbal agreement`, `a verbal understanding`  
+&rarr; One that was arrived at through conversation, one that was spoken but not written down  
+
+>>> **In the future, whenever you refer to promises, agreements, or understandings, remember that if they are expressed in speech, they are oral, and if they are expressed in words, whether spoken or written, they are verbal. Of course, if they are expressed in too many words, like most long-winded legal contracts, then they are verbose, full of verbiage.**
+
+> Ensure all promises made verbally are included, in writing, in the contact.  
+
+> Her redundant language is making her sound verbose.  
+
+> The listing file contains verbose output about all the calculations that take place.  
+
+> The schools were extensive buildings attached to the temples, where from an early age boys and girls were taught by the priests to sweep the sanctuaries and keep up the sacred fires, to fast at proper seasons and draw blood for penance, and where they received moral teaching in long and verbose formulas.
+
+### REVIEW 
+
+Synonyms or Antonyms
+
+| Word 1          | Word 2            | Synonyms | Antonyms |
+|-----------------|-------------------|:--------:|:--------:|
+**Energetic**     | **_haggard_**     |          | x
+To **_waive_**    | **relinquish**    | x        |
+**Spiritual**     | **_carnal_**      |	         | x
+To **_sanction_** | to **prohibit**   |          | x
+**Doubtful**      | **_ambiguous_**   | x        |
+**Miserly**       | **_spendthrift_** |          | x
+To **_mollify_**  | to **irritate**   |          | x
+**_Unequivocal_** | **_ambiguous_**   |          | x
+**Adaptable**     | **_malleable_**   | x        |
+**_Verbose_**     | **long-winded**   | x        |
