@@ -23,6 +23,8 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 17  | 11/12 |   5:37   |             | **1000 cái** | **100 cái** | 3.20km/ pace 9:02      | **HAGGARD**, **WAIVE**, **CARNAL**, **SANCTION**, **AMBIGUOUS**
 18  | 12/12 |   7:00   |             | **1000 cái** | **100 cái** | Không chạy | **SPENDTHRIFT**, **MOLLIFY**, **UNEQUIVOCAL**, **MALLEABLE**, **VERBOSE**
 19  | 13/12 |   6:00   |             | **1000 cái** | **100 cái** | **6km**/ pace 7:39    | **TRANSIENT**, **NETTLE**, **REPUDIATE**, **IMPETUOUS**, **FRUGAL**
+20  | 14/12 |   5:02   |             | **1000 cái** | **100 cái** | 1.01km/pace 5:43 + 1km/pace 13:09 + **5km**/pace 8:46 | **INCONGRUOUS**, **ASSUAGE**, **CORROBORATE**, **EMBELLISH**, **AVARICIOUS**
+21  | 15/12 |          |             |              |             | | **CURSORY**, **VACILLATE**, **CLEMENT**, **LUCRATIVE**, **ALLOCATE**
 
 Ngày 04/12  
 
@@ -52,4 +54,12 @@ Ngày 09/12
 
 Ngày 11/12
 
-> Chạy xong quên bấm dừng đồng hồ, từ pace 7 lên pace 9 luôn 
+> Chạy xong quên bấm dừng đồng hồ, từ pace 7 lên pace 9 luôn  
+
+Ngày 14/12
+
+> Hôm nay chạy 1km đầu test maximal pace, đi bộ 1km cho tim nghỉ mệt, xong rồi chạy 5km với pace 8:46  
+
+Ngày 15/12
+
+> Hôm nay quyết tâm chạy 10km  
