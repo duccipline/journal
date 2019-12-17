@@ -24,7 +24,9 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 18  | 12/12 |   7:00   |             | **1000 cái** | **100 cái** | Không chạy | **SPENDTHRIFT**, **MOLLIFY**, **UNEQUIVOCAL**, **MALLEABLE**, **VERBOSE**
 19  | 13/12 |   6:00   |             | **1000 cái** | **100 cái** | **6km**/ pace 7:39    | **TRANSIENT**, **NETTLE**, **REPUDIATE**, **IMPETUOUS**, **FRUGAL**
 20  | 14/12 |   5:02   |             | **1000 cái** | **100 cái** | 1.01km/pace 5:43 + 1km/pace 13:09 + **5km**/pace 8:46 | **INCONGRUOUS**, **ASSUAGE**, **CORROBORATE**, **EMBELLISH**, **AVARICIOUS**
-21  | 15/12 |          |             |              |             | | **CURSORY**, **VACILLATE**, **CLEMENT**, **LUCRATIVE**, **ALLOCATE**
+21  | 15/12 |   6:30   |             | **1000 cái** | **100 cái** | Không chạy | **CURSORY**, **VACILLATE**, **CLEMENT**, **LUCRATIVE**, **ALLOCATE**
+22  | 16/12 |   6:00   |             | **1000 cái** | **100 cái** | **10.19km**/pace 7:09 | **RECONCILE**, **PARAGON**, **ANALOGOUS**, **DIURNAL**, **PRETEXT**
+23  | 17/12 |          |             |              |             | | Ôn lại 100 từ
 
 Ngày 04/12  
 
@@ -63,3 +65,9 @@ Ngày 14/12
 Ngày 15/12
 
 > Hôm nay quyết tâm chạy 10km  
+> 15:39 | hôm nay quyết tâm chạy 10km  
+> Cuối cùng 10h tối mới về nhà, suy nghĩ một hồi &rarr; quyết định không đi chạy bộ.
+
+Ngày 16/12
+
+> Chạy được 10km, lần chạy này không khỏe bằng lần đầu tiên chạy 10km, cần về tẩm bổ lại :D &rarr; nhưng mà lần này pace tốt hơn nhiều
