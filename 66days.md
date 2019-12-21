@@ -26,7 +26,11 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 20  | 14/12 |   5:02   |             | **1000 cái** | **100 cái** | 1.01km/pace 5:43 + 1km/pace 13:09 + **5km**/pace 8:46 | **INCONGRUOUS**, **ASSUAGE**, **CORROBORATE**, **EMBELLISH**, **AVARICIOUS**
 21  | 15/12 |   6:30   |             | **1000 cái** | **100 cái** | Không chạy | **CURSORY**, **VACILLATE**, **CLEMENT**, **LUCRATIVE**, **ALLOCATE**
 22  | 16/12 |   6:00   |             | **1000 cái** | **100 cái** | **10.19km**/pace 7:09 | **RECONCILE**, **PARAGON**, **ANALOGOUS**, **DIURNAL**, **PRETEXT**
-23  | 17/12 |          |             |              |             | | Ôn lại 100 từ
+23  | 17/12 |   5:45   |             | **1000 cái** | **100 cái** | Đau khớp gối, không dám chạy | Ôn lại 100 từ
+24  | 18/12 |   4:30   |             | **1000 cái** | **100 cái** | Ba bị đột quỵ, phải đưa vào bệnh viện cấp cứu | Ôn lại 100 từ
+25  | 19/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
+26  | 20/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
+27  | 21/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
 
 Ngày 04/12  
 
@@ -70,4 +74,39 @@ Ngày 15/12
 
 Ngày 16/12
 
-> Chạy được 10km, lần chạy này không khỏe bằng lần đầu tiên chạy 10km, cần về tẩm bổ lại :D &rarr; nhưng mà lần này pace tốt hơn nhiều
+> Chạy được 10km, lần chạy này không khỏe bằng lần đầu tiên chạy 10km, cần về tẩm bổ lại :D &rarr; nhưng mà lần này pace tốt hơn nhiều  
+
+Ngày 17/12
+
+> Hôm nay chạy ráng, hôm nay đau khớp gối rồi, giờ đi đứng tướng hơi xấu  
+
+Ngày 18/12
+
+> Hôm nay phê quá, 4:30 thức giấc, dậy vệ sinh cá nhân xong thức luôn  
+> Mùa thi bài vở nhiều quá
+
+> Tối 9:30 quyết định gọi xe đưa ba vào bệnh viện cấp cứu  
+> 10:30 đến phòng cấp cứu bệnh viện  
+> 11:00 bác sĩ đưa ba đi chụp CT não  
+> 11:10 cho tiêm thuốc rtPA để đánh tan máu đông trên động mạch não  
+> 11:30 bác sĩ thấy có phục hồi, cho đi chụp DSA để kiểm tra và chắc chắn  
+> 11:50 có huyết khối trên động mạch não, cần làm thủ thuật lấy huyết khối bằng phương pháp cơ học.  
+
+Ngày 19/12
+
+> Ba phải làm thủ thuật lấy huyết khối động mạch não từ 0:00 đến 6:00 sáng, rất nguy hiểm.  
+> 7:00 ba được chuyển sang phòng hồi sức tích cực - stroke unit  
+> 15:00 mình ngồi ăn cơm hợp ở hành lang phía bên ngoài, tầng 14, mình ăn không vào, ngồi suy nghĩ rồi khóc, đây là bữa ăn buồn nhất từ khi sinh ra đến giờ của mình.  
+> Chiều 16:00 mình đưa ba đi chụp MRI, mình khóc rất nhiều  
+> 17:00 anh hai vào đến bệnh viện  
+
+Ngày 20/12
+
+> 17:45 vào thăm ba, ba đã ăn cháo được bữa đầu tiên, bên trái của ba yếu, không điều khiển được tay trái, chân trái thì có thể giơ lên nhẹ được.  
+> Mỗi lần ba ngáp thì cánh tay trái có cử động, ba ngáp 3 lần đều có cử động tay trái.  
+> Mình tập cho ba giơ tay trái lên (mình làm giùm nhưng mà kêu ba cố gắng điều khiển tay trái, và tưởng tượng như là mình đang điều khiển tay trái)  
+
+Ngày 21/12
+
+> 11:45 vào thăm ba, ba có thể giơ chân trái tốt hơn tối hôm qua, tay trái vẫn chưa điều khiển được. Ba ngáp 2 lần, cả 2 lần đều có cử động tay trái.  
+> 14:00 ba được chuyển sang phòng bệnh  
