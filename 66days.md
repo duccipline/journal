@@ -31,6 +31,8 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 25  | 19/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
 26  | 20/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
 27  | 21/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
+28  | 22/12 |   Vào    | bệnh        | viện         | lo               | cho | ba
+29  | 23/12 |   7:00   |             |              | **150 cái** | | Ôn lại 100 từ, **vào bệnh viên chăm ba**
 
 Ngày 04/12  
 
@@ -110,3 +112,8 @@ Ngày 21/12
 
 > 11:45 vào thăm ba, ba có thể giơ chân trái tốt hơn tối hôm qua, tay trái vẫn chưa điều khiển được. Ba ngáp 2 lần, cả 2 lần đều có cử động tay trái.  
 > 14:00 ba được chuyển sang phòng bệnh  
+
+Ngày 22/22
+
+> Tranh thủ ôn lại 50 từ level 1 và 50 từ level 2 đã học  
+> Cố gắng ôn bài thi Computer Vision, Laws
