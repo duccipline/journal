@@ -2,8 +2,8 @@
 
 > _Tầm nhìn_ là **ƯỚC MƠ** có **KẾ HOẠCH**.
 
-STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | Học 5 từ Verbal Advantage |
-|---|-------|----------|--------------|--------------|---|---|---|
+STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | Học 5 từ Verbal Advantage | Miscellaneous
+|---|-------|----------|--------------|--------------|---|---|---|---|
 1   | 25/11 | 6:00     |              | **1000 cái** | **100 cái** | 2.26km/ pace 8:02 | **PARAPHRASE**, **OSTENSIBLE**, **DIGRESS**, **UNCANNY**, **CANDOR**
 2   | 26/11 | **5:30** |              | **1000 cái** | **100 cái** | 2.93km/ pace 8:20 | **MOROSE**, **ADEPT**, **SATURATED**, **PRAGMATIC**, **CONGENIAL**
 3   | 27/11 | 7:00     |              | **1000 cái** | **100 cái** | 1.79km/ pace 7:53 | **CAPRICIOUS**, **BLATANT**, **OBLIGATORY**, **NEGLIGIBLE**, **ADAMANT**
@@ -33,6 +33,8 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 27  | 21/12 |   Vào    | bệnh        | viện         | lo          | cho | ba
 28  | 22/12 |   Vào    | bệnh        | viện         | lo               | cho | ba
 29  | 23/12 |   7:00   |             |              | **150 cái** | | Ôn lại 100 từ, **vào bệnh viên chăm ba**
+30  | 24/12 |   6:30   | **15 phút** |              | **100 cái** | Vào bệnh viện chăm ba ban ngày, **không chạy**, + ôn thi | **DEFRAY**, **TACITURN**, **TERSE**, **BOON**, **PROLETARIAT**
+31  | 25/12 |   5:30   |             |              | **100 cái** | Vào bệnh viện chăm ba ban ngày + ngủ lại đêm | **HETEROGENEOUS**, **PITTANCE**, **GLIB**, **PENCHANT**, **SOLICITOUS** | - Thêm cột _miscellaneous_ để ghi chú những **việc quan trọng đã hoàn thành** khác <br>- Đọc **Living with a SEAL** (Day 1/30) <br>- Ôn **Information Retrieval**
 
 Ngày 04/12  
 
@@ -113,7 +115,13 @@ Ngày 21/12
 > 11:45 vào thăm ba, ba có thể giơ chân trái tốt hơn tối hôm qua, tay trái vẫn chưa điều khiển được. Ba ngáp 2 lần, cả 2 lần đều có cử động tay trái.  
 > 14:00 ba được chuyển sang phòng bệnh  
 
-Ngày 22/22
+Ngày 22/12
 
 > Tranh thủ ôn lại 50 từ level 1 và 50 từ level 2 đã học  
 > Cố gắng ôn bài thi Computer Vision, Laws
+
+Ngày 25/12
+
+> Tối nay mình ngủ ở bệnh viện canh ba
+
+> _**"I like to sit back and enjoy the pain. I earned it."**_ - SEAL
