@@ -34,7 +34,8 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 28  | 22/12 |   Vào    | bệnh        | viện         | lo               | cho | ba
 29  | 23/12 |   7:00   |             |              | **150 cái** | | Ôn lại 100 từ, **vào bệnh viên chăm ba**
 30  | 24/12 |   6:30   | **15 phút** |              | **100 cái** | Vào bệnh viện chăm ba ban ngày, **không chạy**, + ôn thi | **DEFRAY**, **TACITURN**, **TERSE**, **BOON**, **PROLETARIAT**
-31  | 25/12 |   5:30   |             |              | **100 cái** | Vào bệnh viện chăm ba ban ngày + ngủ lại đêm | **HETEROGENEOUS**, **PITTANCE**, **GLIB**, **PENCHANT**, **SOLICITOUS** | - Thêm cột _miscellaneous_ để ghi chú những **việc quan trọng đã hoàn thành** khác <br>- Đọc **Living with a SEAL** (Day 1/30) <br>- Ôn **Information Retrieval**
+31  | 25/12 | **5:30** |             |              | **100 cái** | Vào bệnh viện chăm ba ban ngày + ngủ lại đêm | **HETEROGENEOUS**, **PITTANCE**, **GLIB**, **PENCHANT**, **SOLICITOUS** | - Thêm cột _miscellaneous_ để ghi chú những **việc quan trọng đã hoàn thành** khác <br>- Đọc **Living with a SEAL** (Day 1/30) <br>- Ôn **Information Retrieval**
+32  | 26/12 | **4:38** |            |               | **140** cái | | Ôn lại 10 từ Level 3  | - Đọc **Living with a SEAL** (Day 2, 3) <br> - Hít đất vỗ tay trước ngực 70 cái <br> - Hít đất bình thường 70 cái
 
 Ngày 04/12  
 
