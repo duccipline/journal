@@ -38,6 +38,7 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 32  | 26/12 | **4:38** |            |               | **140** cái | | Ôn lại 10 từ Level 3  | - Đọc **Living with a SEAL** (Day 2, 3) <br> - Hít đất vỗ tay trước ngực 70 cái <br> - Hít đất bình thường 70 cái
 33  | 27/12 |  10:30   |            |               | **100 cái** | | **CIRCUMSCRIBE**, **DEARTH**, **INGRATIATING**, **MERCENARY**, **EXTEMPORIZE** | - Hít đất 100 cái bình thường <br> - Chúc mừng sinh nhật Ba trong bệnh viện
 34  | 28/12 | **5:38** |            |               | **150 cái** | | **ERUDITE**, **AUSTERE**, **LACONIC**, **AMELIORATE**, **EXPUNGE** | - Hít đất 150 cái bình thường <br> - Soạn tài liệu thi môn Pháp luật <br> - Ôn bài thi môn Information Retrieval <br> - Đọc **Living with a SEAL** (Day 4, 5)
+35  | 29/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Ôn lại 20 từ Level 3 | - Đọc **Living with a SEAL** (Day 6, 7, 8) <br> - Tập vận động cho ba <br> - Hít đất bình thường 100 cái <br> - Ôn Computer Vision
 
 Ngày 04/12  
 
@@ -128,3 +129,7 @@ Ngày 25/12
 > Tối nay mình ngủ ở bệnh viện canh ba
 
 > _**"I like to sit back and enjoy the pain. I earned it."**_ - SEAL
+
+Ngày 29/12
+
+> They come the last days of decade!
