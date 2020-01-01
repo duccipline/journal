@@ -1,5 +1,7 @@
 # 66 Ngày thử thách
 
+## Bảng A
+
 > _Tầm nhìn_ là **ƯỚC MƠ** có **KẾ HOẠCH**.
 
 STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | Học 5 từ Verbal Advantage | Miscellaneous
@@ -40,7 +42,18 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 34  | 28/12 | **5:38** |            |               | **150 cái** | | **ERUDITE**, **AUSTERE**, **LACONIC**, **AMELIORATE**, **EXPUNGE** | - Hít đất 150 cái bình thường <br> - Soạn tài liệu thi môn Pháp luật <br> - Ôn bài thi môn Information Retrieval <br> - Đọc **Living with a SEAL** (Day 4, 5)
 35  | 29/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Ôn lại 20 từ Level 3 | - Đọc **Living with a SEAL** (Day 6, 7, 8) <br> - Tập vận động cho ba <br> - Hít đất bình thường 100 cái <br> - Ôn Computer Vision 
 36  | 30/12 |   9:30   |             | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Tập vận động cho ba (buổi tối) <br> Ôn Computer Vision
-37  | 31/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Ôn Computer Vision <br> - Ôn Information Retrieval <br> - Tập vận động cho ba
+37  | 31/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Ôn Computer Vision <br> - Ôn Information Retrieval <br> - Tập vận động cho ba (buổi tối)
+38  | 01/01 | **4:38** | **15 phút** | **1000 cái** | **111 cái** | 3.01km/pace 6:26 | Nghỉ - ôn thi final | - Ôn **Information Retrieval** <br> - Hít đất **111** cái bình thường <br> - **Đọc Tờ kinh thứ nhất** 2  lần (chiều, tối) <br> - Tập vận động cho ba (buổi tối)
+
+### Cam kết
+
+Tháng 01 này cam kết chạy 169 km
+
+| Ngày | Cự ly | Pace |
+|------|-------|------|
+| Thứ tư 01/01 | 3.01km | 6:26
+
+### Nhật ký
 
 Ngày 04/12  
 
@@ -135,3 +148,8 @@ Ngày 25/12
 Ngày 29/12
 
 > They come the last days of decade!
+
+**Ngày 01/01/2020**
+
+> Happy New Year  
+> **Năm nay phải train thể lực, thể hình thật nặng và chăm chỉ, bền bỉ**
