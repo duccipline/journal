@@ -43,15 +43,50 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 35  | 29/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Ôn lại 20 từ Level 3 | - Đọc **Living with a SEAL** (Day 6, 7, 8) <br> - Tập vận động cho ba <br> - Hít đất bình thường 100 cái <br> - Ôn Computer Vision 
 36  | 30/12 |   9:30   |             | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Tập vận động cho ba (buổi tối) <br> Ôn Computer Vision
 37  | 31/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Ôn Computer Vision <br> - Ôn Information Retrieval <br> - Tập vận động cho ba (buổi tối)
-38  | 01/01 | **4:38** | **15 phút** | **1000 cái** | **111 cái** | 3.01km/pace 6:26 | Nghỉ - ôn thi final | - Ôn **Information Retrieval** <br> - Hít đất **111** cái bình thường <br> - **Đọc Tờ kinh thứ nhất** 2  lần (chiều, tối) <br> - Tập vận động cho ba (buổi tối)
+38  | 01/01 | **4:38** | **20 phút** | **1000 cái** | **111 cái** | 3.01km/pace 6:26 | Nghỉ - ôn thi final | - Ôn **Information Retrieval** <br> - Hít đất **111** cái bình thường <br> - **Đọc Tờ kinh thứ nhất** 2  lần (chiều, tối) <br> - Tập vận động cho ba (buổi tối)
+39  | 02/01 | **5:38** | **15 phút** | Không nhảy |  70 cái | 1.01km/pace 5:39 <br> 5.50km/pace 13:24 | Nghỉ - ôn thi final | - Ôn **Computer Vision** <br> - Đọc **tờ kinh thứ nhất** 2 lần (sáng, trưa) <br> - Chạy Interval 1.01km/pace 5:39 <br> - Hít đất 70 cái bình thường <br> - Ôn **Information Retrieval** <br> - Đi bộ 5.50km
 
 ### Cam kết
 
 Tháng 01 này cam kết chạy 169 km
 
-| Ngày | Cự ly | Pace |
-|------|-------|------|
-| Thứ tư 01/01 | 3.01km | 6:26
+| Ngày         | Cự ly    | Pace  |
+|--------------|----------|-------|
+Thứ tư 01/01   | 3.01km   | 6:26
+Thứ năm 02/01  | 1.01km <br> 5.50km   | 5:39 <br> 13:24
+Thứ sáu 03/01  |          |
+Thứ bảy 04/01  |          |
+Chủ nhật 05/01 |          |
+               |          |
+Thứ hai 06/01  |
+Thứ ba 07/01   |
+Thứ tư 08/01   |
+Thứ năm 09/01  |
+Thứ sáu 10/01  |
+Thứ bảy 11/01  |
+Chủ nhật 12/01 |
+               |          |
+Thứ hai 13/01  |
+Thứ ba 14/01   |
+Thứ tư 15/01   |
+Thứ năm 16/01  |
+Thứ sáu 17/01  |
+Thứ bảy 18/01  |
+Chủ nhật 19/01 |
+               |          |
+Thứ hai 20/01  |
+Thứ ba 21/01   |
+Thứ tư 22/01   |
+Thứ năm 23/01  |
+Thứ sáu 24/01  |
+Thứ bảy 25/01  |
+Chủ nhật 26/01 |
+               |          |
+Thứ hai 27/01  |
+Thứ ba 28/01   |
+Thứ tư 29/01   |
+Thứ năm 30/01  |
+Thứ sáu 31/01  |
 
 ### Nhật ký
 
