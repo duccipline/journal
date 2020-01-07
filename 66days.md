@@ -45,9 +45,10 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 37  | 31/12 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Hít đất 100 cái bình thường <br> - Ôn Computer Vision <br> - Ôn Information Retrieval <br> - Tập vận động cho ba (buổi tối)
 38  | 01/01 | **4:38** | **20 phút** | **1000 cái** | **111 cái** | 3.01km/pace 6:26 | Nghỉ - ôn thi final | - Ôn **Information Retrieval** <br> - Hít đất **111** cái bình thường <br> - **Đọc Tờ kinh thứ nhất** 2  lần (chiều, tối) <br> - Tập vận động cho ba (buổi tối)
 39  | 02/01 | **5:38** | **15 phút** | Không nhảy |  70 cái | 1.01km/pace 5:39 <br> 5.50km/pace 13:24 | Nghỉ - ôn thi final | - Ôn **Computer Vision** <br> - Đọc **tờ kinh thứ nhất** 3 lần (sáng, trưa, tối) <br> - Chạy Interval 1.01km/pace 5:39 <br> - Hít đất 70 cái bình thường <br> - Ôn **Information Retrieval** <br> - Đi bộ 5.50km
-40  | 03/01 | **5:00** |             |              | 0 cái            | Không chạy | | - Đọc **tờ kinh thứ nhất** (sáng, trưa)
-41  | 04/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đo huyết áp cho cả nhà 3 lần <br> - Tập tay cho ba 3 lần
-42  | 05/01 |   5:45   | **15 phút** | **1000 cái** | **100 cái** | 6.73km/pace 6:56 | | - Đọc **tờ kinh thứ nhất** (sáng, trưa) <br> - Đo huyết áp cho cả nhà (chiều) <br> - Ôn **Statistics** <br> - Tập tay cho ba (1 lần) <br> - Chạy bộ
+40  | 03/01 | **5:00** |             |              | 0 cái            | Không chạy | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa)
+41  | 04/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đo huyết áp cho cả nhà 3 lần <br> - Tập tay cho ba 3 lần
+42  | 05/01 | **5:45** | **15 phút** | **1000 cái** | **100 cái** | **6.73km**/pace 6:56 | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa) <br> - Đo huyết áp cho cả nhà (chiều) <br> - Ôn **Statistics** <br> - Tập tay cho ba (1 lần) <br> - Chạy bộ
+43  | 06/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | 4.05km/pace 6:29 | | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Ôn và đi thi **Statistics**
 
 ### Cam kết
 
