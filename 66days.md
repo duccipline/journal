@@ -48,9 +48,11 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 40  | 03/01 | **5:00** |             |              | 0 cái            | Không chạy | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa)
 41  | 04/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đo huyết áp cho cả nhà 3 lần <br> - Tập tay cho ba 3 lần
 42  | 05/01 | **5:45** | **15 phút** | **1000 cái** | **100 cái** | **6.73km**/pace 6:56 | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa) <br> - Đo huyết áp cho cả nhà (chiều) <br> - Ôn **Statistics** <br> - Tập tay cho ba (1 lần) <br> - Chạy bộ
-43  | 06/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | 4.05km/pace 6:29 | | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Ôn và đi thi **Statistics**
-44  | 07/01 | **5:00** | **15 phút** | Không nhảy   | **100 cái** | Không chạy | | - **Đọc tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Xin giấy chuyển tuyến bhyt cho ba <br> - Đo huyết áp cho ba (2 lần) <br> - Tập vận động cho ba (tối) <br> - Ôn thi **Natural Language Processing** <br> - Đọc 10% _Thế giới quả là rộng lớn và có rất nhiều việc phải làm_
-45  | 08/01 | **4:00** |             |              | | | | - **Đọc tờ kinh thứ nhất** (sáng) <br> - Đọc xong **Thế giới quả là rộng lớn và có rất nhiều việc phải làm** <br> 
+43  | 06/01 |   7:00   | **15 phút** | **1000 cái** | **100 cái** | 4.05km/pace 6:29 | Nghỉ - ôn thi final | - Đọc **tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Ôn và đi thi **Statistics**
+44  | 07/01 | **5:00** | **15 phút** | Không nhảy   | **100 cái** | Không chạy | Nghỉ - ôn thi final | - **Đọc tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Xin giấy chuyển tuyến bhyt cho ba <br> - Đo huyết áp cho ba (2 lần) <br> - Tập vận động cho ba (tối) <br> - Ôn thi **Natural Language Processing** <br> - Đọc 10% _Thế giới quả là rộng lớn và có rất nhiều việc phải làm_
+45  | 08/01 | **4:00** |             | Không nhảy   | Không tập | Không chạy | Nghỉ - ôn thi final | - **Đọc tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đọc xong **Thế giới quả là rộng lớn và có rất nhiều việc phải làm** <br> - Đi tái khám bệnh viện ĐH Y Dược với ba má <br> - **Qua nhà thăm thầy Thanh Hùng** (anh Huân, anh Khôi, An, Phát) - Viết reprt Natural Language Processing (NLP)
+46  | 09/01 | **4:30** |             | Không nhảy   | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Dậy sớm viết report Natural Language Processing (NLP) <br> - Thi vấn đáp **NLP** <br> - Đọc **Tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Nghiên cứu và trao đổi trong Lab thầy Điền <br> - Đo huyết áp cho cả nhà 1 lần (tối) 
+47  | 10/01 |   7:00   |             |              | | | | - Đo huyết áp cho cả nhà (trưa) <br> - Viết **report NLP**
 
 ### Cam kết
 
