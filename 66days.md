@@ -53,7 +53,11 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 45  | 08/01 | **4:00** |             | Không nhảy   | Không tập | Không chạy | Nghỉ - ôn thi final | - **Đọc tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đọc xong **Thế giới quả là rộng lớn và có rất nhiều việc phải làm** <br> - Đi tái khám bệnh viện ĐH Y Dược với ba má <br> - **Qua nhà thăm thầy Thanh Hùng** (anh Huân, anh Khôi, An, Phát) - Viết reprt Natural Language Processing (NLP)
 46  | 09/01 | **4:30** |             | Không nhảy   | **100 cái** | Không chạy | Nghỉ - ôn thi final | - Dậy sớm viết report Natural Language Processing (NLP) <br> - Thi vấn đáp **NLP** <br> - Đọc **Tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Nghiên cứu và trao đổi trong Lab thầy Điền <br> - Đo huyết áp cho cả nhà 1 lần (tối) 
 47  | 10/01 |   7:00   |             |              | | | | - Đo huyết áp cho cả nhà (trưa) <br> - Viết **report NLP**
-
+48  | 11/01 |   7:00   | **15 phút** | Không nhảy   | **100 cái** | 4.02km/pace 6:20 | | - Đọc **Tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Đo huyết áp cho cả nhà (sáng, trưa, tối), <br> - Chở má đi mua vật liệu xây dựng <br> - Đọc **Living with a SEAL** <br> - Tập vật lý trị liệu cho ba (tối) <br> - Đi dạy thêm <br> - Thiền - hít thở 15 phút với ba <br> - Viết tiếp report NLP <br> - Soạn bài mai đi dạy thêm
+49  | 12/01 |   7:00   |             |              |          | 2.54km/pace 5:47 |  | - Đọc **Tờ kinh thứ nhất** (sáng) <br> - **Chạy** bộ (sáng) <br> - Dạy thêm
+50  | 13/01 | **5:00** | **15 phút** | Không nhảy   | **150 cái** | Không chạy | |  - Đọc **Tờ kinh thứ nhất** (sáng, chiều, tối) <br> - Đọc Living with a SEAL
+60  | 14/01 |   7:00   | **15 phút** | Không nhảy   | **150 cái** | **7.06km/pace 6:23** | | - Đọc **Tờ kinh thứ nhất** (sáng, chiều, tối) <br> - Dạy thêm <br> - Đọc xong **Living with a SEAL** <br> - Đi **chạy bộ** với Minh Trung, Gia Bảo
+ 
 ### Cam kết
 
 Tháng 01 này cam kết chạy 169 km
@@ -73,11 +77,11 @@ Thứ ba 07/01   |
 Thứ tư 08/01   |
 Thứ năm 09/01  |
 Thứ sáu 10/01  |
-Thứ bảy 11/01  |
-Chủ nhật 12/01 |
+Thứ bảy 11/01  | 4.02km   | 6:20  |
+Chủ nhật 12/01 | 2.54km   | 5:47
 |              |          |       |
 Thứ hai 13/01  |
-Thứ ba 14/01   |
+Thứ ba 14/01   | 7.06km   | 6:23
 Thứ tư 15/01   |
 Thứ năm 16/01  |
 Thứ sáu 17/01  |
