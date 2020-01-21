@@ -1,8 +1,52 @@
 # 66 Ngày thử thách
 
+## Bảng B
+
+> _Be **EXCELLENT**_
+
+### Track log
+
+STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Verbal Advantage | Miscellaneous
+|---|-------|----------|--------------|--------------|---|---|---|---| 
+|00| **21/01** | BREAK | DAY
+|01| **22/01** | - Thiền 15 phút <br> - Đo huyết áp cho ba (sáng, chiều, tối) <br> - Đọc Tờ kinh thứ nhất (sáng, trưa, tối) <br> - Hít đất 100 cái <br> - Chạy bộ <br> - Học 5 từ | **5:15** | | | | [Images](https://drive.google.com/drive/folders/1J5X3UAuJJB_tQ0GEYZzqNIgYeYCq6jAg?usp=sharing) |
+
+
 ## Bảng A
 
 > _Tầm nhìn_ là **ƯỚC MƠ** có **KẾ HOẠCH**.
+
+
+### Tổng kết
+
+<details close>
+
+| Thu hoạch | Tồn đọng | Biện pháp khắc phục |
+|-----------|----------|-----------|
+| - Ghi chép, quản lý việc nuôi dưỡng các mối quan hệ |
+| - Sức khỏe tăng, có thể chạy liên tục 5km, pace dưới 6:00, có thể leo bộ 14 lầu bệnh viện ĐHYD thoải mái <br> - Chạy được longest distance **13km** | - Chạy bộ chưa đều, mỗi này | - Bảng B không cần đua thành tích về khoảng cách <br> - Cố gắng chạy 5km, **pace thấp**, và chạy đều đặn **mỗi ngày**
+| - Đọc sách đều đặn hơn | - Đọc sách **technical chưa đều đặn** |
+| - Quản lý cảm xúc nhiều hơn | - Chưa quản lý được cảm xúc 100%, vẫn có 5% tức giận (**nhưng hậu quả lớn**)
+
+</details>
+
+#### Khó khăn trong 66 ngày qua
+
+3 thứ lớn, tốn nhiều thời gian và công sức nhất
+
+* Ba bị đột quỵ
+* Ôn thi Học kì 5 môn
+* Sửa nhà vệ sinh và phòng ngủ
+
+#### Mục tiêu bảng B
+
+* Không lướt Instagram
+* 100% dậy sớm trước 6h
+* Không nổi giận, buồn chán trong 66 ngày
+
+### Track log
+
+<details close>
 
 STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | Học 5 từ Verbal Advantage | Miscellaneous
 |---|-------|----------|--------------|--------------|---|---|---|---|
@@ -57,56 +101,18 @@ STT | Ngày | Dậy sớm | Thiền | Nhảy dây | Hít đất | Chạy bộ | 
 49  | 12/01 |   7:00   |             |              |          | 2.54km/pace 5:47 |  | - Đọc **Tờ kinh thứ nhất** (sáng) <br> - **Chạy** bộ (sáng) <br> - Dạy thêm
 50  | 13/01 | **5:00** | **15 phút** | Không nhảy   | **150 cái** | Không chạy | |  - Đọc **Tờ kinh thứ nhất** (sáng, chiều, tối) <br> - Đọc Living with a SEAL
 60  | 14/01 |   7:00   | **15 phút** | Không nhảy   | **150 cái** | **7.06km/pace 6:23** | | - Đọc **Tờ kinh thứ nhất** (sáng, chiều, tối) <br> - Dạy thêm <br> - Đọc xong **Living with a SEAL** <br> - Đi **chạy bộ** với Minh Trung, Gia Bảo
- 
-### Cam kết
-
-Tháng 01 này cam kết chạy 169 km
-
-<details close>
-
-| Ngày         | Cự ly    | Pace  |
-|--------------|----------|-------|
-Thứ tư 01/01   | 3.01km   | 6:26
-Thứ năm 02/01  | 1.01km <br> 5.50km   | 5:39 <br> 13:24
-Thứ sáu 03/01  |          |
-Thứ bảy 04/01  |          |
-Chủ nhật 05/01 | 6.73km   | 6:56  |
-|              |          |       |
-Thứ hai 06/01  |
-Thứ ba 07/01   |
-Thứ tư 08/01   |
-Thứ năm 09/01  |
-Thứ sáu 10/01  |
-Thứ bảy 11/01  | 4.02km   | 6:20  |
-Chủ nhật 12/01 | 2.54km   | 5:47
-|              |          |       |
-Thứ hai 13/01  |
-Thứ ba 14/01   | 7.06km   | 6:23
-Thứ tư 15/01   |
-Thứ năm 16/01  |
-Thứ sáu 17/01  |
-Thứ bảy 18/01  |
-Chủ nhật 19/01 |
-|              |          |       |
-Thứ hai 20/01  |
-Thứ ba 21/01   |
-Thứ tư 22/01   |
-Thứ năm 23/01  |
-Thứ sáu 24/01  |
-Thứ bảy 25/01  |
-Chủ nhật 26/01 |
-|              |          |       |
-Thứ hai 27/01  |
-Thứ ba 28/01   |
-Thứ tư 29/01   |
-Thứ năm 30/01  |
-Thứ sáu 31/01  |
-|              |          |       |
+61  | 15/01 |   7:00   |             | Không nhảy   | | **13.15km/pace 6:38** | **CIRCUMSPECT**, **QUIESCENT**, **FOIBLE**, **FERVENT**, **PROTRACT** | - Đọc **Tờ kinh thứ nhất** (sáng, trưa, tối) <br> - Mua đồ sửa phòng <br> - Đọc **What I talk about when I talk about running**
+62  | 16/01 |
+63  | 17/01 |
+64  | 18/01 |
+65  | 19/01 |   5:04   | **15 phút** | Không nhảy   | | Không chạy | 
+66  | 20/01 |	
 
 </details>
-
-
+ 
 ### Nhật ký
+
+<details close>
 
 Ngày 04/12  
 
@@ -219,3 +225,51 @@ Ngày 08/01
 
 > Ngồi family mart kế trường mình (ĐH KHTN), có mấy em trường Lê Hồng Phong ngồi ăn sáng và nói chuyện :D. Phổ Thông Năng Khiếu hay Lê Hồng Phong chỉ giúp người ta **giỏi** thôi, nhưng mà **_xã hội này cần những người_ XUẤT SẮC**  
 
+</details>
+
+## Cam kết
+
+Tháng 01 này cam kết chạy 169 km
+
+<details close>
+
+| Ngày         | Cự ly    | Pace  |
+|--------------|----------|-------|
+Thứ tư 01/01   | 3.01km   | 6:26
+Thứ năm 02/01  | 1.01km <br> 5.50km   | 5:39 <br> 13:24
+Thứ sáu 03/01  |          |
+Thứ bảy 04/01  |          |
+Chủ nhật 05/01 | 6.73km   | 6:56  |
+|              |          |       |
+Thứ hai 06/01  |
+Thứ ba 07/01   |
+Thứ tư 08/01   |
+Thứ năm 09/01  |
+Thứ sáu 10/01  |
+Thứ bảy 11/01  | 4.02km   | 6:20  |
+Chủ nhật 12/01 | 2.54km   | 5:47
+|              |          |       |
+Thứ hai 13/01  |          |       |
+Thứ ba 14/01   | 7.06km   | 6:23  |
+Thứ tư 15/01   | 13.15km  | 6:38  |
+Thứ năm 16/01  |
+Thứ sáu 17/01  |
+Thứ bảy 18/01  |
+Chủ nhật 19/01 |
+|              |          |       |
+Thứ hai 20/01  |
+Thứ ba 21/01   |
+Thứ tư 22/01   |
+Thứ năm 23/01  |
+Thứ sáu 24/01  |
+Thứ bảy 25/01  |
+Chủ nhật 26/01 |
+|              |          |       |
+Thứ hai 27/01  |
+Thứ ba 28/01   |
+Thứ tư 29/01   |
+Thứ năm 30/01  |
+Thứ sáu 31/01  |
+|              |          |       |
+
+</details>
