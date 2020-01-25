@@ -187,3 +187,5 @@ Kiến Quốc Quân theo Nhật đi qua ngả Đồng Đăng đánh thành Lạn
 > http://jeffersonpapers.princeton.edu/  
 
 \***
+
+Nguồn [5xublog](https://5xublog.wordpress.com/2014/01/19/trong-vo-hat-de/)
