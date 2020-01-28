@@ -39,3 +39,26 @@ Mà đó mới là một câu văn gần như là dễ nhất trong Lolita!
 " width="75%"></img>
 </details>
 
+## 
+
+Dạo này làng văn VN lại rôn lên với mấy nhà văn Mỹ Pháp từng sinh ra ở VN. Người Việt còn có cái tính thấy người sang bắt quàng làm họ, thì phải.
+
+Với tôi thì Nguyễn Thanh Việt, Linda Lê hay ngay cả Trần Anh Hùng là những nghệ sỹ chẳng liên quan quái gì đến VN cả.
+
+Con người thuộc về dân tộc nào là do họ tư duy bằng ngôn ngữ dân tộc đó. Những khái niệm về màu da, nơi sinh, quốc tịch cha mẹ hay thậm chí ADN đều tuyệt đối vô nghĩa.
+
+Bạn có thể là con của một ông Nga thuần chủng với bà Thái Lan thuần chủng, và được sinh ra ở Đức, nhưng nếu bạn nghĩ bằng tiếng Việt thì bạn chắc chắn sẽ là người Việt, với tất cả những đặc tính của dân tộc Việt. Còn bạn có đẻ ra và lớn lên ở VN nhưng bạn tư duy được bằng tiếng Anh thì bạn sẽ hoàn toàn chẳng liên quan gì đến tộc người ở mảnh đất hình con giun dưới đít con voi này cả.
+
+Ông Nguyễn Thanh Việt sinh ra năm 1971, đi Mỹ năm 1975, thời gian ông ấy ở VN còn ít hơn nhiều lần so với thời gian tôi ở Nga, chẳng hạn, nhưng không bao giờ trong đầu tôi lại nghĩ mình là một nhà văn Nga. Vì với tôi, chẳng hạn, bướm là bướm chứ không phải **пизда**.
+
+Ngôn ngữ vô cùng quan trọng, vì bạn dùng nó để tư duy, không bao giờ có sự trùng hợp tuyệt đối giữa nghĩa các từ tương đương của hai ngôn ngữ. Bạn chỉ có thể tìm được khoảng 80% trùng hợp ngữ nghĩa đã là giỏi lắm rồi, vì bản chất ngôn ngữ thể hiện nhân sinh quan và thế giới quan của một dân tộc.
+
+Bởi vậy, hãy ngừng gọi Linda Lê hay Nguyễn Thanh Việt hay bất cứ nghệ sỹ không-biết-tiếng-Việt nào là người Việt nữa đi, nước Việt này với họ chỉ là một cái nhà hộ sinh tồi tàn, không hơn, không kém.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-01-28%20at%208.59.23%20PM.jpg" width="75%"></img>
+</div>
+
+_(Chú thích của người tổng hợp: пизда - pussy/vagina)_
+
+
