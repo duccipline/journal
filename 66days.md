@@ -21,7 +21,8 @@ STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Ver
  05 | 01/02 | - Đọc Tờ kinh thứ hai &rarr; **ok (sáng, chiều, tối)** | Muộn | | Chạy bộ 2km/pace 6:46 | | [Images](https://drive.google.com/open?id=11OjMBZK9Lup18Nmyz95bFAXP_v9hlGz6) <br> - Làm 2 bài Codeforces <br> - Đo huyết áp ba (**trưa, chiều, tối**)
  06 | 02/02 |          | 6:00 | | Chạy bộ 2.6km | | [Images](https://drive.google.com/open?id=12BWic2CJAy8mlL7D-yDTkoEEh-60zzdD) <br> - Đo huyết áp cho ba (**sáng**, **trưa**, **chiều**, **tối**) <br> - Đọc Tờ kinh số 2 (sáng, chiều, tối)
  07 | 03/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:06 | 3:30 phút ||| - Dọn rác tất cả email <br> - Dọn rác facebook cá nhân
- 08 | 04/-2 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:00 | 
+ 08 | 04/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:00 | 
+ 09 | 05/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba <br> - Ngồi thiền | 6:00 |
  
 #### Mục tiêu bảng B
 
