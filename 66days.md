@@ -8,10 +8,11 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc | Miscellaneous
 |---|------|----------|----------|---|---|---|---|
-|00|**08/02**| | | | - Đo huyết áp cho ba **sáng, chiều, tối** <br> - Tập vật lý trị liệu cho ba **tối** | - Đọc Tôi tự học **hết chương 2** | - Gắn 4 bóng đèn ở phòng khách và bếp <br> - Dạy Phúc <br> - Làm Codeforces 
-|01|09/02| | - Dậy sớm **5:08** <br> - Chạy 2.12km (6:38) + 1.04km (5:51) <br> - Đi bộ 1.24km | | - Đo huyết áp cho ba **sáng, trưa, chiều** <br> - Tập vật lý trị liệu cho ba **chiều** | | - Làm Codeforces <br> - Nghe phỏng vấn cố GS Tôn Thất Tùng <br> 
-|02|10/02| - Thiền **failed** | - Dậy 6:00 <br> - Đi bộ 1.69km <br> - Ngủ trễ | | - Đo huyết áp cho ba (**sáng, trưa, chiều**) | - Đọc Tôi tự học (**hết chương 3**) <br> - Đọc Blog Uxlagi (**12 articles** đầu) | 
-|03|11/02| - Thiền <br> - Hít đất <br> - Chạy bộ | - Dậy trễ <br> | | | 
+|00|**08/02**| | | | - Đo huyết áp cho ba **sáng, chiều, tối** <br> - Tập vật lý trị liệu cho ba **tối** | - Đọc Tôi tự học **hết chương 2** <br> - Đọc blog procul.org | - Gắn 4 bóng đèn ở phòng khách và bếp <br> - Dạy Phúc <br> - Làm Codeforces <br> - Nghe Tchaikovsky
+|01|09/02| | - Dậy sớm **5:08** <br> - Chạy 2.12km (6:38) + 1.04km (5:51) <br> - Đi bộ 1.24km | | - Đo huyết áp cho ba **sáng, trưa, chiều** <br> - Tập vật lý trị liệu cho ba **chiều** | - Đọc blog procul.org | - Làm Codeforces <br> - Nghe phỏng vấn cố GS Tôn Thất Tùng <br> - Nghe Bach
+|02|10/02| - Thiền **failed** | - Dậy 6:00 <br> - Đi bộ 1.69km <br> - Ngủ trễ | | - Đo huyết áp cho ba (**sáng, trưa, chiều**) | - Đọc Tôi tự học (**hết chương 3**) <br> - Đọc Blog Uxlagi (**12 articles** đầu) <br> - Đọc blog procul.org | - Nghe Bach <br> - Mua đồ ăn cho chó
+|03|11/02| - Thiền **failed** <br> - Hít đất **ok** <br> - Chạy bộ **failed** | - Dậy trễ <br> - Hít đất 50 (30 + 20) cái (chống giường) <br> - Ngủ sớm | | - Đo huyết áp cho ba (**sáng, trưa, chiều, tối**) | - Đọc hết tất cả bài trên Uxlagi (26 bài) <br> - Đọc Tôi tự học (**hết chương 4**) <br> - Đọc blog vuhavan.wordpress.com | - Nghe Bach
+|04|12/02| - Tập VLTL cho ba <br> Thiền <br> - Hít đất **ok** <br> - Chạy bộ | - Dậy sớm 5:00 <br> | | | - Đọc và **viết note** Làm chủ tuổi 20 (**chương 2, 3**)
 
 ## Bảng B
 
