@@ -1,5 +1,18 @@
 # 66 Ngày thử thách
 
+## Bảng B2
+
+Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên
+
+### Tracklog
+
+STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc | Miscellaneous
+|---|------|----------|----------|---|---|---|---|
+|00|**08/02**| | | | - Đo huyết áp cho ba **sáng, chiều, tối** <br> - Tập vật lý trị liệu cho ba **tối** | - Đọc Tôi tự học **hết chương 2** | - Gắn 4 bóng đèn ở phòng khách và bếp <br> - Dạy Phúc <br> - Làm Codeforces 
+|01|09/02| | - Dậy sớm **5:08** <br> - Chạy 2.12km (6:38) + 1.04km (5:51) <br> - Đi bộ 1.24km | | - Đo huyết áp cho ba **sáng, trưa, chiều** <br> - Tập vật lý trị liệu cho ba **chiều** | | - Làm Codeforces <br> - Nghe phỏng vấn cố GS Tôn Thất Tùng <br> 
+|02|10/02| - Thiền **failed** | - Dậy 6:00 <br> - Đi bộ 1.69km <br> - Ngủ trễ | | - Đo huyết áp cho ba (**sáng, trưa, chiều**) | - Đọc Tôi tự học (**hết chương 3**) <br> - Đọc Blog Uxlagi (**12 articles** đầu) | 
+|03|11/02| - Thiền <br> - Hít đất <br> - Chạy bộ | - Dậy trễ <br> | | | 
+
 ## Bảng B
 
 > _Be **EXCELLENT**_
@@ -22,7 +35,10 @@ STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Ver
  06 | 02/02 |          | 6:00 | | Chạy bộ 2.6km | | [Images](https://drive.google.com/open?id=12BWic2CJAy8mlL7D-yDTkoEEh-60zzdD) <br> - Đo huyết áp cho ba (**sáng**, **trưa**, **chiều**, **tối**) <br> - Đọc Tờ kinh số 2 (sáng, chiều, tối)
  07 | 03/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:06 | 3:30 phút ||| - Dọn rác tất cả email <br> - Dọn rác facebook cá nhân
  08 | 04/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:00 | 
- 09 | 05/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba <br> - Ngồi thiền | 6:00 |
+ 09 | 05/02 | - Đọc Tờ kinh số 2 &rarr; ok (**sáng, trưa**) <br> - Đo huyết áp cho ba <br> - Ngồi thiền | 6:00 | **15 phút** | | | - Mua quà sinh nhật
+ 10 | 06/02 | | **11:00** | **10 phút** + **6 phút**| | | - Nghe Chopin <br> - Đọc Tờ kinh số 2 (**sáng, trưa,** [**tối**](https://www.youtube.com/watch?v=2RGnHjoS93Y))
+
+ 
  
 #### Mục tiêu bảng B
 
