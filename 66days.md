@@ -29,8 +29,11 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 
 ### Track log
 
+<details close>
+<summary>Bảng B</summary>
+
 STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Verbal Advantage | Miscellaneous
-|---|-------|----------|--------------|--------------|---|---|---|---| 
+|---|-------|----------|--------------|--------------|---|---|---|
 |00| 21/01 | BREAK | DAY
 |01| 22/01 | - Thiền 15 phút <br> - Đo huyết áp cho ba (sáng, chiều, tối) <br> - Đọc Tờ kinh thứ nhất (sáng, trưa, tối) <br> - Hít đất 100 cái &rarr; **60 cái** <br> - Chạy bộ &rarr; **Không chạy** <br> - Học 5 từ &rarr; **Không học** | **5:15** | | - Hít đất 20 reps x 3 = 60 cái| | - [Images](https://drive.google.com/drive/folders/1J5X3UAuJJB_tQ0GEYZzqNIgYeYCq6jAg?usp=sharing) <br> - [Videos](https://www.youtube.com/channel/UCl8pNKuaWqaxtXYYltO-xYw/videos) <br> - Đọc **Tờ kinh thứ nhất** (sáng) <br> - Đo huyết áp cho ba (sáng) <br> - Hít đất <br> - Soạn Daily Interview Question <br> - Đọc hết Alpha Woman <br> - **Tối về ngủ quên**
 |02| 23/01 | | 7:00 | | - Hít đất 20 reps x 1 = **20 cái** | | - Up ảnh iphone lên iDrive, làm sạch bộ nhớ iphone
@@ -47,8 +50,8 @@ STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Ver
  08 | 04/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:00 | 
  09 | 05/02 | - Đọc Tờ kinh số 2 &rarr; ok (**sáng, trưa**) <br> - Đo huyết áp cho ba <br> - Ngồi thiền | 6:00 | **15 phút** | | | - Mua quà sinh nhật
  10 | 06/02 | | **11:00** | **10 phút** + **6 phút**| | | - Nghe Chopin <br> - Đọc Tờ kinh số 2 (**sáng, trưa,** [**tối**](https://www.youtube.com/watch?v=2RGnHjoS93Y))
-
  
+</details>
  
 #### Mục tiêu bảng B
 
