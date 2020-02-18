@@ -4,22 +4,24 @@
 
 Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
-> Từ người bạn học 40tr
+> Từ người bạn học lương 40tr
 > ![https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg)
 
 ### Tracklog
 
-STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc | Miscellaneous
-|---|------|----------|----------|---|---|---|---|
+STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
+|---|------|----------|----------|---|---|---|---|---|
 |00|**08/02**| | | | - Đo huyết áp cho ba **sáng, chiều, tối** <br> - Tập vật lý trị liệu cho ba **tối** | - Đọc Tôi tự học **hết chương 2** <br> - Đọc blog procul.org | - Gắn 4 bóng đèn ở phòng khách và bếp <br> - Dạy Phúc <br> - Làm Codeforces <br> - Nghe Tchaikovsky
 |01|09/02| | - Dậy sớm **5:08** <br> - Chạy 2.12km (6:38) + 1.04km (5:51) <br> - Đi bộ 1.24km | | - Đo huyết áp cho ba **sáng, trưa, chiều** <br> - Tập vật lý trị liệu cho ba **chiều** | - Đọc blog procul.org | - Làm Codeforces <br> - Nghe phỏng vấn cố GS Tôn Thất Tùng <br> - Nghe Bach
 |02|10/02| - Thiền **failed** | - Dậy 6:00 <br> - Đi bộ 1.69km <br> - Ngủ trễ | | - Đo huyết áp cho ba (**sáng, trưa, chiều**) | - Đọc Tôi tự học (**hết chương 3**) <br> - Đọc Blog Uxlagi (**12 articles** đầu) <br> - Đọc blog procul.org | - Nghe Bach <br> - Mua đồ ăn cho chó
 |03|11/02| - Thiền **failed** <br> - Hít đất **ok** <br> - Chạy bộ **failed** | - Dậy trễ <br> - Hít đất 50 (30 + 20) cái (chống giường) <br> - Ngủ sớm | | - Đo huyết áp cho ba (**sáng, trưa, chiều, tối**) | - Đọc hết tất cả bài trên Uxlagi (26 bài) <br> - Đọc Tôi tự học (**hết chương 4**) <br> - Đọc blog vuhavan.wordpress.com | - Nghe Bach
 |04|12/02| - Tập VLTL cho ba <br> Thiền <br> - Hít đất **ok** <br> - Chạy bộ | - Dậy sớm 5:00 <br> | | | - Đọc Tờ kinh số 2 (**sáng**) <br> - Đọc và **viết note** Làm chủ tuổi 20 (**chương 2, 3**) <br> 
 |05|13/02| | - Ngủ sớm <br> | | - Đo huyết áp cho ba (**sáng, trưa, chiều, tối**)
-|06|14/02| | - Dậy 6:00 <br> - Ngủ sớm | - Đọc Ba người thầy vĩ đại | - Đo huyết áp cho ba (**sáng, tối**) | | - CS386 (online meeting)
-|07|15/02| | - Dậy trễ <br> - Ngủ trễ | - Đọc Ba người thầy vĩ đại | - Đo huyết áp cho ba (**trưa, chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | | - Làm Codeforces
-|08|16/02| - Học 10 từ Verbal Advantage <br> - Đọc procul.org
+|06|14/02| | - Dậy 6:00 <br> - Ngủ sớm | |- Đo huyết áp cho ba (**sáng, tối**) | - Đọc Ba người thầy vĩ đại | - CS386 (online meeting)
+|07|15/02| | - Dậy trễ <br> - Ngủ trễ | | - Đo huyết áp cho ba (**trưa, chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | - Đọc Ba người thầy vĩ đại | - Làm Codeforces
+|08|16/02| | - Dậy 6:00 <br> - Hít đất 60 cái | | - Đo huyết áp cho ba (**trưa, chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | - Đọc Ba người thầy vĩ đại (**phần 5, 6, 7**) <br> - Video [Deep Learning MIT](https://www.youtube.com/watch?v=njKP3FqW3Sk) <br> - Đọc và lưu trữ bài Thiên Lương <br> - Đọc Tờ kinh số 2 (**sáng, trưa, tối**) | - Nghe live chú Dean Nguyen <br> - Nghe Chopin <br> - Tắm chó
+|09|17/02| | - Dậy sớm 4:30 | | - Đo huyết áp cho ba (**sáng, trưa, chiều, tối**) <br> - Đi siêu thị với ba má | - Video Deep Learning MIT | - Nghe [anh Trí](https://www.youtube.com/watch?v=ruACUGBa0WE) <br> - Nghe [Dr. Wynn Tran](https://www.youtube.com/watch?v=4GTFQ2hRVKE) <br> - Nghe Mozart <br> - Đi cắt tóc <br> - Dọn dẹp để sửa phòng khách | - Nhức đầu cả buổi chiều
+|10|18/02| | - Dậy 7:00 | | | - Chiến [MIT Recurrrent Neural Network](https://www.youtube.com/watch?v=SEnXr6v2ifU) | - Dọn dẹp (tiếp tục sửa phòng khách) | - Sáng ngủ dậy hơi chán nản <br> - Ăn sáng cơm sườn xong đỡ hơn chút, giờ chiến tiếp thôi &rarr; Cố lên
 
 ## Bảng B
 
