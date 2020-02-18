@@ -42,8 +42,8 @@ STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Ver
 
 **Nghỉ tết 26, 27, 28, 29, 30, 31 (mùng 2, 3, 4, 5, 6, 7)**
 
-STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Verbal Advantage | Miscellaneous
-|---|-------|----------|--------------|--------------|---|---|---|---| 
+| STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Verbal Advantage | Miscellaneous
+|---|-------|----------|--------------|--------------|---|---|---|
  05 | 01/02 | - Đọc Tờ kinh thứ hai &rarr; **ok (sáng, chiều, tối)** | Muộn | | Chạy bộ 2km/pace 6:46 | | [Images](https://drive.google.com/open?id=11OjMBZK9Lup18Nmyz95bFAXP_v9hlGz6) <br> - Làm 2 bài Codeforces <br> - Đo huyết áp ba (**trưa, chiều, tối**)
  06 | 02/02 |          | 6:00 | | Chạy bộ 2.6km | | [Images](https://drive.google.com/open?id=12BWic2CJAy8mlL7D-yDTkoEEh-60zzdD) <br> - Đo huyết áp cho ba (**sáng**, **trưa**, **chiều**, **tối**) <br> - Đọc Tờ kinh số 2 (sáng, chiều, tối)
  07 | 03/02 | - Đọc Tờ kinh số 2 <br> - Đo huyết áp cho ba &rarr; **đo (sáng, trưa, chiều, tối)**         | 6:06 | 3:30 phút ||| - Dọn rác tất cả email <br> - Dọn rác facebook cá nhân
