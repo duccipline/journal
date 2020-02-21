@@ -1,4 +1,197 @@
-## Nhập môn cờ bạc
+# Nhật Bản 
+
+February 18 at 11:52 AM 
+
+GDP đầu người Nhật hiện nay 43 ngàn, gấp 3 VN, nếu bạn cứ rơi đều mỗi năm 3-5%, còn mình tăng 6-7% thì 10 năm nữa VN ngang Nhật về mức sống.
+
+Nhật còn kiếm được bằng cách lừa vốn ODA vay nặng lãi và bán xe máy xe hơi cho lũ ngu vịt ngan, chứ nếu lũ ấy bớt me Tây đi thì Nhật còn suy thoái nặng nữa.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/85242422_278410739803059_3582312701243686912_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/85242422_278410739803059_3582312701243686912_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.22.21%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.22.34%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.22.44%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.23.11%20PM.jpg"></img>
+<img width="50%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86807895_10158337468039668_6148665031945879552_n.jpg"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.23.41%20PM.jpg"></img>
+</details>
+
+
+# Tình yêu là cái bọn đểu nghĩ ra để không mất tiền, Tình yêu tổ quốc là cái bọn đểu nghĩ ra để kiếm tiền
+
+February 17 at 3:02 PM ·
+
+Tình yêu là cái bọn đểu nghĩ ra để không mất tiền
+Tình yêu tổ quốc là cái bọn đểu nghĩ ra để kiếm tiền
+
+Thầy quen một ông bác toàn qua Tàu mua bánh kẹo sắp hết đát về làm hộp thương hiệu Việt rồi đem bán đầy siêu thị, bây giờ có mấy trăm tỷ. Nhưng đi nhậu vẫn ngoạc mồm ra chửi Tào và chính phủ làm ăn gian dối.
+
+Có hôm thấy thầy nhìn ổng kỹ quá, ổng mới sực nhớ ra là công ty thầy làm hộp bánh kẹo cho ổng, ổng đành cười trừ, bảo quen miệng rồi chứ ơn Tàu còn hơn ơn bố mẹ.
+
+Đến khổ.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86479044_277856563191810_8564069272446304256_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86479044_277856563191810_8564069272446304256_n.jpg)
+
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.39.06%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.39.36%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.39.56%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.40.09%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.40.22%20AM.jpg">
+</details>
+
+
+# Mr. Nam Phan
+
+February 16 at 3:21 PM ·
+
+Trong giới chơi chứng khoán có 1 trường phái rất đông đệ tử được gọi với cái tên mỹ miều là TA, viết tắt từ chữ tiếng Anh đại ý "Phân tích Kỹ thuật".  
+
+Tín đồ của trường phái này cho rằng dựa trên các dữ liệu quá khứ có thể đoán được tương lai. Có rất nhiều lý thuyết, tựu trung lại là phân tích biểu đồ giá và khối lượng giao dịch quá khứ rồi suy ra sắp đến sẽ lên hay xuống. Cũng dùng toán học rất kinh.  
+
+Tuy nhiên theo thầy thì đó là một trò bịp bợm trắng trợn, chẳng khác gì bọn bán vé số vẫn chìa ra cho bạn xem cuốn sổ ghi kết quả các đài gần đây, để bạn lựa số mà mua. Chỉ khác là bọn bán vé số này ăn mặc lịch sự hơn, và có máy tính mà thôi.  
+
+Bọn môi giới TA này được sinh ra từ nhu cầu của các công ty chứng khoán nhằm lôi kéo các khách hàng có máu cờ bạc, và để tăng khối lượng giao dịch nhằm lấy phí mua bán, phí ứng tiền, và đủ các thứ phí khác.  
+
+Từ khi VN cho phép đánh phái sinh, một hình thức thuần tuý cờ bạc, thì nạn nhân của bọn này ngày càng nhiều. Thực ra cũng không thể nói nạn nhân theo đúng nghĩa, vì họ đều ý thức được và tự nguyện tham gia ván bạc, và với động cơ tham lam, muốn kiếm tiền nhanh và dễ mà thôi.  
+
+Đánh TA có thể lỗ cực nhanh và cực nhiều, đơn giản vì người ta luôn dùng đòn bẩy tài chính, như thầy từng giải thích, với đòn bẩy tài chính thì bạn có thể mất trắng sau 3 ngày thị trường lao dốc, và cũng có thể được gấp đôi. Nhưng mất thì dĩ nhiên nhiều hơn được, vì sòng bạc nào cũng mất phí cho nhà cái.  
+
+Mỗi năm, 2 sở giao dịch chứng khoán HN, SG thu biết bao nhiêu phí, các công ty chứng khoán nuôi biết bao nhân viên, ngân hàng cũng chăn của các bạn đủ thứ phí khác nhau, đó chính là tiền của nhà cái.  
+
+Vậy nên bạn đánh bạc thì phải xác định là thua nhiều hơn được, đơn giản vậy thôi. Và cũng nên học cách thua!  
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86193635_277189386591861_3391291135946129408_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86193635_277189386591861_3391291135946129408_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.23.15%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.24.39%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.25.12%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.25.28%20AM.jpg">
+
+</details>
+
+# DSCT
+
+February 12 at 11:54 AM
+
+2050 mới làm xong đường sắt tốc độ 350km/h? Sợ đến lúc đó thì công nghệ đã cho phép đường sắt chạy đến 1000km/h rồi, thậm chí cao hơn. TQ làm đường sắt cao tốc cho Lào và Miên có vài năm là xong. Chúng ta ngồi bàn chuyện 30 năm nữa, mà mỗi năm trong thời đại này là cả một quãng thời gian dài về công nghệ và kinh tế. Đúng là...
+
+Lũ chúng ta ngủ trong giường chiếu hẹp
+Giấc mơ con đè nát cuộc đời con!
+
+Cụ Chế Lan Viên làm thơ có tầm nhìn xa phết.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84921806_274370943540372_8028690745617547264_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84921806_274370943540372_8028690745617547264_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.05.46%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.05.54%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.06.07%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.06.23%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.06.32%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.06.41%20AM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.06.56%20AM.jpg"></img>
+<img width="35%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/85183722_2209925719111144_8241177719941890048_o.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.11.17%20AM.jpg"></img>
+</details>
+
+# Vài ảnh hưởng từ dịch bệnh lên VN trong thời gian sắp tới:
+
+February 6 at 8:46 AM
+
+- BĐS Đà Nẵng, Nha Trang sụp đổ. Giá những khu này vốn đã quá ảo, và được nuôi sống nhờ các condotel lừa đảo cũng như các dịch vụ du lịch với khách TQ. Đến Nha Trang bạn sẽ không có cảm giác đây là VN nữa vì có những con hẻm bán đồ ăn mà xung quanh toàn nói tiếng Tàu, kể cả người bán. Thậm chí bạn vào ăn họ cũng hỏi bạn bằng tiếng Tàu. Có những kẻ ngây thơ hy vọng là người TQ không qua sẽ có người Tây, đúng là ngu. Tây làm gì có tiền? Tây qua đây du lịch toàn tiêu mỗi ngày 10 đô, vì bản chất bọn nó nghèo và vé máy bay quá đắt, với cả Tây không thể nuốt được cái gì của VN ngoài gái. Chỉ có Tàu mới xơi được những thứ kinh dị ở VN như món ăn lề đường và quán nhậu.
+
+- Nông nghiệp sụp đổ luôn. Trái cây VN biết bán cho ai ngoài Tàu? Một thị trường quá dễ tính do thói quen ăn uống như người Việt và kiểm soát chất lượng sơ sài hơn Tây, và quan trọng nữa là chi phí vận chuyển rẻ. Thử chuyển lợn hay mít qua Pháp xem giá đội lên bao nhiêu?
+
+- Các thương hiệu Việt cũng tèo thảm, vì xe máy điện, điện thoại di động và đủ thứ ba lăng nhăng vẫn tự cho mình là hàng Việt thật ra toàn hàng Tàu dán nhãn. Người Việt giỏi nhất là đi buôn đất và lừa nhau bằng hàng Tàu, ngoài đất ra, chưa có doanh nghiệp VN nào kiếm được tiền từ công nghệ. Nói thế cho nhanh.
+
+- Bank khó khăn, do ngành ngân hàng VN dựa trên cơn sốt đất ảo, có những doanh nghiệp nợ hàng chục tỷ đô la Mỹ. Đất đứng lại cái là lòi mặt chuột ra ngay. Rồi nông dân khó khăn cũng kéo theo hàng loạt hệ luỵ.
+
+Vậy nên hãy bỏ cổ phiếu các công ty BDS và sản xuất, nông nghiệp ở VN, thậm chí các ngân hàng nhỏ và yếu, và tránh bão ở một số công ty có mạng lưới bán lẻ, phân phối tốt.
+
+Chúc mọi người vượt qua cơn bão.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84249068_270162040627929_139410386410536960_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84249068_270162040627929_139410386410536960_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.04.49%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.05.04%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.05.13%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.05.21%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.05.34%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.10.46%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.10.57%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.11.09%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.11.22%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.11.42%20PM.jpg"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.12.13%20PM.jpg?raw=true"></img>
+<img width="50%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84448472_10216098432481550_2204116824772050944_n.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.12.28%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.12.43%20PM.jpg"></img>
+<img width="50%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84336362_3030343380333694_497139831697047552_n.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.13.08%20PM.jpg"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.13.17%20PM.jpg?raw=true"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.13.26%20PM.jpg?raw=true"></img>
+</details>
+
+# Lại GDP
+
+February 5 at 10:48 AM
+
+Tốc độ tăng GDP Mỹ bắt đầu giảm mạnh (2.1%) và không bao giờ đạt được con số 4% cụ cam kết, nhưng mà cụ lờ tịt đi. Còn cái sòng bạc chứng khoán Mỹ nó tăng vì cụ giảm thuế cho doanh nghiệp và tăng thuế nhập khẩu, một hình thức cướp của người nghèo chia cho người giàu chứ có gì đâu? Chưa kể ngân sách thâm hụt khủng khiếp. Các tổng thống sau Trump sẽ phải giải quyết một nước Mẽo tan hoang.
+
+Năm nay tốc độ tăng GDP của Tàu mà giảm dưới 6% thì Mỹ cũng xác định tăng trưởng giảm xuống dưới 2%.
+
+Một nghịch lý là những kẻ tự cho là theo dân chủ thì lại ủng hộ một nhân vật còn độc tài hơn vua và luôn đả kích tư tưởng dân chủ tại Mỹ.
+
+Nên mới nói chó trung thành với chủ bất kể chủ có thế nào là vậy.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83849816_269600254017441_5911877063941292032_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83849816_269600254017441_5911877063941292032_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.55.37%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.55.51%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.56.02%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.56.16%20PM.jpg">
+</details>
+
+# Thị trường phản ứng lại với phi thị trường.
+
+February 3 at 3:24 PM
+
+Trong nền kinh tế tự do, giá cả là do cung cầu. Cung cao, cầu ít thì giá giảm thậm chí về 0 (ví dụ hoa đêm giao thừa). Cung ít, cầu cao thì giá lên cao, thậm chí nếu cung ít quá thì đội nóc, ví dụ hoa hậu. Có mỗi 1 cái mà mấy ngàn thằng đòi mua gì chả cao. Không thể bắt hoa hậu bình ổn giá được.
+
+Khi cầu tăng đột biến thì giá lên còn do giá sản xuất lên, vì chuỗi cung ứng phản ứng dây chuyền, cái gì cũng lên hết.
+
+Giá lên khi cầu lên còn là một biểu hiện của nền kinh tế lành mạnh, vì khi giá lên tự khắc dòng vốn sẽ chảy vào đó để đẩy mạnh sản lượng, rồi thị trường sẽ tự cân bằng giá ở mức mới. Ví dụ điển hình là các cuộc thi hoa hậu, do giá các em quá cao, nên sinh ra vô số cuộc thi để tăng cung lên, đơn giản vậy thôi.
+
+Đó là những bài học căn bản nhất của kinh tế tư bản, và hay được gọi bằng cái tên hoa mỹ là Bàn tay vô hình của Adam Smith.
+
+Lắm kẻ tôn thờ chủ nghĩa tư bản mà tư duy kiểu xã hội chủ nghĩa.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83522662_268452920798841_2629213961672720384_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83522662_268452920798841_2629213961672720384_n.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.33.58%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.34.41%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.35.04%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.36.18%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.36.27%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.36.47%20PM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.36.53%20PM.jpg">
+</details>
+
+# Nhập môn cờ bạc
 
 Thứ Bảy chiều gần Tết chả có việc gì làm, thôi lại làm một bài nhập môn cờ bạc cho anh chị em nào nghĩ làm giàu không khó.  
 
@@ -32,7 +225,7 @@ Nên đại sư phụ tôi mới dạy: Trong ván bài, nếu sau 15p mà bạn
 
 ![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/82704440_264402731201883_928647636783726592_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/82704440_264402731201883_928647636783726592_n.jpg)
 
-## Đàn ông vui tính
+# Đàn ông vui tính
 
 Có cái chuyện cười mà tôi thích, thế này: một cô gái nói với bạn: Thực ra không phải mình thích đàn ông giàu đâu, mà mình thích đàn ông vui tính thôi, nhưng không giàu làm sao mà vui được.
 
@@ -50,7 +243,7 @@ Lắm lúc cũng thương người Tàu, tự dưng thành ra một ông ba bị
 
 ![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83107091_267549407553882_1753533124303650816_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83107091_267549407553882_1753533124303650816_n.jpg)
 
-## Vay lãi
+# Vay lãi
 
 Lâu lâu báo chí lại đưa tin một vụ lừa vài trăm tỷ ở quê vì cho vay lãi suất cao. Tuy nhiên thực tế, những vụ kiểu này nói cho cùng thì tất cả những ai tham gia vào nó đều lừa đảo cả.  
 
@@ -64,7 +257,7 @@ Hướng giải quyết các vụ thế này rất đơn giản nếu lấy đư
 
 mà thực ra thì cứ nghe kiểu lãi suất 5%, 10% có vẻ ác quá, chứ các bạn vào VinMART, TGDD, FPT hay Nguyễn Kim, chúng nó cũng chém các bạn một nhát 20% tỉnh bơ, có sao đâu.  
 	
-## Nhưng chúng ta cũng cần những câu chuyện hài hước để sống.
+# Nhưng chúng ta cũng cần những câu chuyện hài hước để sống.
 
 Bọn không tư duy kinh tế luôn có xu hướng cho rằng trong một giao dịch mua bán luôn có kẻ thua người thắng. Do chúng bị ám ảnh bởi kiểu tư duy nông dân là mọi sản phẩm đều phải có một giá sản xuất nào đó. Kiểu như cộng hết tiền giống, tiền phần, tiền công, tiền thuốc trừ sâu, vân vân thì nó ra giá cân thóc bao nhiêu đó. Giao dịch tốt là bán có lãi.  
 
@@ -78,7 +271,7 @@ Tiếc thay, vẫn còn vô số những con bò mang danh "chuyên gia kinh t�
 
 Nhưng chúng ta cũng cần những câu chuyện hài hước để sống.  
 
-## Trách nhiệm chính trị
+# Trách nhiệm chính trị
 
 Vấn đề của giới siêu giàu VN là họ chưa ý thức được trách nhiệm chính trị của mình. Mọi hệ thống chính trị và tôn giáo đều được người giàu sáng tạo ra để người nghèo không giết họ. Nhưng người giàu VN chưa đủ thời gian để hiểu được điều đó, mà không ít kẻ ngây thơ, có hàng trăm tỷ đồng, vẫn cứ đứng cùng bọn bần cố nông để chống phá hệ thống chính trị. Thậm chí lên phây búc chửi bới như đúng rồi.  
 
@@ -119,7 +312,7 @@ Người siêu giàu Việt Nam hãy đoàn kết lại.
 </ul>  
 </details>
 
-## 80/20
+# 80/20
 
 Có một quy luật thú vị được đặt theo tên Vilfredo Pareto, người phát hiện ra rằng 80% đất đai ở Ý do 20% số dân sở hữu. Quy luật này khái quát hóa tỷ lệ 80/20 lên và cho rằng 80% kết quả là do 20% nguyên nhân gây ra. Ví dụ:  
 
@@ -147,7 +340,7 @@ Nếu hiểu quy luật tự nhiên thì sẽ thấy mọi chuyện liên quan �
 <img src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/1024px-Karl_Marx.jpg" width="50%"></img>
 </div>
 
-## If you keep going over the past, you're going to end up with a thousand pasts and no future
+# If you keep going over the past, you're going to end up with a thousand pasts and no future
 
 Với dân tộc của mình không có bài học nào đáng học hơn là câu này (của Tây)  
 
@@ -161,7 +354,7 @@ Thực ra đó cũng là bài học cơ bản trong kinh tế. Những gì bạn
 
 Tiếc là cái dân tộc này 4000 năm con trâu đi trước cái cày theo sau, tư duy bần cố, không hiểu gì về thương mại, nên cứ chết chìm với quá khứ.  
 
-## Speaking words of wisdom: let it be.
+# Speaking words of wisdom: let it be.
 
 Quá nhiều bạn sốc với sự sụt giá của chứng khoán. Thầy muốn chia sẻ vài điều thế này:  
 
@@ -181,7 +374,7 @@ Nói cho ngắn gọn thì hãy "speaking words of wisdom: let it be."
 
 ![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83200655_267552434220246_224754070936616960_n.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83200655_267552434220246_224754070936616960_n.jpg)
 
-## Tinh trùng đại gia
+# Tinh trùng đại gia
 
 Nói chung ở đời có những chuyện biết là không vui nhưng ta vẫn phải chịu, chẳng hạn như chuyện một số kẻ may mắn hơn ta chỉ vì được tinh trùng đại gia rơi vào đầu. Chứ sao, hằng ngày trên thế giới có hàng triệu tỷ con tinh trùng đại gia chết đuối trong toa-lét, chết ngạt trong bao cao su, chết đói vì đi lạc, chết khát vì thiếu nước,... vậy mà có con rơi trúng đầu người ta, hẳn là cũng có duyên tự ngàn kiếp, may còn hơn trúng số Vietlot ba lần liên tiếp.  
 
@@ -191,7 +384,7 @@ Mặt khác thì việc được lớn lên trong một gia đình dòng dõi c�
 
 Nên thay vì hậm hực với bọn may mắn được tinh trùng xịn rơi vào đầu thì hãy đi kiếm vợ được tinh trùng xịn rơi vào đầu, như nhiều người tử tế VN đã, đang và sẽ làm. Việc bạn không phải con đại gia là do kiếp trước bạn chưa biết cách tu, nhưng việc kiếp này bạn lấy vợ không phải con đại gia thì là do bạn chưa ngộ ra chân lý, chứ sao?  
 
-## Cuộc chiến thứ 2
+# Cuộc chiến thứ 2
 
 Vấn đề 1 là sự phân hoá giàu nghèo đang tăng nhanh ở VN. Thật ra cũng phải chấp nhận sự thật này thôi vì người nghèo ở đâu cũng như nhau, dù VN hay Mỹ thì cũng nợ nần, vắt mũi không đủ đút miệng, chết còn chưa hết nợ. Thậm chí bọn nghèo ở Mỹ còn thảm hơn ở VN.  
 

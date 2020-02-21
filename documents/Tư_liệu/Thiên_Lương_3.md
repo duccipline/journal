@@ -1,3 +1,85 @@
+# Bản dịch mới
+
+February 17 at 10:04 PM 
+
+Ngại nhất là khi bắt đầu vào một bản dịch mới. Theo huyền thoại thì dịch giả sẽ đọc trước rồi thích sách mới bắt tay vào dịch, tuy nhiên thực tế thì... chỉ đọc lướt xem dịch có quá mất thời gian không, rồi lúc dịch thật thì mới đọc kỹ.
+
+Tiếc là Oscar Wilde chẳng còn gì đáng để dịch, không thì làm tiếp cho cụ một cuốn, coi mấy truyện ngắn cho trẻ con mà chán ốm, viết thua xa Anderxen.
+
+<img src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/86489932_278050746505725_122791246681866240_o.jpg"></img>
+
+<details close>
+<summary>Comment</summary>
+<img src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%2012.46.16%20AM.jpg"></img>
+</details>
+
+# Anh em nhà Karamazov
+
+February 8 at 10:41 AM
+
+Thầy đọc "Anh em nhà Karamazov" của Fyodor Dostoyevsky (bản dịch) từ khi còn học lớp 11, cũng không ấn tượng lắm, sau này đọc tốt tiếng Nga rồi thì lại không đọc lại bản gốc do nói chung không thích tác giả lắm, nhìn hơi nông dân, và ấn tượng bản tiếng Việt đem lại cũng khá là bần cố nông.
+
+Hôm rồi thầy đọc thử bản Nga thì thấy ấn tượng khác, văn Dostoyevsky rất sáng, gọn và sâu. Thứ kiểm lại bản dịch tiếng Việt thì thấy ôi lăng nha lăng nhăng, bịa khá nhiều, sai cũng lắm, mặc dù văn Dostoyevsky viết khá dễ đọc.
+
+Coi lại tiểu sử dịch giả thì hiểu ngay thôi. Cụ ấy lọ mọ tự học tiếng Nga. Mà có lẽ ai đã du học Nga thì đều cười độ lượng với các bác "tự học" tiếng Nga, một thứ tiếng siêu khó và cực kỳ chính xác, lại đậm chất văn hoá địa phương. Các thầy cô dạy tiếng Nga cho du học sinh mà lúc qua Nga còn chẳng nói và hiểu được câu nào, là đủ hiểu.
+
+Mong có ai đó từng sống lâu năm ở Nga và có thời gian rảnh thì dịch lại cuốn này cho Fyodor Dostoyevsky, đây là tác phẩm khá quan trọng trong sự nghiệp văn hào này.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84743673_271638467146953_4718753256694611968_o.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84743673_271638467146953_4718753256694611968_o.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.33.13%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.33.27%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.33.44%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.33.59%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.34.14%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.34.32%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.34.41%20PM.jpg"></img>
+</details>
+
+# Bảo Ninh
+
+February 4 at 10:02 AM
+
+Lâu lắm mới được đọc một đoạn văn tiếng Việt dễ chịu và tạo cảm xúc thế. Bảo Ninh viết chi tiết khá tốt, kết cấu hợp lý. Hy vọng cuốn tiểu thuyết của ông cũng sẽ tốt.
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83983146_268945654082901_1728597274327515136_o.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/83983146_268945654082901_1728597274327515136_o.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.43.33%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.43.48%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.44.07%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.44.17%20PM.jpg"></img>
+</details>
+
+# Thương lắm
+
+Vài ảo tưởng về nghề dịch nói riêng và văn chương nói chung:
+
+- Dịch (viết) cái khó (của tác giả lớn) là giỏi. Tuy nhiên, dịch cái khó không có nghĩa là khó dịch, vì ví dụ đơn giản nhất là google, quăng cái gì vào cho nó, nó cũng dịch được tất. Vả lại, vô số bản dịch các tác giả khó ở VN mà đọc ngu như heo hoặc thành văn rau muống của mẹ bỉm sữa, vì dịch giả không đủ trình độ cả về ngoại ngữ và văn hoá để dịch. Thật lòng, thầy hoài nghi tất cả các bản dịch của gái. Thầy nghĩ văn chương không phải lãnh vực dành cho gái. Cứ nhìn thấy gái bình luận về văn chương thôi là thầy đã không nhịn được cười rồi, nói hết sức nghiêm túc.
+
+- Dịch dễ đọc là hay. Một ảo tưởng siêu lớn trong giới dịch. Do nhiều khi tác giả viết khó đọc gần chết, sao mà dịch ra dễ đọc được. Và cũng đừng thần thánh hoá tác giả quá. Các tác giả lớn cũng viết sai chính tả, sai ngữ pháp, sai từ là chuyện bình thường. Người chứ có phải thánh đâu. Mặc dù ngày xưa ai viết xong cũng qua 4 tầng biên tập, nhưng bản in đầu vẫn đầy lỗi. Bây giờ đa số bản dịch chẳng được ai biên tập. Nhiều nhà xuất bản cấp giấy phép không sửa 1 chữ nào luôn. Thầy đã từng nhận được 1 gpxb kiểu đó.
+
+- Dịch khó đọc là tài. Xin thưa, đó lại càng ảo tưởng. Khó đọc nó có nhiều loại, 1 là khó đọc do từ lạ và cao siêu (thực ra toàn moi từ điển Đào Duy Anh và chọn từ Hán Việt chứ giỏi giang quái gì), và 2 là viết câu phức tạp (cấu trúc câu phức tạp và dùng điển tích (hyperlink) nhiều và hay, và 3 là viết sai lô-gích nên không thể đọc nổi. Đa phần dịch giả hâm đơ hiện nay dịch khó đọc rơi vào phương án 3. Như có lão điên gần đây dịch dở ông dở thằng, cái gì mà God dịch thành Gót, nghiên cứu dịch thành tìm sâu. Đúng là ngộ chữ.
+
+- Dịch mà bán chạy là hay. Một ảo tưởng vĩ đại, vì vô số đống rác dịch thuật nhưng được in hàng trăm ngàn bản, vì ngày xưa có cái gì mà giải trí đâu, sách được in cực nhiều. Có những đống rác như Cù Lao Chàm bán cả triệu bản, bây giờ đọc lại muốn ói.
+
+Vậy cái gì làm cho tác phẩm có gía trị? Chắc yếu tố quan trọng nhất là thời gian. Những gì tồn tại được qua trăm năm chắc có lý do của nó. Nhưng với các bản dịch thì rất khó nói, vì bản dịch cần độc giả đủ lớn, nên có khi những bản dịch nhiều người ngu đọc thì vẫn chẳng có giá trị gì.
+
+Nhưng chính cái không rõ ràng này của văn chương làm cho con người ảo tưởng. Cứ nhìn các nhà văn, dịch giả VN là thấy, tuyệt đại đa số tâm thần nhẹ. Có những thằng mà sự ảo tưởng của nó làm ta thấy kinh hãi luôn, ví dụ như y thành thực nghĩ là nên dịch sách của y ra tiếng Anh cho nhân loại đọc, trong khi sách của y chỉ bán được vài trăm cuốn ở VN, và đa phần cho bạn bè và gái già ngộ chữ, những kẻ mua chỉ để làm từ thiện cho y!
+
+Thương lắm
+
+![https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84453616_264871451156988_1050865707195039744_o.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/84453616_264871451156988_1050865707195039744_o.jpg)
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.16.48%20AM.jpg">
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%201.16.53%20AM.jpg">
+</details>
+
 # "His father and two grandfathers had sold wine, jewels and silk, respectively."
 
 Mặc dù ngôn ngữ, trên phương diện nào đó, là một dạng toán, nhưng thực tế thì ngôn ngữ tập trung vào cảm xúc nhiều hơn là tính lô-gích và sự cô đọng của toán học.  

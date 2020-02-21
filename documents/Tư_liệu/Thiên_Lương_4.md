@@ -1,4 +1,31 @@
-## Tư duy toán học
+# Câu hỏi phỏng vấn nhanh
+
+February 10 at 6:17 PM
+
+Mỗi khi phỏng vấn nhân viên, thầy hay hỏi những câu thực ra rất khó có đáp án chính xác, nhưng nếu ai thông minh vẫn có thể đưa ra một con số tương đối chính xác. Chẳng hạn như số bao cao su hằng năm bán được ở VN, số thế cờ tối đa trên bàn cờ Vua, hoặc số người chết mỗi ngày ở một thành phố 12 triệu dân, chẳng hạn.
+
+Thực ra phần lớn người thông minh đều trả lời được câu hỏi dạng trên trong vòng 15 giây.
+
+Ví dụ như câu số 3, thì ta ước tính tuổi thọ trung bình là 80, như vậy mỗi năm sẽ có khoảng 12 triệu/80 = 150 ngàn người chết; mỗi ngày sẽ có khoảng 150 ngàn / 365 = 400 người chết. Dĩ nhiên đó chỉ là con số ước tính, nhưng thường cũng không quá sai.
+
+Có ai trả lời được câu số 2 (số thế cờ tối đa) trong 15 giây không?
+
+<details close>
+<summary>Comment</summary>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.57.31%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.57.58%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.58.05%20PM.jpg"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.58.19%20PM.jpg?raw=true"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.59.12%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.59.30%20PM.jpg"></img>
+<img width="75%" src="https://github.com/duccipline/journal/blob/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.59.41%20PM.jpg?raw=true"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%202.59.55%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.00.05%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.00.20%20PM.jpg"></img>
+<img width="75%" src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-02-21%20at%203.00.26%20PM.jpg"></img>
+</details>
+
+# Tư duy toán học
 
 Anh hay nói về tư duy toán học. Thực ra bản chất kiểu tư duy này luôn tìm cách công thức hóa mọi thứ trên đời, và bọn Tây cực kỳ giỏi trong vấn đề này. Ví dụ một cái đơn giản thôi như sắc đẹp của gái, dân châu Á cứ cãi nhau toàn những thứ định tính như thắt đáy lưng ong, mặt trái xoan, lông mày lá liễu, má hồng, lưng chữ cụ vú chữ tâm,... toàn thứ không làm sao mà số hóa ra được. Còn bọn Tây rất ngắn gọn, nó đưa luôn số liệu, kiểu như chuẩn của gái đẹp là 3 vòng 90x60x90, rốn phải đúng giữa trọng tâm, sải tay bằng chiều cao, ngón tay ngón chân các cái như nào, vân vân và vân vân. Đấy được các số liệu thế nào đấy thì là đẹp, không thôi. Cãi nhau xinh xấu mất thời gian.
 
@@ -36,7 +63,7 @@ Không biết!
 <img src="https://raw.githubusercontent.com/duccipline/journal/master/documents/T%C6%B0_li%E1%BB%87u/images/Screen%20Shot%202020-01-28%20at%2011.54.29%20AM.jpg" width="75%"></img>
 </details>
 
-## Đen và trắng
+# Đen và trắng
 
 Người Việt trước giờ không quan trọng đúng sai, mà chỉ quan tâm đến việc ai làm. Nghĩ là nếu việc đó bạn mình làm thì đúng, kẻ thù mình làm thì sai. Một cách nhìn đời rất là con bà nó hai màu, đen và trắng, y như của trẻ con, vì chỉ có trong thế giới của trẻ con mới có duy nhất hai dạng nhân vật: một là tiên, hay là quỷ.  
 
