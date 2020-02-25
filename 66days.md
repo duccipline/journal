@@ -1,4 +1,7 @@
-# 66 Ngày thử thách
+# 6x66 Ngày thử thách
+
+* [x] - Bảng A (**hoàn thành**)
+* [ ] - Bảng B2 (18/66)
 
 ## Bảng B2
 
@@ -6,6 +9,9 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 > Từ người bạn học lương 40tr
 > ![https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg)
+
+<br> 
+> Ngồi càng lâu, tuổi thọ càng ngắn lại.  
 
 ### Tracklog
 
@@ -25,7 +31,11 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 |11|19/02| | - Dậy rất trễ <br> - Hít đất 90 cái <br> - Bị say café | | - Đo huyết áp cho ba (**sáng, chiều, tối**) <br> -  Tập VLTL cho ba (**tối**) | - Chiến [MIT Recurrrent Neural Network](https://www.youtube.com/watch?v=SEnXr6v2ifU) <br> - Chiến [MIT Convoutional Neural Network](https://www.youtube.com/watch?v=H-HVZJ7kGI0) <br> - Đọc sương sương Cha tôi Đặng Tiểu Bình | - Nghe [Vivaldi](https://www.youtube.com/watch?v=O6NRLYUThrY) | - Say café từ chiều tới tối (uống quán lạ)
 |12|20/02| | - Dậy sớm 5:50 <br> - Hít đất 60 cái | - Luyện ELSA speak 90 phút | - Đo huyết áp cho ba (**sáng, trưa, tối**) <br> - Tập VLTL cho ba (**sáng**) | - Chiến [MIT Convoutional Neural Network](https://www.youtube.com/watch?v=H-HVZJ7kGI0) <br> - Chiến [MIT Sequence Modeling with Neural Network](https://youtu.be/CznICCPa63Q) <br> - Đọc Think Like a Freak (**chương 1, 2**) | - Nghe Tâm sự kinh doanh | <details close><summary>Nhật ký cảm xúc</summary> - 6:00 làm 1 tí nước yến cho lên tinh thần :D <br> - 7:15 - 8:30 luyện Elsa mỏi miệng luôn <br> Ngủ trừ từ 11:30 - 1:30, cơ thể khỏe mạnh, tinh thần lên cao </details>
 |13|21/02| | - Dậy rất trễ | | - Đo huyết áp cho ba (**trưa, chiều, tối**) | - Học online Database Management System (13:30 - 17:00) <br> - Đọc Ba người thầy vĩ đại **chương 8** | - Dọn dẹp, lau chùi phòng khách (buổi tối) <br> -  Nghe Vivaldi
-|14|22/02| - Học Camp MoneyTree <br> - Đọc xong chương 3 Think Like a Freak <br> - Làm bài tập MoneyTree <br> - Hít đất 150 cái | - Dậy 7:30 | | | - Đi Camp **Quản lý tài chính cá nhân** (9:00 - 17:00) <br> - Đọc Ba người thầy vĩ đại **chương 9** | - Dạy Phúc | <details close> - 7:30 ăn cơm sườn <b>energetic</b> - 8:30 làm 1 ly café sữa đá Trung Nguyên e-coffee <b>sober</b> <br> - 13:00 làm 1 ly đen đá Passio <b>sober</b> <br> - 17:30 là 1 ly mì Modern <b>fulfilled</b> </details>
+|14|22/02| - Học Camp MoneyTree <br> - Đọc xong chương 3 Think Like a Freak <br> - Làm bài tập MoneyTree <br> - Hít đất 150 cái | - Dậy 7:30 <br> - 22:00 hít đất 30 reps x 2 sets = 60 cái | | - Đo huyết áp cho ba (**chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | - Đi Camp **Quản lý tài chính cá nhân** (9:00 - 17:00) <br> - Đọc Ba người thầy vĩ đại **chương 9** | - Dạy Phúc | <details close> <summary>Nhật ký cảm xúc</summary> - 7:30 ăn cơm sườn <b>energetic</b> - 8:30 làm 1 ly café sữa đá Trung Nguyên e-coffee <b>sober</b> <br> - 13:00 làm 1 ly đen đá Passio <b>sober</b> <br> - 17:30 là 1 ly mì Modern <b>fulfilled</b> </details>
+|15|23/02| | - Ngủ sớm 21:00 | | | | - Nghe [Tchaikovsky](https://www.youtube.com/watch?v=7_WWz2DSnT8) | <details close> <summary>Nhật ký cảm xúc</summary> - (0:35 - 0:50) Rất là giận và bực tức <br> - (0:51) Nghe Tchaikovsky cho đỡ mệt, để bình tâm </details>
+|16|24/02| | - Dậy trễ 9:00 <br> - Hít đất 50 x 2 = **100 cái**| | - Đo huyết áp cho ba **chiều, tối** <br> - Tập tay cho ba **tối** | - Đọc Think Like a Freak **hết chương 4** | - [Nghe TSKD 116](https://tamsukinhdoanh.com/lam-chu/) <br> - [Nghe TSKD 115](https://tamsukinhdoanh.com/tap-115-hanh-phuc-trong-tui/) | <details close><summary>Nhật ký cảm xúc</summary> - Chiều + tối, bị lãng phí thời gian nhiều vào group chat của team Training to 2K (thay vì làm 1, 2 việc khác có ưu tiên cao hơn)
+|17|25/02| | - Dậy trễ <br> - Hít đất 50 x 3 = **150 cái** <br> - Chạy bộ **2.75km/pace 5:44** | | - Đo huyết áp cho ba **trưa, chiều, tối** <br> - Tập tay cho ba **tối** | | - [Nghe TSKD 116](https://tamsukinhdoanh.com/lam-chu/) <br> - [Nghe](https://www.youtube.com/watch?v=TO6rUJOJcUo) [anh](https://www.youtube.com/watch?v=Nyj9JTOxaZU) [Thái](https://www.youtube.com/watch?v=kmbZdFHAZQk) <br> - Nghe [Tchaikovsky](https://www.youtube.com/watch?v=7_WWz2DSnT8) | <details close><summary>Nhật ký cảm xúc</summary> - Chiều + tối ba bị lên huyết áp hơn 140, mình cho ba đi ngủ <br> - 23:00 huyết áp của ba bình thường rồi <br> - Hôm nay cuối ngày cũng bị involve vô group chat của team Training to 2k hơi nhiều (có vài việc khác ưu tiên cao hơn, lẽ ra phải làm) </details>
+|18|26/02| |
 
 ## Bảng B
 
