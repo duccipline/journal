@@ -11,9 +11,11 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 > ![https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg](https://raw.githubusercontent.com/duccipline/journal/master/documents/images/Screen%20Shot%202020-02-14%20at%2012.49.10%20AM.jpg)
 
 <br> 
+
 > Ngồi càng lâu, tuổi thọ càng ngắn lại.  
 
 <br>
+
 > * Before you pray - believe
 > * Before you speak - listen
 > * Before you spend - earn
