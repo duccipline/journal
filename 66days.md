@@ -23,6 +23,22 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 > * Before you quit - try
 > * Before you die - live
 
+<br>
+
+> ### Be an enthusiast  
+
+<br> 
+
+> It's achievable to gain 1000$ more in salary each year! `=.=`  
+
+<br>
+
+> Món đầu tư lợi nhuận nhất và ít rủi ro nhất là đầu tư vào bản thân.  
+
+<br>
+
+> Tất cả những người mang đến NHIỀU giá trị cho xã hội nhất mình biết đều có một điểm chung. Chữ **TÂM**.
+
 ### Tracklog
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
@@ -48,7 +64,8 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 |18|26/02| | - Dậy trễ <br> - Hít đất 50 x 3 + 10 = **160 cái** | | - Đo huyết áp cho ba (**trưa, chiều, tối**) | - Đọc The Innovator's DNA (chương 1) | - [Nghe BDS](https://www.youtube.com/watch?v=Fua-Ld6blG0) <br> - [Nghe Lợi thế cạnh tranh](https://www.youtube.com/watch?v=7DMqklrod0U) <br> - Đọc Tờ kinh số 2 (**sáng, trưa, tối**)
 |19|27/02| - Chương 2 The Innovator's DNA <br> - Chương 5 Think Like a Freak | - Dậy trễ <br> - Hít đất 50 x 3 = **150 cái** <br> - 16:55 chạy **1.02km/pace 5:23** <br> 17:30 đi bộ 2.44km/pace 11:58 <br> - 22:25 chạy **3.16km/pace 5:38** | | - Đo huyết áp cho ba (**trưa, chiều, tối**) | | - Nghe [Cạnh tranh người khổng lồ](https://www.youtube.com/watch?v=RpenhJoQItQ) <br> - Nghe [Nhận định Bất động sản công nghiệp](https://www.youtube.com/watch?v=l8_gVg--zcg) <br> - Dạy Phúc Computer System
 |20|28/02| | - Dậy 7:00 | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba **sáng, trưa** | - Đọc Ba người thầy vĩ đại (hết **phần 10, 11**) <br> - Đọc Think Like a Freak (hết **chương 5**) <br> - Học online Database (trưa, chiều) <br> - Học Moneytree (tối) | 
-|21|29/02| - Tập trung Thesis | - Dậy siêu trễ <br> - Chạy **5.00km/pace 5:46** | - Học vài trang **Chinese for Dummies** <br> - Duolingo Chinese 30 phút | - Đo huyết áp cho ba (**chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | - Ba người thầy vĩ đại (hết **phần 12, 13, 14, 15** &rarr; 100% sách) | - Dạy Phúc Computer System
+|21|29/02| - Tập trung Thesis | - Dậy siêu trễ <br> - Hít đất 50x3 = **150 cái** <br> - Chạy **5.00km/pace 5:46** | - Học vài trang **Chinese for Dummies** <br> - Duolingo Chinese 30 phút | - Đo huyết áp cho ba (**chiều, tối**) <br> - Tập VLTL cho ba (**tối**) | - Ba người thầy vĩ đại (hết **phần 12, 13, 14, 15** &rarr; 100% sách) | - Dạy Phúc Computer System
+|22|**01/03**| - Tập trung Thesis | - Dậy trễ <br> - Hít đất 50x3 = [**150 cái**](https://www.youtube.com/channel/UC12W9iwGq7bULoISAuX65wg) <br> - Chạy bộ **5.10km/pace 5:49**| - Duolingo Chinese **30 phút** | - Đo huyết áp cho ba (**chiều, tối**) <br> - Tập VLTL cho ba (**chiều, tối**) | - Những người khốn khổ (**đọc từ 30% đến 55%**) <br> - Đọc Tờ kinh số [3](https://youtu.be/yni_t3DihFw) (**trưa, chiều, tối**) | - Họp team SEA Training (**3.5 tiếng**) <br> - Nghe podcast TQKS [#49](https://youtu.be/yBQhWJY7kK0), [#50](https://youtu.be/BygB1xl-UWM), [#51](https://youtu.be/PjkYuwJDK9Q) | 
 
 ## Bảng B
 
@@ -88,18 +105,18 @@ STT | Ngày | Mục tiêu | Dậy sớm | Thiền | Thể dục | Học từ Ver
 	* Không nổi giận, buồn chán trong 66 ngày
 	* Làm việc gì cũng phải đặt cái tâm mình vào, làm hết sức
 	* Hạn chế làm nhiều thứ cùng một thời điểm, làm gì nên tập trung làm cho xong
-* Road to 2k
+* Road to 2k (Happy to have a Great team of 4 hardwork fellas)
 	* Giải hết bài Cracking the coding interview, Programming Interview Expose
 	* Trùm Memory Management
 	* Trùm Operating Systems
 * Intellect
 	* Đọc hết Cha tôi Đặng Tiểu Bình
 * Thesis
-	* Đọc papers (bổ sung sau)
+	* Đọc papers
 * Note mỗi ngày
 	* 6x66 days
 	* Family health
-	* Relationship
+	* Relationship (5 - 50 - 100 mối quan hệ cần nuôi dưỡng đều đặn)
 
 ## Bảng A
 
