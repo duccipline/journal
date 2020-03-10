@@ -85,4 +85,5 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 | 5 | ngày | mất | phương | hướng | Nghỉ | 5 ngày | tìm lại | chính mình
 | | | | | | | | | |
 | **Hôm** | **nay** | **cố** | **gắng** | **lại** | **nào** | **!**
-|25|**09/03**| | - Dậy 6:30 <br> 
+|25|**09/03**| | - Dậy 6:30 <br> - Hít đất 33x3 + 30 + 37 + 33 = **200 cái** <br> - Chạy 3.31km/pace 5:38 | - Duolingo Chinese 30 phút | - Đo huyết áp cho ba | - Đọc Database System <br> - Đọc Tờ kinh số 3 (tối) | - Nghe TSKD #118
+|26|10/03| | 
