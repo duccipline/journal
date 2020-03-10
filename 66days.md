@@ -86,4 +86,4 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 | | | | | | | | | |
 | **Hôm** | **nay** | **cố** | **gắng** | **lại** | **nào** | **!**
 |25|**09/03**| | - Dậy 6:30 <br> - Hít đất 33x3 + 30 + 37 + 33 = **200 cái** <br> - Chạy 3.31km/pace 5:38 | - Duolingo Chinese 30 phút | - Đo huyết áp cho ba | - Đọc Database System <br> - Đọc Tờ kinh số 3 (tối) | - Nghe TSKD #118
-|26|10/03| | 
+|26|10/03| | - Hít đất 33x3 = **100 cái** <br> - Chạy 2.02km/pace 5:44 | - Duolingo Chinese 60 phút | - Đo huyết áp cho ba | - Đọc sách Database | - Nghe review sách World Order - Henry Kissinger <br> - Dunning–Kruger effect | <details close> - Đầu tiên là vào SEA group <br> - Sau đó là vào Google <br> - Quan trọng là phải biết mình muốn gì</details>
