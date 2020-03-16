@@ -86,9 +86,22 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 | | | | | | | | | |
 | **Hôm** | **nay** | **cố** | **gắng** | **lại** | **nào** | **!**
 |25|**09/03**| | - Dậy 6:30 <br> - Hít đất 33x3 + 30 + 37 + 33 = **200 cái** <br> - Chạy 3.31km/pace 5:38 | - Duolingo Chinese 30 phút | - Đo huyết áp cho ba | - Đọc Database System <br> - Đọc Tờ kinh số 3 (tối) | - Nghe TSKD #118
-|26|10/03| | - Hít đất 33x3 = **100 cái** <br> - Chạy 2.02km/pace 5:44 | - Duolingo Chinese 60 phút | - Đo huyết áp cho ba | - Đọc sách Database | - Nghe review sách World Order - Henry Kissinger <br> - Dunning–Kruger effect | <details close> - Đầu tiên là vào SEA group <br> - Sau đó là vào Google <br> - Quan trọng là phải biết mình muốn gì</details>
-|27|11/03| | | - Duolingo Chinese | - Đo huyết áp cho ba | | - Meeting team luyện SEA, giải bài 4 tiếng
-|28|12/03| | | - Doulingo Chinese | - Đo huyết áp cho ba | | - Làm LeetCode
+|26|10/03| | - Hít đất 33x3 = **100 cái** <br> - Chạy 2.02km/pace 5:44 <br> - Không ngủ | - Duolingo Chinese 60 phút | - Đo huyết áp cho ba | - Đọc sách Database | - Nghe review sách World Order - Henry Kissinger <br> - Dunning–Kruger effect | <details close> - Đầu tiên là vào SEA group <br> - Sau đó là vào Google <br> - Quan trọng là phải biết mình muốn gì</details>
+|27|11/03| | - Ngủ sớm 21:00 | - Duolingo Chinese | - Đo huyết áp cho ba | | - Meeting team luyện SEA, giải bài 4 tiếng
+|28|12/03| | - Ngủ sớm 23:00 | - Doulingo Chinese | - Đo huyết áp cho ba | | - Làm LeetCode
 |29|13/03| | - Hít đất 10 cái | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc The Innovator's DNA (chapter 5 Networking, 6 Experimenting)
-|30|14/03| | - Hít đất 33x3 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | | - Làm Codeforces
-|31|15/03| | - Hít đất [33](https://youtu.be/sOeNkkCUO_k)x3 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc The Innovator's DNA (chapter 2 Associating)
+|30|14/03| | - Hít đất 33x3 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | | - Làm Codeforces | <details close> - Chú C mentor dạy về <b>PROACTIVE</b><br> - Anh Đ mentor khuyên làm thesis lẹ rồi vào FB thôi, tập trung một thứ <br> - Quan tâm (thiên hạ) nhiều làm đéo gì</details>
+|31|15/03| | - Hít đất [33](https://youtu.be/sOeNkkCUO_k)x3 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc The Innovator's DNA (chapter 2 Associating, chapter 3 Questioning) | | <details close> - Cố gắng giải quyết đống MESS trong trường, hoàn thành hết RESPONSILITIES của mình <br> - Rồi tập trung vào thứ quan trọng nhất với sự nghiệp của mình thôi <br> - Vào SEA SGP/SGN, sau đó cố gắng vào GG, FB <br> - It's essential to be PROACTIVE </details>
+| | | | | | | | | |
+|32|16/03| - **Hôm nay mình quyết định mình sẽ không bao giờ làm một thằng GIỎI nữa, mình phải XUẤT SẮC** | - Hít đất [33](https://youtu.be/O9pPRwA9dK8)x[3](https://youtu.be/TT4hBEstiws) = **100 cái** | | | - Đọc The Innovator's DNA <br> - Đọc Think Like a Freak <br> - Cài Pytorch Fairseq + LSTM | - Nghe [TSKD #119](https://tamsukinhdoanh.com/tap-119-binh-them-khen/) <br> - Team SEA training
+
+* Thesis
+    * Đọc papers
+    * Chạy tasks
+* Jobs
+    * Học `Networking`
+    * Học `Database`
+    * Làm `LeetCode`
+    * Giải `Cracking the Coding Interview`
+* `DISCIPLINE`
+* `PROACIVE`
