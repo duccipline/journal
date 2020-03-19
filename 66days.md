@@ -94,7 +94,9 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 |31|15/03| | - Hít đất [33](https://youtu.be/sOeNkkCUO_k)x3 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc The Innovator's DNA (chapter 2 Associating, chapter 3 Questioning) | | <details close> - Cố gắng giải quyết đống MESS trong trường, hoàn thành hết RESPONSILITIES của mình <br> - Rồi tập trung vào thứ quan trọng nhất với sự nghiệp của mình thôi <br> - Vào S SGP/SGN, sau đó cố gắng vào GG, FB <br> - It's essential to be PROACTIVE </details>
 | | | | | | | | | |
 |32|16/03| - **Hôm nay mình quyết định mình sẽ không bao giờ làm một thằng GIỎI nữa, mình phải XUẤT SẮC** | - Hít đất [33](https://youtu.be/O9pPRwA9dK8)x[3](https://youtu.be/TT4hBEstiws) + 33x3 <details close>(bị thuật toán của Youtube gà gà, khóa kênh, đã gửi mail mở lại) </details>= **200 cái** | - Từ tiếng Anh | - Đo huyết áp cho ba | - Đọc The Innovator's DNA <br> - Đọc Think Like a Freak (chapter 9) <br> - Cài Pytorch Fairseq + LSTM | - Nghe [TSKD #119](https://tamsukinhdoanh.com/tap-119-binh-them-khen/) <br> - Team job training
-|33|17/03| | - Hít đất [33](https://youtu.be/CK_qIqgCLSs)x3 = **100 casi** | | - Đo huyết áp cho ba | - Đọc Disciplined Entrepreneurship (Cho môn CS409) <br> - Đọc The Innovator's DNA (Cho môn CS407) | - Chở má đi làm răng <br> - Hôm nay lủng 2 chiếc xe, 1 thay ruột, 1 vá ruột <br> - Nghe Web5ngay [Kỹ năng giao tiếp](https://www.youtube.com/watch?v=fffL7U_7bMY) <br> - Nghe Web5ngay [Siêu Kỹ Năng](https://www.youtube.com/watch?v=xGqcW4VkEJw) <br> - Nghe anh Thái [TƯ DUY CỦA NGƯỜI THẮNG CUỘC](https://www.youtube.com/watch?v=sbJ6kjubQgw) <br> - Nghe anh Thái [CHARLIE MUNGER](https://www.youtube.com/watch?v=2oiykQrY0Ys)
+|33|17/03| | - Hít đất [33](https://youtu.be/CK_qIqgCLSs)x3 = **100 casi** | | - Đo huyết áp cho ba | - Đọc Disciplined Entrepreneurship (Cho môn CS409) <br> - Đọc The Innovator's DNA (Cho môn CS407) xong **step 0, 1, 2** | - Chở má đi làm răng <br> - Hôm nay lủng 2 chiếc xe, 1 thay ruột, 1 vá ruột <br> - Nghe Web5ngay [Kỹ năng giao tiếp](https://www.youtube.com/watch?v=fffL7U_7bMY) <br> - Nghe Web5ngay [Siêu Kỹ Năng](https://www.youtube.com/watch?v=xGqcW4VkEJw) <br> - Nghe anh Thái [TƯ DUY CỦA NGƯỜI THẮNG CUỘC](https://www.youtube.com/watch?v=sbJ6kjubQgw) <br> - Nghe anh Thái [CHARLIE MUNGER](https://www.youtube.com/watch?v=2oiykQrY0Ys)
+|34|18/03| | - Hít đất 33x3 = **100 cái** | | - Đo huyết áp cho ba | - Đọc The Innovator's DNA (chapter Observing, Networking, cho môn CS407)  <br> - Viết Assignment 1 CS407 <br> 
+|35|19/03| - Hít đất 200 cái <br> - Không được GIỎI nữa, từ nay mình phải trở thành một người XUẤT SẮC | - Dậy sớm 6:30 <br> - [Hít đất](https://youtu.be/q2jv_nGVUlA) 33x3 + 20x5 = **200 reps**| | - Đo huyết áp cho ba | - Viết Assignment 1 CS407 <br> - Viết Assignment 2 CS407 | - Nghe [Mozart](https://www.youtube.com/watch?v=Rb0UmrCXxVA)
 
 * Thesis
     * Đọc papers
@@ -106,3 +108,6 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
     * Giải `Cracking the Coding Interview`
 * `DISCIPLINE`
 * `PROACIVE`
+* Health
+    * Hít đất
+    * Chạy bộ
