@@ -60,6 +60,10 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
+|42|26/03| - Yêu thương gia đình <br> - Hít đất 200 cái <br> - Plank 5 phút <br> - Ngủ sớm | - Dậy sớm 5:00 <br> 
+|41|25/03| - Cố lên | - Hít đất 25x6 = **150 cái** | - Duoling 15 phút | - Đo huyết áp cho ba | - Học Online CS407 <br> - Cài Database system <br> - Đọc Chiến tranh tiền tệ <br> - Đọc Lập trình quỹ đạo cuộc đời
+|40|24/03| - Plank tổng cộng 5 phút (**failed**) <br> - Hít đất 200 cái | - Hít đất 25x8 = **200 cái** | - Duolingo 15 phút | - Đo huyết áp cho ba | - Đọc Computer System <br> - Dạy Phúc | - Xem [Cold Shower Therapy TED](https://youtu.be/Gb0h8ZKvJW4)
+|39|23/03| | - Hít đất 25x8 = **200 cái** <br> - Plank 1 phút x 2 | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Suy nghĩ Innovative Business <br> | - Nghe TSKD 120 <br> - 
 |38|22/03| - Phải **XUẤT SẮC** | - Dậy sớm 7:00 <br> - Hít đất 25 reps x 8 sets = **200 cái** | - Duolingo Chinese 10 phút | - Đo huyết áp cho ba <br> - Tập VLTL cho ba | - Mentoring anh Đ | - Nghe [Tchaikovsky](https://youtu.be/7_WWz2DSnT8) <br> - Nghe [Web5ngay giao tiếp](https://youtu.be/fffL7U_7bMY)
 | | | | |
 |37|21/03| - Không được tiếp tục mắc kẹt trong cái bẫy **GIỎI**, xã hội cần một người **XUẤT SẮC** | - Dậy 7:00 <br> - Hít đất 20x5 = **100 cái** <br> - Ngủ sớm 22:30 | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Học Online CS409 <br> - Học Online CS407 <br> - Làm xong Homework 1 CS386 <br> - Dạy Phúc| - Nghe nhạc Trung Quốc | <details close> <summary>Cảm xúc</summary> - 16:30, cơ thể hơi mệt mệt, cố lên, hoàn thành hết công việc rồi tối đi ngủ sớm </details>
