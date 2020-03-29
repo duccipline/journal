@@ -60,7 +60,10 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|42|26/03| - Yêu thương gia đình <br> - Hít đất 200 cái <br> - Plank 5 phút <br> - Ngủ sớm | - Dậy sớm 5:00 <br> 
+|45|29/03| - Hít đất 200 cái | - Hít đất 25x8 = **200 cái** | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ (phần 4) | - Nghe nhạc [Baroque](https://youtu.be/cH7RJEM4EYI)
+|44|28/03| - Hít đất 200 cái | - Dậy 7:00 <br> - Hít đất 25x8 = **200 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Học online CS409 <br> - Học online CS407 <br> - Dạy Phúc
+|43|27/03| | - Hít đất 25x6 = **150 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ (phần 3)
+|42|26/03| - Yêu thương gia đình <br> - Hít đất 200 cái <br> - Plank 5 phút <br> - Ngủ sớm | - Dậy sớm 5:00 <br> | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ <br> - Làm Team project CS409 | - Nghe [Chopin](https://youtu.be/wygy721nzRc) | <details close><summary>Cảm xúc</summary> - Hôm nay sẽ là một ngày ý nghĩa </details>
 |41|25/03| - Cố lên | - Hít đất 25x6 = **150 cái** | - Duoling 15 phút | - Đo huyết áp cho ba | - Học Online CS407 <br> - Cài Database system <br> - Đọc Chiến tranh tiền tệ <br> - Đọc Lập trình quỹ đạo cuộc đời
 |40|24/03| - Plank tổng cộng 5 phút (**failed**) <br> - Hít đất 200 cái | - Hít đất 25x8 = **200 cái** | - Duolingo 15 phút | - Đo huyết áp cho ba | - Đọc Computer System <br> - Dạy Phúc | - Xem [Cold Shower Therapy TED](https://youtu.be/Gb0h8ZKvJW4)
 |39|23/03| | - Hít đất 25x8 = **200 cái** <br> - Plank 1 phút x 2 | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Suy nghĩ Innovative Business <br> | - Nghe TSKD 120 <br> - 
