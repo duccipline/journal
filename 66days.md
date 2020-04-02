@@ -20,7 +20,7 @@
 # 6x66 Ngày thử thách
 
 * [x] - Bảng A (**hoàn thành**)
-* [ ] - Bảng B2 (38/66)
+* [ ] - Bảng B2 (49/66)
 
 ## Bảng B2
 
@@ -60,7 +60,13 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|45|29/03| - Hít đất 200 cái | - Hít đất 25x8 = **200 cái** | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ (phần 4) | - Nghe nhạc [Baroque](https://youtu.be/cH7RJEM4EYI)
+| | | | | | | | | |
+|49|02/04| - Rèn luyện để XUẤT SẮC | - Hôm nay không khỏe <br> - Hít đất 20x5 = **100 reps** <br> - Chạy bộ **2.02km/pace 5:27** <br> - Plank 45 + 50 = 90s | - Duolingo Chinese | - Đo huyết áp cho ba | - Họp team CS409 <br> - Đọc DB <br> - Đọc Disciplined Entrepreneur (CS409) <br> - Đọc Grokking | - Đọc tờ kinh số 3, 4 (2 lần) | - Hôm nay cảm xúc hơi tệ <br> - Vực dậy thôi
+|48|**01/04**| - Hít đất <br> - Chạy bộ <br> - Đọc Tờ kinh số 3, 4 | - Hít đất 25x8 = **200 cái** <br> - Chạy bộ **2.02km/pace 5:37** <br> - Plank 40s | - Duolingo Chinese |
+| | | | | | | | | |
+|47|31/03| | - Hít đất 25x4 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - | - Dạy Phúc
+|46|30/03| | - Dậy 7:00 <br> - Hít đất 25x8 = **200 cái** | - Duolingo Chinese | | | - Nghe TSKD #121 | - Mình thích Theory hay Engineering? <br> **Engineering**
+|45|29/03| - Hít đất 200 cái | - Hít đất 25x[8](https://youtu.be/qPBTRrRHZDM) = **200 cái** | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ (phần 4) | - Nghe nhạc [Baroque](https://youtu.be/cH7RJEM4EYI)
 |44|28/03| - Hít đất 200 cái | - Dậy 7:00 <br> - Hít đất 25x8 = **200 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Học online CS409 <br> - Học online CS407 <br> - Dạy Phúc
 |43|27/03| | - Hít đất 25x6 = **150 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ (phần 3)
 |42|26/03| - Yêu thương gia đình <br> - Hít đất 200 cái <br> - Plank 5 phút <br> - Ngủ sớm | - Dậy sớm 5:00 <br> | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc Chiến tranh tiền tệ <br> - Làm Team project CS409 | - Nghe [Chopin](https://youtu.be/wygy721nzRc) | <details close><summary>Cảm xúc</summary> - Hôm nay sẽ là một ngày ý nghĩa </details>
