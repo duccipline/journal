@@ -20,7 +20,7 @@
 # 6x66 Ngày thử thách
 
 * [x] - Bảng A (**hoàn thành**)
-* [ ] - Bảng B2 (49/66)
+* [ ] - Bảng B2 (50/66)
 
 ## Bảng B2
 
@@ -60,8 +60,11 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
+|52|05/05| | - Hít đất 20 + 3 = 23 cái | - Duolingo Chinese 15 phút | | - Đọc [Karl Marx - Yesterday and Today](https://www.newyorker.com/magazine/2016/10/10/karl-marx-yesterday-and-today) <br> - Đọc Chiến tranh tiền tệ (phần 9, 10) <br> - Đọc Tờ kinh số 3, 4 (tối)
+|51|04/04| | - Dậy 1:30 <br> | - Duolingo Chinese 15 phút | | - Học Online CS409 <br> - Đọc Chiến tranh tiền tệ (phần 7,8) | - Dạy Phúc | - Bị rối loạn tiêu hóa <br> - Bị sưng mắt
+|50|03/04| | - Dậy 6:30 <br> - Plank 90s <br> - Ngủ 20:00 | - Duolingo Chinese | - Đo huyết áp cho ba | - Đọc Database <br> - Học Online CS386 <br> - Meeting với Thesis Mentor <br> - Đọc Chiến tranh tiền tệ (phần 6) | - Nghe [Mozart](https://youtu.be/Rb0UmrCXxVA) | - DISCIPLINE + PROACTIVENESS | 
 | | | | | | | | | |
-|49|02/04| - Rèn luyện để XUẤT SẮC | - Hôm nay không khỏe <br> - Hít đất 20x5 = **100 reps** <br> - Chạy bộ **2.02km/pace 5:27** <br> - Plank 45 + 50 = 90s | - Duolingo Chinese | - Đo huyết áp cho ba | - Họp team CS409 <br> - Đọc DB <br> - Đọc Disciplined Entrepreneur (CS409) <br> - Đọc Grokking | - Đọc tờ kinh số 3, 4 (2 lần) | - Hôm nay cảm xúc hơi tệ <br> - Vực dậy thôi
+|49|02/04| - Rèn luyện để XUẤT SẮC | - Hôm nay không khỏe <br> - Hít đất 20x5 = **100 reps** <br> - Chạy bộ **2.02km/pace 5:27** <br> - Plank 45 + 50 = 90s | - Duolingo Chinese | - Đo huyết áp cho ba | - Họp team CS409 <br> - Đọc DB <br> - Đọc Disciplined Entrepreneur (CS409) <br> - Đọc Grokking <br> - Đọc Chiến tranh tiền tệ (phần 5) | - Đọc tờ kinh số 3, 4 (2 lần) | - Hôm nay cảm xúc hơi tệ <br> - Vực dậy thôi
 |48|**01/04**| - Hít đất <br> - Chạy bộ <br> - Đọc Tờ kinh số 3, 4 | - Hít đất 25x8 = **200 cái** <br> - Chạy bộ **2.02km/pace 5:37** <br> - Plank 40s | - Duolingo Chinese |
 | | | | | | | | | |
 |47|31/03| | - Hít đất 25x4 = **100 cái** | - Duolingo Chinese | - Đo huyết áp cho ba | - | - Dạy Phúc
