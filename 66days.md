@@ -20,7 +20,7 @@
 # 6x66 Ngày thử thách
 
 * [x] - Bảng A (**hoàn thành**)
-* [ ] - Bảng B2 (53/66)
+* [ ] - Bảng B2 (55/66)
 
 ## Bảng B2
 
@@ -60,7 +60,9 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|55|08/05| - Dậy sớm <br> - Hít đất <br> - Chạy bộ <br> - Plank <br> - Làm Thesis <br> - Ngủ sớm | - Dậy sớm 4:30 <br> - Hít đất 25x | | 
+|56|09/05| <details close> - Dậy sớm <br> - Hít đất <br> - Chạy bộ <br> - Làm Thesis <br> - Gia đình <br> - Ôn CS386 <br> - Đọc Computer System </details> | - **Dậy sớm 4:30** | | | | | - Cố lên
+| |
+|55|08/05| <details close> - Dậy sớm `ok` <br> - Hít đất `ít` <br> - Chạy bộ `ok` <br> - Plank `failed` <br> - Làm Thesis `failed` <br> - Ngủ sớm `failed` </details> | - **Dậy sớm 4:30** <br> - Hít đất 25x2 = 50 cái <br> - Chạy bộ **4.00km/pace 5:49**| | - Tập VLTL cho ba | - Đọc Mankiw Principle of Economics <br> - Làm project team CS409 | - Nghe TSKD #122, #121 <br> | - **Hôm nay là một ngày không hiệu quả**
 |54|07/05| | - Dậy sớm 4:30 <br> - Hít đất 25x2 = 50 cái <br> - Nghỉ ngơi | - Duolingo Chinese | - Family Dinner | - Đọc blog Mankiw | - Nghe nhạc Hokkin <br> - Mentoring anh Đ <br> - Luyện Team
 |53|06/05| | - Dậy sớm 5:30 <br> - Hít đất 25 cái | - Duolingo Chinese 15 phút | - Đưa ba đi tái khám | - Đọc Mankiw Principle of Economics (chapter 1) <br> - Đọc Lập trình quỹ đạo cuộc đời (chương 1) <br> - Làm Thesis <br> - Đọc [article](https://lostbird.vn/kham-pha-cung-lac/lich-su/triet-hoc-khong-buon-chan-diogenes-nguoi-bat-plato-va-ca-alexander-dai-de-708881.html) | - Nghe TSKD [#122](https://tamsukinhdoanh.com/tap-122-bang-long-di-em/) <br> - Mock interview cho M | <details close><summary>Cảm xúc</summary>- Cố lên Đức, <i>ngày mới tràn đầy năng lượng</i></details>
 |52|05/05| | - Hít đất 20 + 3 = 23 cái | - Duolingo Chinese 15 phút | | - Đọc [Karl Marx - Yesterday and Today](https://www.newyorker.com/magazine/2016/10/10/karl-marx-yesterday-and-today) <br> - Đọc Chiến tranh tiền tệ (phần 9, 10) <br> - Đọc Tờ kinh số 3, 4 (tối)
