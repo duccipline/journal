@@ -58,8 +58,6 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 ### Tracklog
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUEUZDV-in0?autoplay=1&showinfo=0&controls=0&loop=1" frameborder="0" allow="autoplay; encrypted-media; gyroscope"></iframe>
-
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
 |58|11/05| <details close>-Tập VLTL cho ba <br> - Đọc Computer System <br> - Làm Thesis</details> | - Dậy sớm **4:00** | | | - Đọc Tờ kinh số 3, 4 (sáng, )| | <details close>- Lúc dậy bị rối loạn tiêu hóa, đau bụng khó chịu quá <br> - Uống 1 ly cà phê, hope it better soon </details> | 
