@@ -20,7 +20,7 @@
 # 6x66 Ngày thử thách
 
 * [x] - Bảng A (**hoàn thành**)
-* [ ] - Bảng B2 (55/66)
+* [ ] - Bảng B2 (58/66)
 
 ## Bảng B2
 
@@ -58,10 +58,13 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 ### Tracklog
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUEUZDV-in0?autoplay=1&showinfo=0&controls=0&loop=1" frameborder="0" allow="autoplay; encrypted-media; gyroscope"></iframe>
+
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|57|10/05| - Làm thesis <br> - Đọc sách | - Dậy sớm **4:00**
+|58|11/05| <details close>-Tập VLTL cho ba <br> - Đọc Computer System <br> - Làm Thesis</details> | - Dậy sớm **4:00** | | | - Đọc Tờ kinh số 3, 4 (sáng, )| | <details close>- Lúc dậy bị rối loạn tiêu hóa, đau bụng khó chịu quá <br> - Uống 1 ly cà phê, hope it better soon </details> | 
 | |
+|57|10/05| <details close>- Làm thesis <br> - Đọc sách </details> | - Dậy sớm **4:00** <br> - Chạy bộ **2.22km/pace 5:49** | | - Tập VLTL cho ba | - Họp team CS409 với mentor <br> Học CS386 Database <br> - Làm Thesis <br> - Đọc Tờ kinh thứ 3, 4 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneur <br> - Làm task của team CS409 | 
 |56|09/05| <details close> - Dậy sớm <br> - Hít đất <br> - Chạy bộ <br> - Làm Thesis <br> - Gia đình <br> - Ôn CS386 <br> - Đọc Computer System </details> | - **Dậy sớm 4:30** <br> - Chạy bộ **4.05km/pace 5:45** <br> - Ngủ sớm 23:30 | - Duolingo Chinese | - Tập VLTL cho ba | - Học CS386 Database<br> Đọc Computer System <br> - Làm project team CS409 <br>  - Đọc Tờ kinh thứ 3, 4 (sáng, trưa, tối) | - Nghe [giao tiếp](https://youtu.be/gKs7LOZLHPI) <br> - Dạy Phúc | - Cố lên
 |55|08/05| <details close> - Dậy sớm `ok` <br> - Hít đất `ít` <br> - Chạy bộ `ok` <br> - Plank `failed` <br> - Làm Thesis `failed` <br> - Ngủ sớm `failed` </details> | - **Dậy sớm 4:30** <br> - Hít đất 25x2 = 50 cái <br> - Chạy bộ **4.00km/pace 5:49**| | - Tập VLTL cho ba | - Đọc Mankiw Principle of Economics <br> - Làm project team CS409 | - Nghe TSKD #122, #121 <br> | - **Hôm nay là một ngày không hiệu quả**
 |54|07/05| | - Dậy sớm 4:30 <br> - Hít đất 25x2 = 50 cái <br> - Nghỉ ngơi | - Duolingo Chinese | - Family Dinner | - Đọc blog Mankiw | - Nghe nhạc Hokkin <br> - Mentoring anh Đ <br> - Luyện Team
