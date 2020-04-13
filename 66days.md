@@ -60,7 +60,9 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|60|13/04| <details close>- Làm Thesis <br> - Reading <br> - Tập VLTL cho ba <br> - Chạy bộ <br> - Hít đất <br> - Plank <br> - Squat <br> - Ngủ sớm </details> | - Dậy sớm **4:00** <br> - Hít đất 25x1 <br> - Plank 55s + 85s + 100s +67s = **5'07** <br> - Squat 50x1 | | | - Đọc Tờ kinh số 3, 4 (sáng)| <details close><summary>Look in the mirror in the morning and ask</summary> <i>If today is the last day of life, will I want to do what I am about to do today?</i> </details> <br> - Nghe TSKD #123 | - Hôm nay phải tracking tất cả mục tiêu đầu ngày đề ra
+|61|14/04| - Làm Thesis <br> - Đọc Computer System <br> - Đọc Disciplined Entrepreneur <br> - Brainstorm CS407 Assignment <br> - Tập thể dục | - Dậy sớm 4:30 | | | | | - 4:55 Make it an effective day |
+| | 
+|60|13/04| <details close>- Làm Thesis <b>ok</b><br> - Reading <b>ok</b> <br> - Tập VLTL cho ba <b>ok</b><br> - Chạy bộ <b>ok</b><br> - Hít đất <b>ok</b><br> - Plank <b>ok</b><br> - Squat <b>ok</b><br> - Ngủ sớm </details> | <details close>- Dậy sớm **4:00** <br> - Hít đất 25x4 = **100 cái** <br> - Plank 55s + 85s + 100s +67s = **5'07** <br> - Squat 50x2 <br> - Chạy bộ **2.01km/pace 5:45** </details> | - Duolingo Chinese 15 phút | - Tập VLTL cho ba <br> - Đo huyết áp cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneur <br> - Đọc code Thesis <br> - Đọc Cha tôi Đặng Tiểu Bình (6, 7) | <details close><summary>Look in the mirror in the morning and ask</summary> <i>If today is the last day of life, will I want to do what I am about to do today?</i> </details> <br> <details close><summary>Nghe</summary>- TQKS [Thâm nhập thị trường Mỹ](http://tqkradio.com/70-interview-m-c-g-hay) <br> - TQKS [My Asian Pride](https://youtu.be/D1jd8cqEaxw) <br> - TSKD [#123](https://soundcloud.com/web5ngay/tap-123-cham-de-nhanh) <details> | - Hôm nay phải tracking tất cả mục tiêu đầu ngày đề ra
 | |
 | | Còn | 6 | ngày | để | làm | việc | hiệu | quả! |
 | |
