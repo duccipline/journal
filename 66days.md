@@ -56,6 +56,26 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 </details>
 
+<details close>
+### TỔNG KẾT BẢNG B2
+
+Trong 66 ngày của bảng B2
+
+* Thesis
+    * Đọc papers &rarr; Rất ít &rarr; **Cần khắc phục**
+    * Chạy tasks &rarr; **Vài ngày cuối bảng mới bắt đầu làm**
+* Jobs
+    * Học `Networking` &rarr; Chưa
+    * Học `Database` &rarr; 1/2 lộ trình
+    * Làm `LeetCode` &rarr; Nửa sau của bảng B2 không có làm nữa &rarr; Cần plan làm đều đặn và nhiều hơn 
+    * Giải `Cracking the Coding Interview` &rarr; Chưa
+* `DISCIPLINE` &rarr; Đã bắt đầu vô guồng &rarr; **Dậy sớm** + Cần cải thiện việc tracking-và-bám-sát mục tiêu, công việc cần làm mỗi ngày + Bảng sau phải xác định 4, 5 mục tiêu cụ thể và chỉ tập trung công sức vào những mục tiêu này
+* `PROACTIVE` &rarr; Đã học Economics bài bản + Học về tài chính cá nhân + Làm quen với Tiếng Trung
+* Health
+    * Hít đất &rarr; Đã duy trì được việc hít đất 200 cái mỗi ngày (có thấy được thay đổi trên cơ thể) &rarr; Sau đó kiệt sức trong giai đoạn cuối của bảng B2 &rarr; Bảng C cần bắt đầu với khối lượng hít đất nhẹ và tăng dần lên từ từ &rarr; Giai đoạn cuối bảng C sẽ dễ dàng hít đất 200 cái/ngày
+    * Chạy bộ &rarr; Trong hơn 10 ngày cuối, đã duy trì được việc dậy sớm chạy bộ mỗi ngày &rarr; Phải tiếp tục phát huy
+</details>
+
 ### Tracklog
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
@@ -140,17 +160,3 @@ STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đ
 |01|09/02| | - Dậy sớm **5:08** <br> - Chạy 2.12km (6:38) + 1.04km (5:51) <br> - Đi bộ 1.24km | | - Đo huyết áp cho ba **sáng, trưa, chiều** <br> - Tập vật lý trị liệu cho ba **chiều** | - Đọc blog procul.org | - Làm Codeforces <br> - Nghe phỏng vấn cố GS Tôn Thất Tùng <br> - Nghe Bach
 |00|**08/02**| | | | - Đo huyết áp cho ba **sáng, chiều, tối** <br> - Tập vật lý trị liệu cho ba **tối** | - Đọc Tôi tự học **hết chương 2** <br> - Đọc blog procul.org | - Gắn 4 bóng đèn ở phòng khách và bếp <br> - Dạy Phúc <br> - Làm Codeforces <br> - Nghe Tchaikovsky
 | 5 | ngày | mất | phương | hướng | Nghỉ | 5 ngày | tìm lại | chính mình
-
-* Thesis
-    * Đọc papers
-    * Chạy tasks
-* Jobs
-    * Học `Networking`
-    * Học `Database`
-    * Làm `LeetCode`
-    * Giải `Cracking the Coding Interview`
-* `DISCIPLINE`
-* `PROACIVE`
-* Health
-    * Hít đất
-    * Chạy bộ
