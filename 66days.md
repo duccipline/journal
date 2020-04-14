@@ -20,7 +20,7 @@
 # 6x66 Ngày thử thách
 
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
-* [ ] - Bảng B2 (59/66)
+* [ ] - Bảng B2 (61/66)
 
 ## Bảng B2
 
@@ -60,8 +60,9 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|61|14/04| - Làm Thesis <br> - Đọc Computer System <br> - Đọc Disciplined Entrepreneur <br> - Brainstorm CS407 Assignment <br> - Tập thể dục | - Dậy sớm 4:30 | | | | | - 4:55 Make it an effective day |
+|62|13/04| <details close> <summary>Checklist</summary> - <input type="checkbox"> Làm thesis <br> - <input type="checkbox"> Đọc Disciplined Entrepreneur <br> - <input type="checkbox"> Viết Assignment 2 CS407 <br> - <input type="checkbox"> Chạy bộ <br> - <input type="checkbox"> Hít đất <br> - <input type="checkbox"> Plank <br> - <input type="checkbox"> Squat <br> - <input type="checkbox"> Tập VLTL cho ba <br> - <input type="checkbox"> Ngủ sớm | - Dậy sớm **3:30** | | | - Đọc Tờ kinh số 3, 4 (sáng) <br> - Đọc Cha tôi Đặng tiểu bình (11) <br> | - _If today is the last day of life, will I want to do what I am about to do today?_| - _4:00_ Hôm nay phải làm việc hiệu quả <br> - _4:01_ Đau ngón tay út từ hôm qua tới giờ, gõ phím khó chịu quá =))
 | | 
+|61|14/04| <details close> <summary>Checklist</summary>- <input type="checkbox" checked> Làm Thesis <b>ok</b><br> - <input type="checkbox" checked> Đọc Computer System <b>ok</b><br> - <input type="checkbox" checked> Đọc Disciplined Entrepreneur <b>ok</b> <br> - <input type="checkbox" checked> Tập thể dục <b>ok</b> <hr> - Brainstorm CS407 Assignment </details> | - Dậy sớm **4:30** <br> - Chạy bộ **3.01km/pace 5:56** <br> - Squat 50x2 <br> - Ngủ sóm 23:30 | | - Đo huyết áp cho ba <br> - Tập VLTL cho ba (2 lần) | - Đọc Tờ kinh số 3, 4 (sáng) <br> - Đọc Cha tôi Đặng Tiểu Bình (8, 9, 10) <br> - Đọc Disciplined Entrepreneur <br> - Làm Thesis | <details close><summary>Nghe</summary> - [Start-up inside corporate](http://tqkradio.com/73-interview-u-cn-phi-ngh-vic-khi-nghip) <br> - [6 chiến lược được Warren Buffett dùng xuyên suốt sự nghiệp](https://youtu.be/jRbyGl9fu7Y) <br> - [5 bài học thông tuệ từ Charlie Munger](https://youtu.be/2oiykQrY0Ys) </details> - Dạy Phúc| - _4:55_ Make it an effective day <br> - _23:30_ Một ngày chưa đủ hiệu quả (chưa đủ thỏa mãn) + làm thesis chưa đủ nhiều |
 |60|13/04| <details close>- Làm Thesis <b>ok</b><br> - Reading <b>ok</b> <br> - Tập VLTL cho ba <b>ok</b><br> - Chạy bộ <b>ok</b><br> - Hít đất <b>ok</b><br> - Plank <b>ok</b><br> - Squat <b>ok</b><br> - Ngủ sớm </details> | <details close>- Dậy sớm **4:00** <br> - Hít đất 25x4 = **100 cái** <br> - Plank 55s + 85s + 100s +67s = **5'07** <br> - Squat 50x2 <br> - Chạy bộ **2.01km/pace 5:45** </details> | - Duolingo Chinese 15 phút | - Tập VLTL cho ba <br> - Đo huyết áp cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneur <br> - Đọc code Thesis <br> - Đọc Cha tôi Đặng Tiểu Bình (6, 7) | <details close><summary>Look in the mirror in the morning and ask</summary> <i>If today is the last day of life, will I want to do what I am about to do today?</i> </details> <br> <details close><summary>Nghe</summary>- TQKS [Thâm nhập thị trường Mỹ](http://tqkradio.com/70-interview-m-c-g-hay) <br> - TQKS [My Asian Pride](https://youtu.be/D1jd8cqEaxw) <br> - TSKD [#123](https://soundcloud.com/web5ngay/tap-123-cham-de-nhanh) <details> | - Hôm nay phải tracking tất cả mục tiêu đầu ngày đề ra
 | |
 | | Còn | 6 | ngày | để | làm | việc | hiệu | quả! |
