@@ -13,14 +13,22 @@
 > * Being a Red Coder on Codeforces/Topcoder
 > * Proficiency in Mandarin 
 
-> Không có cái nào dễ đạt được, bởi vậy nên lợi thế lớn + hạn sử dụng dài.
+> Không có cái nào dễ đạt được &rarr; lợi thế lớn + hạn sử dụng dài.
 
 </details>
 
 # 6x66 Ngày thử thách
 
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
-* [ ] - Bảng B2 (64/66)
+* [x] - Bảng B2 (**hoàn thành**)
+* [ ] - Bảng C (0/66)
+
+## Bảng C
+
+STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
+|---|------|----------|----------|---|---|---|---|---|
+|00 |20/04 | | - Dậy sớm **4:00**
+
 
 ## Bảng B2
 
@@ -58,6 +66,9 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 ### TỔNG KẾT BẢNG B2
 
+<details close>
+<summary>Summary</summary>
+<br>
 Trong 66 ngày của bảng B2
 
 * Thesis
@@ -74,14 +85,16 @@ Trong 66 ngày của bảng B2
     * Hít đất &rarr; Đã duy trì được việc hít đất 200 cái mỗi ngày (có thấy được thay đổi trên cơ thể) &rarr; Sau đó kiệt sức trong giai đoạn cuối của bảng B2 &rarr; Bảng C cần bắt đầu với khối lượng hít đất nhẹ và tăng dần lên từ từ &rarr; Giai đoạn cuối bảng C sẽ dễ dàng hít đất 200 cái/ngày
     * Chạy bộ &rarr; Trong hơn 10 ngày cuối, đã duy trì được việc dậy sớm chạy bộ mỗi ngày &rarr; Phải tiếp tục phát huy
 
+</details>
+
 ### Tracklog
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|**66**|**19/04**| <details close><summary>Checklist</summary>- Chạy bộ 5km <br> - Hít đất 200 cái <br> - Plank 10 phút <br> - Squat 200 cái <br> - Ngủ sớm <br> - Học 5 từ Verbal Advantage <br> - Review Chinese <br> - Tập VLTL cho ba 4 lần </details> | - Dậy sớm **5:00**
+|**66**|**19/04**| <details close><summary>Checklist</summary> - &check; Squat 200 cái <br> - &check; Hít đất 200 cái <br> - &check; Plank 10 phút <hr> - Ngủ sớm <br> - Chạy bộ 5km <br> - Học 5 từ Verbal Advantage <br> - Review Chinese <br> - Tập VLTL cho ba 4 lần </details> | - Dậy sớm **5:00** <br> - Squat 50x4 <br> - Hít đất 25x8 = **200 cái** <br>| | - Tập VLTL cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) | <details close><summary>Nghe</summary>- Xem [How the Economic Machine works](https://youtu.be/PHe0bXAIuk0) <br> - Nghe [Web5ngay - Việc Tốt Này Đang LÀM HẠI Đời Bạn](https://youtu.be/LBO2WDy7-hE) &rarr; **Dunning Kruger Effect** + **Fundamental Attribution Error** <br> - Nghe [Web5ngay - Lấy cái lười để trị bệnh lười](https://youtu.be/fnND2v8Emz4) <br> - Nghe [Web5ngay - Nói chuyện kiểu này, không bao giờ bị ai ghét](https://youtu.be/fffL7U_7bMY) <br> - Nghe [Web5ngay - 90% giao tiếp sai lầm mà không biết](https://youtu.be/gKs7LOZLHPI) </details>
 | | 
-|65|18/04| <details close><summary>Checklist</summary> - &check; Squat <hr> - Đọc Computer System <br> - Ngủ sớm </details> | - Dậy sớm **4:00** <br> - Squat 50x2 | - Duolingo Chinese | | - Đọc Disciplined Entrepreneurship (12, 13, 14) <br> - Làm xong Assignment CS409 <br> - Học Online CS409 <br> - Học Online CS407 <br> - Làm xong Assignment 2 CS407  | | - "Nếu đang sống với những hào quang của ngày xưa là bởi vì hôm nay bạn không có hào quang". - anh Lưu Nguyễn Hồng Quan
-|64|17/04| <details close><summary>Checklist</summary> - &check; Reading <br> - &check; Squat <br> - &check; Làm Assignment 2 CS407 <br> - &check; Làm Assignment CS409 <hr> - Ngủ sớm <br> - Tập VLTL cho ba </details> | - Dậy sớm **4:45** <br> - Squat 50x2 <br> - Plank 90s +| | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Họp team CS409 <br> - Đọc Cha tôi Đặng Tiểu Bình (22, 23, 24, 25) <br> - Đọc Disciplined Entrepreneur (3, 4, 5, 6, 7, 8, 9 ,10, 11) <br> - Đang làm Assignment 2 CS407 <br> - Đang làm Assignment CS409 | | - Hôm nay nhiều việc phải làm quá nên áp dụng **Pomodoro**
+|65|18/04| <details close><summary>Checklist</summary> - &check; Squat <hr> - Đọc Computer System <br> - Ngủ sớm </details> | - Dậy sớm **4:00** <br> - Squat 50x2 | - Duolingo Chinese | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneurship (12, 13, 14) <br> - Làm xong Assignment CS409 <br> - Học Online CS409 <br> - Học Online CS407 <br> - Làm xong Assignment 2 CS407 | | - "**Nếu đang sống với những hào quang của ngày xưa là bởi vì hôm nay bạn không có hào quang**". - anh Lưu Nguyễn Hồng Quang
+|64|17/04| <details close><summary>Checklist</summary> - &check; Reading <br> - &check; Squat <br> - &check; Làm Assignment 2 CS407 <br> - &check; Làm Assignment CS409 <hr> - Ngủ sớm <br> - Tập VLTL cho ba </details> | - Dậy sớm **4:45** <br> - Squat 50x2 <br> - Plank 90s | | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Họp team CS409 <br> - Đọc Cha tôi Đặng Tiểu Bình (22, 23, 24, 25) <br> - Đọc Disciplined Entrepreneur (3, 4, 5, 6, 7, 8, 9 ,10, 11) <br> - Đang làm Assignment 2 CS407 <br> - Đang làm Assignment CS409 | | - Hôm nay nhiều việc phải làm quá nên áp dụng **Pomodoro**
 |63|16/04| <details close><summary>Checklist</summary>- &check; Plank <br> - &check; Squat <br> - &check; Reading <br> - &check; Làm Thesis <br> - &check; Hít đất <br> - &check; Chạy bộ <br> - &check; Ngủ sớm <hr> - Làm Assignment 2 CS407 <br> - Family </details> | <details close>- Dậy sớm **5:00** <br> - Squat 50x2 <br> - Plank 100s + 140s + 30s + 60s = **5'30** <br> - Hít đất 25x4 = **100 cái** <br> - Chạy bộ **2.00km/pace 5:45** <br> - Ngủ sớm 23:45 </details> | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba <br> | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng Tiểu Bình (17, 18, 19, 20, 21) <br> - Học Online CS386 <br> - Chạy Code Thesis | <details close><summary>Nghe</summary>- [Học Marketing ở VN](http://tqkradio.com/68-interview-chuyn-hc-ngnh-marketing-vit-nam) <br> - [TOP CEO Johnathan Hạnh Nguyễn](https://youtu.be/lzNRC1DsxxM) </details> | - Buổi trưa, chiều bị đau đầu, kéo theo cả nửa ngày xuống tinh thần <br> - 21:30, ráng boost lại tinh thần, tracking mục tiêu tiếp
 |62|15/04| <details close> <summary>Checklist</summary> - &check; Làm thesis <br> - &check; Đọc Disciplined Entrepreneur <br> - &check; Chạy bộ  <br> - &check; Plank <br> - &check; Squat <br> - &check; Tập VLTL cho ba <br> - &check; Ngủ sớm <hr> - Viết Assignment 2 CS407 <br> - Hít đất | - Dậy sớm **3:30** <br> - Chạy bộ **3.10km/pace 5:52** <br> - Squat 50x2 = 100 cái <br> - Plank 105s x 3 = **5'15** <br> - Ngủ sớm **23:00**| - Duolingo Chinese 15 phút | - Tập VLTL cho ba <br> - Đo huyết áp cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng tiểu bình (11, 12, 13, 14, 15, 16) <br> - Đọc Code Pytorch Fairseq <br> - Đọc Disciplined Entrepreneur <br> - Họp team CS409 | - _If today is the last day of life, will I want to do what I am about to do today?_ <br> <details close><summary>Nghe</summary> - [TQKS Làm gì cho qua mùa stay home?](https://youtu.be/W-ukkUmZB8g) <br> - [TQKS Hiểu gì về gói cứu trợ 2000 tỷ USD của Mỹ](https://youtu.be/EtF2ZIVZ2wk) <br> - [Mozart](https://youtu.be/Rb0UmrCXxVA) <br> - [Chopin](https://youtu.be/wygy721nzRc) </details> | - _4:00_ Hôm nay phải làm việc hiệu quả <br> - _4:01_ Đau ngón tay út từ hôm qua tới giờ, gõ phím khó chịu quá =))
 |61|14/04| <details close> <summary>Checklist</summary>- &check; Làm Thesis <b>checked</b><br> - &check; Đọc Computer System <b>checked</b><br> - &check; Đọc Disciplined Entrepreneur <b>checked</b> <br> - &check; Tập thể dục <b>checked</b> <hr> - Brainstorm CS407 Assignment </details> | - Dậy sớm **4:30** <br> - Chạy bộ **3.01km/pace 5:56** <br> - Squat 50x2 <br> - Ngủ sớm 23:30 | | - Đo huyết áp cho ba <br> - Tập VLTL cho ba (2 lần) | - Đọc Tờ kinh số 3, 4 (sáng) <br> - Đọc Cha tôi Đặng Tiểu Bình (8, 9, 10) <br> - Đọc Disciplined Entrepreneur <br> - Làm Thesis | <details close><summary>Nghe</summary> - [Start-up inside corporate](http://tqkradio.com/73-interview-u-cn-phi-ngh-vic-khi-nghip) <br> - [6 chiến lược được Warren Buffett dùng xuyên suốt sự nghiệp](https://youtu.be/jRbyGl9fu7Y) <br> - [5 bài học thông tuệ từ Charlie Munger](https://youtu.be/2oiykQrY0Ys) </details> - Dạy Phúc| - _4:55_ Make it an effective day <br> - _23:30_ Một ngày chưa đủ hiệu quả (chưa đủ thỏa mãn) + làm thesis chưa đủ nhiều |
