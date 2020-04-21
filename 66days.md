@@ -21,13 +21,18 @@
 
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - Bảng B2 (**hoàn thành**)
-* [ ] - Bảng C (0/66)
+* [ ] - Bảng C (1/66)
 
 ## Bảng C
 
+<br> 
+
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|00 |20/04 | | - Dậy sớm **4:00**
+|02|22/04| - Tập VLTL cho ba <br> - Ngủ sớm| - Dậy sớm **3:30** 
+| | | | | | | |
+|01|21/04| - &check; Plank + squat + hít đất <br> - &check; Ngủ sớm <hr> - Chạy bộ <br>| - Dậy sớm **6:00** <br> - Squat 50x4 = **200 cái** <br> - Hít đất 50x4 = **100 cái** <br> - Ngủ sớm 21:00 | - Duolingo Chinese 15 phút | - Đo huyết áp cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng Tiểu Bình (31, 32, 33) <br> - Đọc Computer System (Linkers) | <summary>Đọc hiểu: Tại sao giá dầu thô xuống âm</summary> - [Chung Nguyen](https://www.facebook.com/congdan.phoco/posts/2289671624660484) <br> - [Giang Le 1](https://www.facebook.com/permalink.php?story_fbid=2539680169626710&id=100007542552795) <br> - [Giang Le 2](https://www.facebook.com/permalink.php?story_fbid=2539738286287565&id=100007542552795) <br> - [Giang Le 3](https://www.facebook.com/permalink.php?story_fbid=2539913349603392&id=100007542552795) <hr> - Dạy Phúc
+|00|20/04| - &check; Plank + Hít đất + Squat <br>  - &check; Reading <br> - &check; Tập VLTL cho ba <hr> - Chạy 5km &rarr; 4.75km only <br> - Đọc Computer System <br> - Học 5 từ Verbal Advantage <br> | - Dậy sớm **4:00** <br> - Chạy bộ (5:30) **2.02km/pace 5'33** <br> - Squat 50x2 = **100 cái** <br> - Plank 120s + 130s + 114s = **6'04** <br> - Hít đất <br> - Chạy bộ (23:00) **2.75/pace 5'45**| - Nghe [IELTS Speaking Band 9 Vietnam](https://youtu.be/TjuoNc0nTH4) <br> - Nghe [IELTS Speaking Band 9 British candidate](https://youtu.be/Yv8ND2mgShQ)| - Tập VLTL cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng Tiểu Bình (26, 27, 28, 29, 30) <br> - Học Online đầu tư CK | - Nghe TSKD [122, 123, 124](https://tamsukinhdoanh.com/tap-124-ta-ko-gioi-nhu-minh-nghi/) <br> - Nghe anh Thái [Bất động sản sẽ ra sao thời suy thoái kinh tế](https://youtu.be/LHJ3p36Qm_c)
 
 
 ## Bảng B2
@@ -91,7 +96,7 @@ Trong 66 ngày của bảng B2
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|**66**|**19/04**| <details close><summary>Checklist</summary> - &check; Squat 200 cái <br> - &check; Hít đất 200 cái <br> - &check; Plank 10 phút <hr> - Ngủ sớm <br> - Chạy bộ 5km <br> - Học 5 từ Verbal Advantage <br> - Review Chinese <br> - Tập VLTL cho ba 4 lần </details> | - Dậy sớm **5:00** <br> - Squat 50x4 <br> - Hít đất 25x8 = **200 cái** <br>| | - Tập VLTL cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) | <details close><summary>Nghe</summary>- Xem [How the Economic Machine works](https://youtu.be/PHe0bXAIuk0) <br> - Nghe [Web5ngay - Việc Tốt Này Đang LÀM HẠI Đời Bạn](https://youtu.be/LBO2WDy7-hE) &rarr; **Dunning Kruger Effect** + **Fundamental Attribution Error** <br> - Nghe [Web5ngay - Lấy cái lười để trị bệnh lười](https://youtu.be/fnND2v8Emz4) <br> - Nghe [Web5ngay - Nói chuyện kiểu này, không bao giờ bị ai ghét](https://youtu.be/fffL7U_7bMY) <br> - Nghe [Web5ngay - 90% giao tiếp sai lầm mà không biết](https://youtu.be/gKs7LOZLHPI) </details>
+|**66**|**19/04**| <details close><summary>Checklist</summary> - &check; Squat 200 cái <br> - &check; Hít đất 200 cái <br> - &check; Plank 10 phút <hr> - Ngủ sớm <br> - Chạy bộ 5km <br> - Học 5 từ Verbal Advantage <br> - Review Chinese <br> - Tập VLTL cho ba 4 lần </details> | - Dậy sớm **5:00** <br> - Squat 50x4 <br> - Hít đất 25x8 = **200 cái** <br> - Plank 95s + 55s + 100s + 70s + 140s + 60s + 80s = **10'**| | - Tập VLTL cho ba | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) | <details close><summary>Nghe</summary>- Xem [How the Economic Machine works](https://youtu.be/PHe0bXAIuk0) <br> - Nghe [Web5ngay - Việc Tốt Này Đang LÀM HẠI Đời Bạn](https://youtu.be/LBO2WDy7-hE) &rarr; **Dunning Kruger Effect** + **Fundamental Attribution Error** <br> - Nghe [Web5ngay - Lấy cái lười để trị bệnh lười](https://youtu.be/fnND2v8Emz4) <br> - Nghe [Web5ngay - Nói chuyện kiểu này, không bao giờ bị ai ghét](https://youtu.be/fffL7U_7bMY) <br> - Nghe [Web5ngay - 90% giao tiếp sai lầm mà không biết](https://youtu.be/gKs7LOZLHPI) </details>
 | | 
 |65|18/04| <details close><summary>Checklist</summary> - &check; Squat <hr> - Đọc Computer System <br> - Ngủ sớm </details> | - Dậy sớm **4:00** <br> - Squat 50x2 | - Duolingo Chinese | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneurship (12, 13, 14) <br> - Làm xong Assignment CS409 <br> - Học Online CS409 <br> - Học Online CS407 <br> - Làm xong Assignment 2 CS407 | | - "**Nếu đang sống với những hào quang của ngày xưa là bởi vì hôm nay bạn không có hào quang**". - anh Lưu Nguyễn Hồng Quang
 |64|17/04| <details close><summary>Checklist</summary> - &check; Reading <br> - &check; Squat <br> - &check; Làm Assignment 2 CS407 <br> - &check; Làm Assignment CS409 <hr> - Ngủ sớm <br> - Tập VLTL cho ba </details> | - Dậy sớm **4:45** <br> - Squat 50x2 <br> - Plank 90s | | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Họp team CS409 <br> - Đọc Cha tôi Đặng Tiểu Bình (22, 23, 24, 25) <br> - Đọc Disciplined Entrepreneur (3, 4, 5, 6, 7, 8, 9 ,10, 11) <br> - Đang làm Assignment 2 CS407 <br> - Đang làm Assignment CS409 | | - Hôm nay nhiều việc phải làm quá nên áp dụng **Pomodoro**
