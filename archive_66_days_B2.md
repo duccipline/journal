@@ -34,7 +34,7 @@ Vì Bảng B quá lười biếng và thất bại &rarr; làm lại. Cố lên!
 
 </details>
 
---
+<hr>
 
 ### TỔNG KẾT BẢNG B2
 
@@ -56,7 +56,7 @@ Trong 66 ngày của bảng B2
 
 <br>
 
---
+<hr>
 
 ### Tracklog
 
