@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (4/66)
+* [ ] - Bảng C (5/66)
 
 ## Bảng C
 
@@ -63,7 +63,8 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|05|25/04| - &check; Chạy bộ `I` <br> - Học 5 từ Verbal Advantage `I` <br> - Đọc Computer Systems `I` <br> - Hít đất + Squat + Plank `I` <br> - Đọc Disciplined Entrepreneur `II` <br> - Ngủ sớm 23:00 | - Dậy sớm **3:30** <br> - Chạy bộ (5:10) **5.02km/pace 5'34** | | | - Đọc Tờ kinh số 3, 4 (sáng) <br> - Đọc Cha tôi Đặng Tiểu Bình (39)
+|06|26/04| - Chạy bộ <br> - Đọc Database Systems <br> - Đọc Computer Systems <br> - Học 5 từ Verbal Advantage | - Dậy sớm **4:00** | | | - Đọc Tờ kinh số 3, 4 <br> - Học khóa đầu tư anh Thành <br> 
+|05|25/04| - &check; Chạy bộ `I` <br> - &check; Đọc Computer Systems `I` <br> - &check; Hít đất + Squat + Plank `I` <br> - &check; Ngủ sớm 23:00 <br> - &check; Đọc Disciplined Entrepreneurship `II` <hr> - Học 5 từ Verbal Advantage `I` | - Dậy sớm **3:30** <br> - Chạy bộ (5:10) **5.02km/pace 5'34** <br> - Plank 182s = **3'02** <br> - Squat 50x4 = **200 cái** <br> - Hít đất 25x8 = **200 cái** <br> - Ngủ sớm **22:00**| | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng Tiểu Bình (39) <br> - Học Online CS409 <br> - Học Online CS407 <br> - Đọc Computer Systems - **System-Level I/O** <br> - Đọc Disciplined Entrepreneurship (12) | - Xem Grokking Webinar #04: How To Prepare & Succeed In A Coding Interview - Duc Ngo, RR <br> - Xem Career Talk - Alice Hong Nguyen, RR
 | | | | | | | |
 |04|24/04| - &check; Hoàn thành Assignment 3 CS407 <br> - &check;Ngủ sớm 22:30 <hr> - Chạy bộ <br> - Reading | - Dậy sớm **4:00** <br> - Ngủ sớm | | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Hoàn thành Assignment 3 CS407 <br> - Học Online CS386 <br> - Đọc Database System | | <details close>- (5:15) Thèm ăn hột vịt lộn haha </details>
 |03|23/04| - &check; Chạy bộ <br> - &check; Reading <br> - &check; Tập VLTL cho ba <br> - &check; Hít đất + squat + plank <br> - &check; Đọc Disciplined Entrepreneurship <br> - &check; Ngủ sớm <br> - &check; Đọc Computer Systems <br> - &check; Làm Assignment 3 CS407 <hr> - Đọc Database System | - Dậy sớm **4:00** <br> - Chạy bộ (5:30) **2.02km/pace 5'30** <br> - Squat 50x4 = **200 cái** <br> - Plank <br> - Hít đất 25x1 <br> - Ngủ sớm 23:00 | - Duolingo 15 phút | - Tập VLTL cho ba (sáng) | - Đọc Tờ kinh số 3, 4 (sáng) <br> - Đọc Disciplined Entrepreneurship (12, 14, 16) <br> - Đọc Cha tôi Đặng Tiểu Bình (37, 38) <br> - Học Online CS386 <br> - Đọc Computer Systems (chapter 7 - Linking) <br> - Họp team CS409 <br> - Viết Assignment 3 CS407 | - Dạy Phúc
