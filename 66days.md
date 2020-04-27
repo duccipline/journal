@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (6/66)
+* [ ] - Bảng C (7/66)
 
 ## Bảng C
 
@@ -50,6 +50,12 @@
     * Học Mandarin Chinese
     * Đọc sách mỗi ngày
 
+### Wisdom
+
+> ### "Một người khôn ngoan không vì họ có nhiều thứ để nói, mà vì trong số ít thứ họ có để nói thì đều có giá trị khiến người khác lắng nghe".
+
+<br>
+
 ### Reminder
 
 (April 25) Hôm nay mình sẽ bắt đầu phân loại công việc hằng ngày theo mô hình này. Thứ tự ưu tiên làm từ `I` **>** `II` **>** `III` **>** `IV`.  
@@ -64,8 +70,9 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|07|27/04| - Làm LeetCode `I` <br> - Đọc Computer Systems `I` <br> - Reading `I` <br> - Học 5 từ Verbal Advantage `I` <br> - Chạy bộ `II` <br> - Hít đất `II` <br> - Plank + Squat `II` <br> - Tập VLTL cho ba + Đo huyết áp `II` | - Dậy sớm **4:00** | - Verbal Advantage **HETERROGENEOUS**, **PITTANCE**, **GLIB**, **PENCHANT**, **SOLICITOUS** | | - Đọc Tờ kinh số 3, 4 (sáng) | - Nghe nhạc khởi động ngày mới
+|08|28/04| - Reading `II` <br> - Đọc Computer Systems `I` <br> - Làm Assignment 3 CS409: Business Model You `I` <br> - Chạy bộ 3km `II` <br> - Làm LeetCode `II` | - Dậy sớm **4:30** | | | | - TQKS [3 Chữ A, sự hời hợt và những hiểu lầm về tự kỷ](https://youtu.be/3Ga0mwFoELk)
 | | | | | | | |
+|07|27/04| - &check; Chạy bộ `II` <br> - &check; Plank + Squat `II` <br> - &check; Reading `I` <br> - &check; Hít đất `II` <br> - &check; Học 5 từ Verbal Advantage `I` <hr> - Làm LeetCode `I` <br> - Đọc Computer Systems `I` <br> - Tập VLTL cho ba + Đo huyết áp `II` | - Dậy sớm **4:00** <br> - Chạy bộ (5:20) **3.00km/pace 5'41** <br> - Plank 75s + 100s + 95s = **4'30** <br> - Squat 50x4 = **200 cái** <br> - Hít đất 25x4 = **100 cái** <br> - Ngủ sớm 20:00 | - Verbal Advantage **HETERROGENEOUS**, **PITTANCE**, **GLIB**, **PENCHANT**, **SOLICITOUS** | | - Đọc Tờ kinh số 3, 4 (sáng, trưa) <br> - Đọc Cha tôi Đặng Tiểu Bình (43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, **100%**) <br> - Đọc **Business Model You** (để viết Assignment CS409) | - Nghe nhạc khởi động ngày mới <br> - TQKS [TRƯỜNG LÀNG VẪN RA THẾ GIỚI - LÀM THẾ NÀO ĐỂ NHẬN HỌC BỔNG DU HỌC?](https://youtu.be/tkiZJeRFTik) <br> - TQKS [How I improve my speaking skills](https://youtu.be/ZnhzVWGqs1A) <br> - Tâm sự kinh doanh [#125](https://tamsukinhdoanh.com/tap-125/) <br> - [Why sitting is bad for you](https://youtu.be/wUEl8KrMz14) &rarr; Our body is built for movement not for stillness | - Phải đậu vào công ty 25 tỷ đô, chăm chỉ để trở thành Fresher xuất sắc nhất ở đó, cố lên!
 |06|26/04| - &check; Chạy bộ `I` <br> - &check; Học 5 từ Verbal Advantage `I` | - Dậy sớm **4:00** <br> - Chạy bộ (5:30) **1.00km/pace 4'49** <br> **1.00km/pace 5'40** <br> - Ngủ sớm **20:00** | - Verbal Advantage **DEFRAY**, **TACITURN**, **TERSE**, **BOON**, **PROLETARIAT** | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Học khóa đầu tư anh Thành <br> - Đọc Cha tôi Đặng Tiểu Bình (40, 41, 42) | - TQKS [Nhà đầu tư cá nhân: nhìn gì về giá dầu?](https://youtu.be/UOOlpYfi2yA) <br> - TQKS [Đối thoại: giá dầu sụt xuống mức âm lần đầu tiên trong lịch sử!](https://youtu.be/bTITfkpu8E4) <br> - Web5ngay [6 kinh nghiệm để trở nên thông minh](https://youtu.be/Br-ad1TYYww)
 |05|25/04| - &check; Chạy bộ `I` <br> - &check; Đọc Computer Systems `I` <br> - &check; Hít đất + Squat + Plank `I` <br> - &check; Ngủ sớm 23:00 <br> - &check; Đọc Disciplined Entrepreneurship `II` <hr> - Học 5 từ Verbal Advantage `I` | - Dậy sớm **3:30** <br> - Chạy bộ (5:10) **5.02km/pace 5'34** <br> - Plank 182s = **3'02** <br> - Squat 50x4 = **200 cái** <br> - Hít đất 25x8 = **200 cái** <br> - Ngủ sớm **22:00**| | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Đọc Cha tôi Đặng Tiểu Bình (39) <br> - Học Online CS409 <br> - Học Online CS407 <br> - Đọc Computer Systems - **System-Level I/O** <br> - Đọc Disciplined Entrepreneurship (12) | - Xem Grokking Webinar #04: How To Prepare & Succeed In A Coding Interview - Duc Ngo, RR <br> - Xem Career Talk - Alice Hong Nguyen, RR
 |04|24/04| - &check; Hoàn thành Assignment 3 CS407 <br> - &check;Ngủ sớm 22:30 <hr> - Chạy bộ <br> - Reading | - Dậy sớm **4:00** <br> - Ngủ sớm | | | - Đọc Tờ kinh số 3, 4 (sáng, trưa, tối) <br> - Hoàn thành Assignment 3 CS407 <br> - Học Online CS386 <br> - Đọc Database System | | <details close>- (5:15) Thèm ăn hột vịt lộn haha </details>
