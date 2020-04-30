@@ -1260,3 +1260,682 @@ To **_mollify_**  | to **irritate**   |          | x
 **_Unequivocal_** | **_ambiguous_**   |          | x
 **Adaptable**     | **_malleable_**   | x        |
 **_Verbose_**     | **long-winded**   | x        |
+
+## Word 31 - 40
+
+1. TRANSIENT
+2. NETTLE
+3. REPUDIATE
+4. IMPETUOUS
+5. FRUGAL
+6. INCONGRUOUS
+7. ASSUAGE
+8. CORROBORATE
+9. EMBELLISH
+10. AVARICIOUS
+
+### TRANSIENT (TRAN-shint)
+
+* Adjective
+* Temporary, passing away with time, lasting only a short while, **moentary**, **fleeting**, short-lived (pronounced long _i_ as in _strive_)
+* **Tạm thời**; **Ngắn ngủi, chóng tàn	**
+* Noun: Khách lưu trú ngắn ngày
+* = _transitory_
+
+### NETTLE (NET-'l)
+
+* Transitive verb
+* To irritate, annoy, vex, harass (HAR-is or huh-RAS), **pester**, **provoke** &rarr; Làm phiền, quấy rầy, khó chịu
+* Noun: **cây tầm ma**
+
+> Their supervisor constantly nettled them about trivial or irrelevant details.
+
+> ![stinging-nettle-poisoning](https://user-images.githubusercontent.com/31420144/70790401-e7cfbe80-1d8c-11ea-842f-2779a8e594ec.jpg)
+
+### REPUDIATE (ri-PYOO-dee-ayt)
+
+* Transitive verb
+* To reject, **cast off**, disown, **renounce**, refuse to accept as one's own
+* **Thoái thác**
+* To reject as false, deny the authority of, refuse to accept as true
+* Khước từ
+
+`to repudiate a gift`, `to repudiate one's wife`, `to repudiate a debt`
+
+* _Repudiate_ suggests a formal, **often _vehement_ (VEE-uh-mint) rejection**
+	* You can repudiate a child, reject or disown the child
+	* You can repudiate a belief, cast it off or renounce it
+	* You can repudiate a claim, deny its authority
+	* You can repudiate a charge, reject it as untrue
+
+### IMPETUOUS (im-PECH-oo-us)
+
+* Adjective
+* Hasty, rash, overeager, acting in a sudden, vigorous, emotional way, with little thought
+* **Hung hăng; hăng hái; nóng nảy**
+* = **rash**, **impulsiv**
+	* &arr; refer to people who act first and think later
+	* `rash`, reckless haste, foolish darling
+	* `impulsive`, ungovernable inner often puts his foot in his  mouth
+* **≠** **prudent**, **circumspect**
+
+> The _impetuous_ shopper buys on impulse rather than out of necessity.  
+
+> A prudent investor is not likely to make _impetuous_ decisions.  
+
+> Children are often _impetuous_, prone to act suddenly without thinking.  
+
+> **Impetuous behavior in an adult is often considered overemotional or immature.**
+
+### FRUGAL (FROO-gul)
+
+* Adjective
+* Spending carefully and wisely, thrifty, economical
+* **Giản dị**, **thanh đạm**
+
+Synonyms
+
+| Words          | Meaning |
+|----------------|---------|
+| _Thrifty_      | implies hard work and good management as a means to **prosperity**  
+| _Economikcal_  | implies the use of money and resources in the **most advantagous way**
+| _Provident_    | **providing for the future**
+| _Parsimonious_ | **bủn xỉn**, extremely frugal, stingy, miserly
+| _Frugal_       | spending carefully \| involving little expense, not wasful or lavish &rarr; `A frugal meal is an economical, no-frills meals.`
+
+> The **thrifty**  person spends only what is necessary and diligently save the rest.
+
+> An economical investment is one that generates a higher return.  
+
+> The **provident** person spends carefully with a mind toward what may be needed later.  
+
+> The **parsimonious** person keeps a wary eye on every nickel and dime.  
+
+> **Flying coach rather than first-class is a more frugal way to travel.**  
+
+### INCONGRUOUS (in-KAHNG-groo-wus)
+
+* Adjective
+* Out of place, inappropriate, inconsistent, unsuitable, lacking harony of parts or agreement in character
+* **Không thích hợp**
+
+> The duffel coat looked incongruous with the black dress she wore underneath.  
+
+> An incongruous action is unsuitable to the occasion or situation.  
+
+> An incongruous mixture lacks harmony or agreement.  
+
+### ASSUAGE (uh-SWAYJ, rhymes with _a stage_)
+
+* Transitive verb
+* To relieve, ease, allay (uh-LAY), mitigate (MIT-i-gayt), make less severe or intense;
+* **Làm cho dịu**
+* To satisfy, appease (uh-PEEZ), make content
+
+> The letter assuaged the fears of most members.  
+
+> An opportunity occurred to assuage her desire for knowledge.  
+
+### CORROBORATE (kuh-RAHB-uh-rayt)
+
+* Transitive verb
+* To confirm, support, make more certain or believable
+* **Chứng thực**
+* = _authenticate_, _verify_, _substantiate_
+	* **authenticate**, to establish sth as _authentic_ or _genuine_ &rarr; `You **authenticate** a document, a signature, or a work of art.`
+	* **verify**, to establish as true, confirm the accuracy of &rarr; `Reporters have a responsibility to **verify** facts and quotations.`
+	* **substantiate**, to support by supplying reliable evidence or proof &rarr; `Scholars and scientists must **substantiate** their theories.`
+
+> Six witnesses corroborated the victim's account of the crime.  
+	
+> He was able to corroborate the findings.  
+
+> Can you corroborate the evidence in the portfolio?  
+
+### EMBELLISH (em-BEL-ish)
+
+* Transitive verb
+* To decorate, dress up, **adorn**, enhance with ornamentation (sự trang hoàng, trang trí) 
+* **Tân tạo**
+	* embellish the home
+	* embellish an outfit with ornaments or accessories
+	* embellish the speech or writing with interesting words and elegant phrases
+
+> Blue silk embellished with golden embroidery.  
+
+> Over the years the old fisherman had added many fanciful embellishments to his tale about "the big one that got away".
+
+### AVARICIOUS (AV-uh-RISH-us)
+
+* Adjective
+* Greedy, money-grubbing, miserly, consumed with selfish desire to accumulate money or property
+* **Tham lam quá độ**
+* = _greedy_, _**covetous**_
+	* _**covetous**_, an excessive and (sometimes) **immoral** desire for what another person has
+* Noun &rarr; **avarice** (AV-uh-ris) &rarr; an **inordinate** desire for wealth
+
+> Any observant person could see plainly that the city was run not by the people or the politicians but by a few avaricious developers who controlled most of the real estate, and a few avaricious bankers who were tight with credit and charged outrageous interest rates.
+
+> Steve wasn't sure if his neighbor Dave was more covetous of his new sport car or his attractive wife.  
+
+> When Anne was promoted to vice president, she could tell that most of her former coworkers in middle management were covetous of her spacious office and impressive salary.  
+
+### REVIEW
+
+Which word doesn't fit
+
+| Word             | Option 1           | Option 2       | Option 3         |
+|------------------|--------------------|----------------|------------------|
+| _Transient_      | **temporary**      | **passing**    | portable         |
+| To _nettle_      | puzzle             | **irritate**   | **annoy**        |
+| To _repudiate_   | **renounce**       | revoke         | **reject**       |
+| _Impetuous_      | **impulsive**      | hostile        | **rash**         |
+| _Frugal_         | **prudent**        | **economical** | spendthrift      |
+| _Incongruous_    | **inappropriate**  | inadequate     | **inconsistent** |
+| To _assuage_     | sympathize         | **ease**       | **relieve**      |
+| To _corroborate_ | **confirm**        | explain        | **support**      |
+| To _embellish_   | **make beautiful** | **dress up**   | show off         |
+| _Avaricious_     | lustful            | **covetous**   | **greedy**       |
+
+**Revoke** means to take back, withdraw, cancel  
+&rarr; **Repudiate** means to reject, refuse, renounce, deny
+
+## Word 41 - 50
+
+1. CURSORY
+2. VACILLATE
+3. CLEMENT
+4. LUCRATIVE
+5. ALLOCATE
+6. RECONCILE
+7. PARAGON
+8. ANALOGOUS
+9. DIURNAL
+10. PRETEXT
+
+### CURSORY (KUH-sur-ee)
+
+* Adjective
+* **Vội, nhanh, lướt qua**
+* Quick, hasty, not methodical, done rapidly with _little attention_ to detail, passing quickly over/through something that _deserves_ closer examination
+* **=** _hurried_, **haphazard**, **slapdash**, **superficial**
+* **≠** 
+
+### ANALOGOUS (un-NAL-uh-gus) 
+
+* Similar, akin, comparable (KAHM-pur-uh-buul), corresponding partially, sharing some aspects of form, function, or content
+* Tương tự
+
+### DIURNAL (dy-UR-nul)
+
+* Adjective, 2 meaning
+* Daily, recurring each day, **hằng ngày**
+* Active during the day **≠** **noctural** (active during the night)
+
+> At work your **diurnal** duties are the tasks you perform everyday.  
+
+> If your coworker complains every day about not getting a raise, that's her **diurnal** complaint.  
+
+> The ocean's tides and the rotation of the earth are diurnal; their cycles are completed in the course of a day.  
+
+### PRETEXT (PREE-tekst) 
+
+* Noun
+* An excuse, ostensible reason or motive, professed purpose
+* **Cái cớ**
+
+> The rebels had the perfect pretext for making their move.  
+
+> **Tyrannical** leaders often invent _pretexts_ for invading or declaring war on other countries.  
+
+> Irresponsible employees will invent _pretexts_ for not coming to work.  
+
+> A supervisor who hates an employee's guts may try to come up with a pretext for firing the person.  
+
+### REVIEW 
+
+Nearest meaning  
+
+| Word         | Option 1 | Option 2 | Option 3
+|--------------|---|---|---|
+| _Cursory_    | unnecessary | offensive | superficial
+| _Vacillate_  | to lubricate | to waver | to deceive | 
+| _Clement_    | gracious | fair | mild |
+| _Lucrative_  | profitable | prudent | unethical | 
+| _Allocate_   | to place | to assign | to support
+| _Reconcile_  | to examine closely | to deduce from evidence | to make friendly again
+| Is _Paragon_ | a reproduction | a model of excellence | the highest point
+| _Analogous_  | similar | identical | out of proportion
+| _Diurnal_    | daily | occasional | constant
+| Is _Pretext_ | an introduction | an opportunity | an excuse
+
+<br>
+<br> 
+
+# Level 3
+
+## Word 1 - 10
+
+1. DEFRAY
+2. TACITURN
+3. TERSE
+4. BOON
+5. PROLETARIAT
+6. HETEROGENEOUS
+7. PITTANCE
+8. GLIB
+9. PENCHANT
+10. SOLICITOUS
+
+### DEFRAY (di-FRAY)
+
+* verb
+* to pay, provide money for, cover the cost/expense of
+* = **pay**
+* **Not interchangeable**
+    * pay for a meal, pay the bills &rarr; not defray
+    * You might use an income tax refund to help **defray** the expense of a trip to Europe.
+    * A nonprofit corporation that receives a grant or donation might use it to defray the cost of office equipment and supplies.
+
+> Manual labour was adopted at first as a means for students to defray their college expenses.  
+  
+> Provincial banks have been established which defray the cost of public works.  
+
+### TACITURN (TAS-i-turn)
+
+* adjective
+* ít nói, lầm lì
+* Silent, not talkative, holding one's tongue, reserved, uncommunicative, reticent (RET-i-sint).
+    * Taciturn means silent by nature, preferring not to speak.
+* ≠ _garrulous_ (word 8 of Level 4), _loquacious_ (loh-KWAY-shus), _effusive_ (e-FYOO-siv, word 13 of Level 7), and _voluble_ (VAHL-yuh-bul, word 1 of Level 5).
+* Taciturn vs. Reticent
+    * **Taciturn** refers to a person who **habitually silent and withdrawn**
+    * **Reticent** means **reluctant to speak**
+
+> At dinner the prince usually spoke to the **taciturn** Michael Ivanovich more often than to anyone else.  
+
+> He was without question a reactionary, morose and **taciturn**, and spent nearly all his time shut up in his palace.  
+
+> He became melancholy, severe and **taciturn**.
+
+### TERSE (rhymes with _worse_)
+
+* adjective
+* ngắn gọn, xúc tích (văn)
+* Brief and to the point, free of superfluous words, expressed in a pointed and polished way.
+* = _concise_, _pithy_ (PITH-ee), _succinct_ (suhk-SINGKT), and _laconic_ (luh-KAHN-ik, word 18 of this level)
+* ≠ Antonyms include **long-winded**, **redundant**, **verbose** (word 30 of Level 2), and **prolix** (word 1 of Level 9).
+* Concise, succinct, and terse all suggest brevity, expressing something in a brief and direct way. 
+
+| Concise | Succinct | Terse |
+|---|---|---|
+| imply eliminating anything unnecessary or superfluous | imply getting the point across in the fewest possible words |
+| _Her presentation was persuasive and concise._ | _An effective letter to the editor must be succinct._ | 
+
+
+> I could tell by her **terse** response Molly was nearby.  
+
+> Dean leaned over his stepfather's shoulder to read the **terse** response.  
+
+> He expressed himself in a **terse** and vigorous style.  
+
+> His **terse** voice followed her.  
+
+> The single word was **terse** and the eyes reflected sincerity.  
+
+### BOON (rhymes with _moon_)
+
+* noun
+* Mối lợi, lợi ích
+* Ơn, ân huệ
+* A blessing, timely and welcome benefit, something beneficial bestowed upon one, something to be thankful for.
+    * &rarr; **This good weather is aboon.**
+    * &rarr; **His efforts were a boon to their enterprise.**
+
+> "You owe me a boon," she said.  
+
+> For as yet he had not snatched the perilous boon of wisdom.
+
+> It is an unspeakable boon to me to be able to speak in winged words that need no interpretation.  
+
+### PROLETARIAT (PROH-luh-TAIR-ee-it)
+
+* noun
+* giai cấp vô sản
+* The working class, especially the industrial wage-earning class, which earns its living by manual labor.
+* &rarr; adjective _proletarian_ (PROH-luh-TAIR -ee-in)
+* ≠ **Bourgeoisie** - giai cấp tư sản
+* ≠ **Aristocracy** - tầng lớp quý tộc
+
+
+### HETEROGENEOUS (HET-uh-roh-JEE-nee-us)
+
+* adjective
+* hỗn tạp, khác thể, không đồng nhất, không thuần nhất
+* Varied, composed of parts of different kinds, made up of unrelated or diverse elements, mixed, dissimilar, miscellaneous.
+* ≠ _homogeneous_ - đồng nhất, đồng đều, thuần nhất
+
+> Its population, then as at the present day, was a **heterogeneous** collection of all races.  
+
+> After the outbreak of the war a somewhat indefinite, **heterogeneous** provisional government was in power till a constitution was adopted in 1780, when John Hancock became the first governor.  
+
+### PITTANCE (PIT-'ns)
+
+* noun
+* tiền thù lao rẻ mạt, số lượng nhỏ
+* A small amount, portion, or share, especially a small or meager amount of money
+
+> Her inheritance was only a **pittance**.  
+
+> He received a **pittance** for his services.  
+
+> Some people will work for a **pittance** if the job is rewarding.  
+
+### GLIB (rhymes with _rib_)
+
+* adjective
+* lém lỉnh, liến thoắng
+* Smooth-spoken, speaking in a ready, fluent manner, with natural or offhand ease, talkative in a nonchalant way. 
+    * fluent and voluble but insincere and shallow: 
+    * _She was careful not to let the answer sound too glib._
+
+* = _suave_, _facile_, _bland_, _voluble_ (word 1 of Level 5), _flippant_, and _unctuous_ (UHNGK-choo-us).
+* Glib answers may be thoughtless, ill-considered; glib proposals or solutions may be superficial; and a glib salesperson or a glib politician may be persuasive but insincere.
+
+> If your lover is someone who is prone to a **glib** tongue, you may get answers that send you both into gales of laughter.  
+
+> But any such comparisons are very _superficial_ and very **glib**.  
+
+> **glib** remark made by the leading man.
+
+### PENCHANT (PEN-chint)
+
+* noun
+* thiên hướng
+* A liking, leaning, strong inclination, decided taste: “a penchant for sports,” “a penchant for poetry,” “a penchant for spicy food.”
+* Synonyms
+
+| **propensity** | **proclivity** (for) | **penchant** |
+|---|---|---|
+| a profound, often irresistible inclination | a strong natural or habitual tendency, especially toward something objectionable or wicked |
+| - _Successful businesspeople have a **propensity** for discerning the bottom line and making a profit._ | - _Career criminals have a **proclivity** for violence._ | - _Many people have a **penchant** for chocolate, a strong liking, decided taste._
+
+> He has a **penchant** for the game.  
+
+> My aunt has a **penchant** for things that are a bit **wacky**.  
+
+**wacky** = tàng tàng, điên điên
+
+> With a **penchant** for medicine and science and my magic, I can cure what others could not.  
+
+### SOLICITOUS
+
+* adjective
+* lo lắng, lo âu
+* great concern, usually displayed by thoughful care or hovering attention
+* + **OF**, + **FOR**, + **ABOUT**
+    * solicitous of a child
+    * solicitous for a welfare or another
+    * solicitous about the outcome of an event
+
+> She was always **solicitous** about the welfare of her students | a solicitous inquiry.  
+
+> Nor were they so **solicitous**, as it is pretended, to conceal from the authorities what they did and said in their liturgical meetings.  
+
+> He was an able man, with a special talent for finance, free from all taint of personal corruption, and sincerely **solicitous** for the honour of Athens, but enslaved to popularity, and without principles of policy.  
+
+* ham muốn, ước ao &rarr; (nghĩa cổ)
+* eager, full of desire, willing
+* + **TO**
+
+> He was **solicitous** **to** cultivate her mamma's good opinion.  
+
+> He is even **solicitous** to show that his point of view is that of the cultivated gentleman and not of the specialist of any order.  
+
+> During the first few days I thought she seemed very **solicitous** to win his admiration.  
+
+### REVIEW
+
+Yes/No  
+
+1. Would a year-end bonus help **defray** your holiday expenses? **YES**
+2. Is a _garrulous_ or _loquacious_ person also taciturn? **NO**
+3. Is a **terse** speaker long-winded and tedious? **NO**
+4. Would winning the lottery be a boon? **YES**
+5. Is the _aristocracy_ the opposite of the **proletariat**? **YES**
+6. Is American society **heterogeneous**? **YES**
+7. Will some people work for a **pittance** if the job is rewarding? **YES**
+8. Is a **glib** speaker _earnest_ and _excited_? **NO**
+9. When you have a **penchant** for something, do you find it _irritating_ or _disagreeable_? **NO**
+10.Can you be **solicitous** about someone's health? **YES**
+
+## Word 11 - 20
+
+1. CIRCUMSCRIBE
+2. DEARTH
+3. INGRATIATING
+4. MERCENARY
+5. EXTEMPORIZE
+6. ERUDITE
+7. AUSTERE
+8. LACONIC
+9. AMELIORATE
+10. EXPUNGE
+
+### CIRCUMSCRIBE (sur-kum-SKRYB or SUR-kum-skryb)
+
+* trans verb
+* To limit, restrict, confine, hem in, fix the boundaries of.
+* circumscribe = to draw a line around, encircle; 
+    * scribe = to write, draw
+    * circum- = around
+    * Figuratively = enclose within narrow limits, restrict, confine
+
+> The **circumscribed** routine of daily life; a law that circumscribes certain rights.  
+
+> A limited vocabulary can **circumscribe** your career and undermine your chances for success.”
+
+### DEARTH (rhymes with _earth_)
+
+* noun
+* sự thiếu, sự khan hiếm; sự đói kém
+* A lack, scarcity, insufficiency, inadequate supply of something needed.
+* = _paucity_ (PAW-si-tee), 
+* ≠ _abundance_, _surplus_, _excess_, **superfluity** (SOO-pur-FLOO-i-tee), **plethora** (PLETH-uh-ruh), **surfeit** (SUR-fit).
+* adjective **dear** &rarr; noun. **dearth**
+    * Literally, a **dearth** is a lack of something dear.
+    * a dearth of supplies
+    * a dearth of hope
+    * a dearth of opportunities in the job market
+
+> The next danger was from the people, who were infuriated by the **dearth** of corn.  
+
+> Henry prudently waited until **dearth** of provisions forced the enemy to divide into two the bands.
+
+### INGRATIATING (in-GRAY-shee-AY-ting)
+
+* adjective
+* để thu hút cảm tình, để lấy lòng
+* Flattering, attempting to win approval or curry favor, trying to gain acceptance, done to charm or please another.
+* = **unctuous**
+* &rarr; negative meaning
+
+> Every time Don walked by the boss's office or passed him in the hallway, he would flash a fake, **ingratiating** smile. That, and other unctuous gestures, soon made Don's coworkers loathe him.  
+
+> The more emotional and **ingratiating** the expression of Natasha's face became, the more serious and stern grew Sonya's.  
+
+> Every song is a spirited affair and is further testament to her powerful and **ingratiating** onstage persona.  
+
+### MERCENARY (MUR-suh-NER-ee)
+
+* adjective
+* hám lợi, vụ lợi
+* làm thuê, làm công
+* Greedy, done for payment only, motivated by a selfish desire for money or other reward.
+* = **covetous**, **avaricious**
+* close meaning to **venal** (VEE-nul). 
+    * corruptible, capable of being bribed or bought off: a venal social climber; a venal politician.
+
+> Harry's interest in the deal was strictly **mercenary**.  
+
+> Not having received satisfaction he became a freebooter on land and sea, and **mercenary** soldier.
+
+* danh từ
+* lính đánh thuê, tay sai
+
+### EXTEMPORIZE (ek-STEM-puh-ryz)
+
+* iverb
+* ứng khẩu
+* To improvise, to speak or compose with little or no preparation or practice, perform something in an offhand or unpremeditated way 
+* adjective **extemporaneous**
+
+| To _improvise_ | To _extemporize_ |
+|---|---|
+| to make up on the spur of the moment | refers specifically to speaking in an offhand, spontaneous way
+| - to _improvise_ a speech <br> a tune on the piano <br> a plan of action |
+
+> She delivered her speech using notes, but during the question-and-answer session she **extemporized**.  
+
+> Psychologists, seeing that inference is a mental operation, often **extemporize** a theory of inference to the neglect of logic. But we have a double consciousness of inference.  
+
+### ERUDITE (traditionally, ER-uh-DYT; now usually ER-yuh-DYT)
+
+* adjective
+* học rộng, uyên bác
+* Learned, scholarly, possessing extensive knowledge acquired chiefly from books.
+* **People and things can both be erudite**
+    * _**Erudite** professors often write **erudite** studies of obscure subjects_
+    * _Reading Verbal Advantage will help you build an **erudite** vocabulary, which in turn will help you become a more **erudite** person_
+
+> The **erudite** student graduated at the top of her class.  
+
+> The **erudite** article was a great resource for learning about the difficult topic.  
+
+### AUSTERE (aw-STEER)
+
+* adjective
+* nghiêm khắt, khắt khe, chặt chẽ
+    * An austere lifestyle is characterized by strict self-discipline or severe self-denial
+* mộc mạc, chân phương
+* khắc khổ, khổ hạnh
+    * severe or stern in appearance, manner, or practice.
+
+> The Sanctuary was plain to the point of **austere**, with no luxuries.  
+
+> Brady had conducted many missions in **austere** conditions in other countries.  
+
+### LACONIC (luh-KAHN-ik)
+
+* adjective
+* vắn tắt, gọn gàng, súc tích
+* Using few words, briefly and often bluntly expressed.
+* = succinct, concise, terse, and pithy
+
+> He raised both eyebrows with a **laconic** grin.  
+
+> So little did he understand the seriousness of the situation that, when the **laconic** message "All is over!"  
+
+> It involves a slow, **laconic** vocals and slowed beats.
+
+### AMELIORATE (uh-MEEL-yuh-rayt)
+
+* trans verb, làm tốt hơn, cải thiện
+* iverb, trở nên tốt hơn, được cải thiện
+* To make or become better or more tolerable, improve, amend, correct, reform, rectify, raise the condition or state of.
+
+> City officials may decide to **ameliorate** a run-down neighborhood.  
+
+> A charitable organization may work to **ameliorate** the hapless condition of the homeless or the poor.
+
+> He wanted to **ameliorate** the present suffering.  
+
+> A centralized policy would compound, not **ameliorate**, the problem.  
+
+> A solution to **ameliorate** the negative impact of these areas is needed.  
+
+### EXPUNGE (ek-SPUHNJ)
+
+* tverb
+* xóa (tên trong danh sách...), bỏ (đoạn ở trong sách...)
+* To erase, delete, cancel; punch, strike, or wipe out; eradicate, obliterate.
+    * To expunge means to wipe out something completely so it appears as though it **had never existed**: 
+    * to expunge a name from a list
+    * to expunge all record of an event
+    * to expunge a word from your vocabulary.
+
+> Perhaps it will **expunge** the hate and tragedy this room has seen.  
+
+### REVIEW
+
+TRUE/FALSE
+
+1. Listening to Verbal Advantage will **circumscribe** your vocabulary. &rarr; **FALSE**
+2. If a country has a **dearth** of food, its people may be starving. &rarr; **TRUE**
+3. The **ingratiating** person uses flattery to win approval. &rarr; **TRUE**
+4. **Mercenary** motivations are high-minded and generous. &rarr; **FALSE**
+5. When you speak off the cuff, you **extemporize**. &rarr; **TRUE**
+6. An **erudite** person lacks knowledge and cultivation. &rarr; **FALSE**
+7. The **happy-go-lucky** person has an **austere** outlook on life. &rarr; **FALSE**
+8. A **laconic** speaker is long-winded and boring. &rarr; **FALSE**
+9. If you **ameliorate** something, you make it better. &rarr; **TRUE**
+10.When you **expunge** something, you remove all trace of it. &rarr; **TRUE**
+
+## Word 21 - 30
+
+1. CIRCUMSPECT
+2. QUIESCENT
+3. FOIBLE
+4. FERVENT
+5. PROTRACT
+6. OSTENTATIOUS
+7. QUANDARY
+8. CENSURE
+9. CAVIL
+10. ASSIMILATE
+
+### CIRCUMSPECT (SUR-kum-spekt)
+
+* Adjective
+* Careful, cautious, wary, watchful &rarr; **carefully considering all circumstances before acting or making a judgement**
+* = **discreet**, **vigilant**, _prudent_
+
+| _Careful_ | _Cautious_ | _Circumspect_ |
+|-----------|------------|---------------|
+| &rarr; Close attention and concern | &rarr; Guarding against danger and risk | &rarr; a worried care, a nervous, wary cautiousness |
+| _One is careful to pronounce words properly._ | _You should be cautious when crossing the street._ | _The circumspect person is concerned about unforseen circumstances and unfavorable consequences, and so is careful to avoid making an ill-considered move._ |
+
+> It was done in a circumspect manner.  
+
+> In this situation you need to be very circumspect about claiming interactions.  
+
+### QUIESCENT (kwy-ES-int)
+
+* Adjective
+* Still, quiet, tranquil, inactive, at rest or repose
+* antonyms, ≠ **vigorous**, **animated** **sprightly**, **vivacious**, **ebullient**
+* Synonyms
+
+| **_latent_** | **_dormant_** | **_quiescent_** |
+|------------|-------------|---------------|
+| applies to sth that has not been revealed | applies to sth inactive or that seems asleep | suggests a temporary cessation of activity, a period of rest or repose |
+| a latent ability, a latent desire | a dormant volcano, a dormant power | the sea was quiescent after the storm |
+
+> Strikes were headed by groups of workers who had previously been quiescent.  
+
+### FOIBLE (FOY-bul)
+
+* noun	
+* A weak point, slight fault or flaw, minor failing, especially a weakness in a person's character, **nhược điểm, điểm yếu**
+	* by derivation _foible_ means the weak part of a sword, **đầu lưỡi kiếm** (từ giữa lưỡi đến muỗi), is related to the word **feeble**, weak, **frail**
+* A foible is **not a serious defect** in character but rather a minor flaw or weakness that is usually **forgivable**
+
+> A penchant for rich desserts is her only foible.  
+
+> The man could tolerate his companion's foible because it was covered by his many admirable qualities.  
+
+### FERVENT (FUR-vint)
+
+* Passionate
+
+### PROTRACT
