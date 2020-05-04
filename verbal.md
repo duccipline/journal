@@ -1897,6 +1897,7 @@ TRUE/FALSE
 ### CIRCUMSPECT (SUR-kum-spekt)
 
 * Adjective
+* Thận trọng
 * Careful, cautious, wary, watchful &rarr; **carefully considering all circumstances before acting or making a judgement**
 * = **discreet**, **vigilant**, _prudent_
 
@@ -1905,13 +1906,14 @@ TRUE/FALSE
 | &rarr; Close attention and concern | &rarr; Guarding against danger and risk | &rarr; a worried care, a nervous, wary cautiousness |
 | _One is careful to pronounce words properly._ | _You should be cautious when crossing the street._ | _The circumspect person is concerned about unforseen circumstances and unfavorable consequences, and so is careful to avoid making an ill-considered move._ |
 
-> It was done in a circumspect manner.  
+> It was done in a **circumspect** manner.  
 
-> In this situation you need to be very circumspect about claiming interactions.  
+> In this situation you need to be very **circumspect** about claiming interactions.  
 
 ### QUIESCENT (kwy-ES-int)
 
 * Adjective
+* Im lìm, yên lặng
 * Still, quiet, tranquil, inactive, at rest or repose
 * antonyms, ≠ **vigorous**, **animated** **sprightly**, **vivacious**, **ebullient**
 * Synonyms
@@ -1921,7 +1923,7 @@ TRUE/FALSE
 | applies to sth that has not been revealed | applies to sth inactive or that seems asleep | suggests a temporary cessation of activity, a period of rest or repose |
 | a latent ability, a latent desire | a dormant volcano, a dormant power | the sea was quiescent after the storm |
 
-> Strikes were headed by groups of workers who had previously been quiescent.  
+> Strikes were headed by groups of workers who had previously been **quiescent**.  
 
 ### FOIBLE (FOY-bul)
 
@@ -1930,12 +1932,122 @@ TRUE/FALSE
 	* by derivation _foible_ means the weak part of a sword, **đầu lưỡi kiếm** (từ giữa lưỡi đến muỗi), is related to the word **feeble**, weak, **frail**
 * A foible is **not a serious defect** in character but rather a minor flaw or weakness that is usually **forgivable**
 
-> A penchant for rich desserts is her only foible.  
+> A penchant for rich desserts is her only **foible**.  
 
-> The man could tolerate his companion's foible because it was covered by his many admirable qualities.  
+> The man could tolerate his companion's **foible** because it was covered by his many admirable qualities.  
 
 ### FERVENT (FUR-vint)
 
 * Passionate
+* nóng, nóng bỏng
+* nồng nhiệt, nhiệt thành, tha thiêt, sôi sục &rarr; **fervent love**, **fervent hatred**
+* = **vehement**, **ardent**, **fervid**, and **zealous**
+* ≠ _lukewarm_, _listless_, _apathetic_, _indifferent_, _impassive_, and _phlegmatic_ (fleg-MAT-ik)
 
-### PROTRACT
+> He was a **fervent** football supporter of the NFL.  
+
+> He was **fervent** in spirit serving the Lord.  
+
+> He was a **fervent** nationalist.  
+
+### PROTRACT (proh-TRAKT)
+
+* trans verb
+* kéo dài
+* To draw out, drag out, **extend in time, lengthen, prolong**, especially to excess.
+* ≠ **abbreviate**, **condense**, curtail, and **truncate** (TRUHNG-kayt).
+
+| Prolong | Protract |
+|---|---|
+| making it longer than usual, lengthening it beyond ordinary limits | suggests drawing or dragging something out needlessly, often to the point of **irritation** or **boredom**
+| _to **prolong** a meeting_, a **prolonged** illness | _A **protracted** trial is long and tedious_ <br> _A **protracted** debate seems to drag on forever_ <br> &rarr; And now, before you accuse me of protracting this discussion, I shall **curtail** it—cut it short—and move on to the next word.
+
+### OSTENTATIOUS (AHS-ten-TAY-shus)
+
+* adjective.
+* phô trương, khoe khoang, làm cho người ta phải để ý
+* Showy, extremely conspicuous, extravagant, flamboyant; specifically, displayed or done in a flashy, vain manner.
+* ≠ **simple**, **plain**, **modest**, **unassuming**
+
+| Pretentious | Pompous | Ostentatious |
+|---|---|---|
+| laying claim to a level of distinction or worth that is undeserved | puffed up with exaggerated self-importance | emphasizes conspicuousness and vanity |
+| The **pretentious** person asserts his self-importance in a demanding, arrogant way. &rarr; That which is **pretentious** draws attention to itself by strutting and bragging. | The **pompous** person is full of solemn reverence for himself or his opinions. &rar; That which is **pompous** takes itself too seriously. | The **ostentatious** person puts on an extravagant show to impress others. <br> **Ostentatious** clothing parades itself. <br> An **ostentatious** display of wealth is an exaggerated, unnecessary show of wealth.
+
+> His **ostentatious** hatred of the revolutionary parties marked him out as the natural object for these accusations.  
+
+> His life of **ostentatious** austerity, and the courage with which he met his death, had caused all his faults to be forgotten.  
+
+### QUANDARY (KWAHN-duh-ree or KWAHN-dry)
+
+* (noun.)
+* Tình thế lúng túng, khó xử, tình thế bối rối
+* A state of uncertainty, perplexity, or doubt.
+    * &rarr; to be in a quandary
+
+| Predicament | Dilemma | Quandary |
+|---|---|---|
+| a situation that is especially unpleasant or unfortunate | difficult problem or troublesome situation, but many good writers and speakers object to that as loose usage <br> dilemma should be used only of situations in which one faces a choice between equally undesirable alternatives | a state of uncertainty or confusion that renders one unable to act |
+| - Larry looked at his smashed-up car lying in the ditch, then at his mistress who was more smashed than his car, and he wondered how he had gotten himself into this **predicament**. | - The soldiers who defended the Alamo faced a terrible **dilemma**: to surrender or die. | - Julie was in a **quandary** over whether to look for a better job. <br> - The thought of buying a new house put them in a **quandary**: they wanted a nicer place with more room for the kids, but could they afford it? |
+
+> When summer comes along then, most men are thrown into a **quandary**.  
+
+> Packing for a vacation is a necessary evil before the fun begins, but knowing what cruise wear to include can improve the luggage **quandary** immensely.  
+
+> This was such a profound and lovely meaning that I was left in a real **quandary**.  
+ 
+### CENSURE (SEN-shur)
+
+* (noun. iverb.)
+* sự/lời phê bình, chỉ trích, khiển trách
+* phê bình, chỉ trích, khiển trách
+* To blame, condemn, find fault with, criticize harshly, express stern disapproval of
+* = denounce, reprimand, and reprehend (rep-ri-HEND)
+* ≠ **commend**, **extol** (ek-STOHL), and **laud** (rhymes with sawed)
+* _Censure_ usually implies condemnation of irresponsible **behavior** rather than condemnation of **character**.
+
+> The soldier was sent home from boot camp after he received another **censure** from the general.  
+
+> This brought them under the official **censure**, and was forbidden.  
+
+> The health department will **censure** any restaurants that do not have clean facilities.  
+
+### CAVIL (KAV-ul)
+
+* noun.
+* sự cãi bướng, sự cãi vặt
+* To criticize or complain unnecessarily, point out petty flaws, raise trivial or frivolous objections.
+* iverb
+* (+about/at) cãi bướng, cãi vặt
+* To cavil means to complain unnecessarily, point out petty flaws, raise trivial or frivolous objections.
+* = **nitpick** (n.), **niggle** (iv.), **carp** (n. iv.), and **quibble** (n. iv.)
+    * &rarr; making unnecessary criticisms or complaining about trivial things
+    * A good editor corrects your grammar and punctuation but doesn't **nitpick** every sentence.
+    * A boss who **niggles** about every detail will eventually exasperate the employees.
+    * Husbands and wives often **carp** at each other about household expenses and domestic chores.
+    * Professors **quibble** with their colleagues about minor points of scholarship.
+    * Newspaper critics will often **cavil** in their reviews just to assert their authority as critics.
+
+> Certain it is that there is much in his utterances for a less robust democracy than his own to **cavil** at.
+
+> Equally ingenious is their **cavil**, that women should not be baptized if baptism is to be made conformable to circumcision.
+
+### ASSIMILATE (uh-SIM-i-layt)
+
+* trans verb
+* tiêu hóa (nghĩa đen, nghĩa bóng)
+* To absorb, take in, incorporate, appropriate.
+* Two sense in general use
+    1. to absorb or take into the mind, comprehend, as to assimilate ideas, to assimilate new words into your vocabulary
+    2. to adapt to or become absorbed by a system or culture
+
+> American society is composed of generations of immigrants, some more **assimilated** than others.  
+
+> He feared that if he accepted the job, he would have to **assimilate** into the faceless machine of the bureaucracy.  
+
+> She paused, allowing him to **assimilate** the information.
+
+> I find it easier to **assimilate** new information when it is presented visually.
+
+> The immigrant family found it difficult to **assimilate** to new customs because they were vastly different than their own culture.  
+
