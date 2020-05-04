@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (12/66)
+* [ ] - Bảng C (13/66)
 
 ## Bảng C
 
@@ -73,17 +73,21 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 STT| Ngày | Sức khỏe | Road to SE - F - G | Thesis | 3 last courses | Miscellaneous | Gia đình | Note | 
 |---|---|---|---|---|---|---|---|---|
-|14|04/05| Goal <br> - Dậy sớm <br> - Hít đất <br> - Jump Squat <br> - Plank <br> - Ngủ sớm | Goal <br> - Đọc Computer Systems (Virtual Memory) | Goal <br> - Đọc Code anh Vũ | Goal <br> - Hoàn thành Assignment 3 CS409 <br> - Suy nghĩ Final Essay CS407 60 phút <br> | | Goal <br> - Tập VLTL cho ba <br> - Đo huyết áp cho ba |- Trong một tháng 5 phải hoàn thành Computer Systems, OS và DBMS
+|14|04/05| Goal <br> &check; - Dậy sớm **4:00** <br> - &check; Jump Squat 34x3 = **102 cái** <br> - &check; Hít đất 25x4 = **100 cái** <br> - Plank <br> - Ngủ sớm <hr> - &check; Thiền **5'00**| Goal <br> - Đọc Computer Systems (Virtual Memory) `II` <br> - Giải LeetCode `II` | Goal <br> - Đọc Code anh Vũ `II` | Goal <br> - Hoàn thành Assignment 3 CS409 `II` <br> - Suy nghĩ Final Essay CS407 60 phút `I` <br> | Goal <br> - &check; Ôn 10 từ Verbal Advantage `I` <hr> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa) <br> - &check; Nghe TSKD [#126](https://tamsukinhdoanh.com/tap-126-vo-mong/) Vỡ mộng <br> - &check; Bảo dưỡng xe `II` | Goal <br> - Tập VLTL cho ba (&check; sáng)<br> - Đo huyết áp cho ba | - Trong tháng 5 phải hoàn thành Computer Systems, OS và DBMS
+||||||||||
 |||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|
 
 #### Revolution
 
+* Vào **SE** (trước August) &rarr; Vào **F-xanh**, **G-4-màu** (trước 2022)
+* Hoàn thành thesis (trước August) &rarr; (trước November)
+* Hoàn thành CS409, CS407, CS386 (4 tuần, trước June)
 
 #### Pre-revolution
 
 STT | Ngày | Mục Tiêu | Sức khỏe | Học ngoại ngữ | Gia Đình | Đọc/Học | Miscellaneous | Cảm xúc
 |---|------|----------|----------|---|---|---|---|---|
-|13|03/05| | - Dậy sớm **5:30** <br> - Hít đất 15 + 25x2 <br> - Jump Squat 34x3 = **102 cái** <br> - Plank 60s | - Học 5 từ Verbal Advantage **OSTENTATIOUS**, **QUANDARY**, **CENSURE**, **CAVIL**, **ASSIMILATE** | | - Đọc Tờ kinh số 5 (sáng, trưa) <br> - Meeting topcoder | | - Mấy ngày nay mỏi mệt, không có năng lượng, hứng thú làm việc, cố gắng &rarr; Phát hiện ra là do mình tiêu thụ đường (_sucre_) &rarr; Từ hôm nay quay lại chế độ no sugar như cũ
+|13|03/05| | - Dậy sớm **5:30** <br> - Hít đất 15 + 25x2 = **65 cái** <br> - Jump Squat 34x3 = **102 cái** <br> - Plank 60s <br> - Thiền **7'00** | - Học 5 từ Verbal Advantage **OSTENTATIOUS**, **QUANDARY**, **CENSURE**, **CAVIL**, **ASSIMILATE** | - Tập VLTL cho ba (trưa, tối) <br> - Đo huyết áp cho ba | - Đọc Tờ kinh số 5 (sáng, trưa, tối) <br> - Meeting team luyện jobs <br> - Giải LeetCode | | - Mấy ngày nay mỏi mệt, không có năng lượng, hứng thú làm việc, cố gắng &rarr; Phát hiện ra là do mình tiêu thụ đường (_sucre_) &rarr; Từ hôm nay quay lại chế độ no sugar như cũ
 |12|02/05| - &check; Reading <br> - &check; Đọc Computer Systems `I` <br> - &check; Học 5 từ Verbal Advantage <hr> - Giải Cracking the Coding Interview `II` <br> - Giải LeetCode <br> - Chạy bộ | - Dậy sớm **5:30** <br> - Jump Squat 20x5 = **100 cái** <br> - Hít đất 25x6 = **150 cái** <br> - Plank 60s x5 = **5'00** <br> - Ngủ sớm **22:00**| - Học 5 từ Verbal Advantage **CIRCUMSPECT**, **QUIESCENT**, **FOIBLE**, **FERVENT**, **PROTRACT** | | - Đọc Tờ kinh số 5 (sáng, trưa) <br> - Đọc Computer Systems (**Exceptional Control Flow**) <br> - Học Online CS409 <br> - Học Online CS407 | <details close>- Thai Pham [THẾ GIỚI SẼ CHUYỂN MÌNH NHƯ THẾ NÀO SAU CƠN SUY THOÁI, KHỦNG HOẢNG? PHẦN 2: CÁC KĨ NĂNG CẦN CHUẨN BỊ](https://youtu.be/vT0IPFtenWM) <br> - [This Is China Series](https://www.youtube.com/playlist?list=PLBRLKmBip430H48gyHMuTRttADLEmjFDu) <br> - Thai Pham [THÓI QUEN BUỔI SÁNG CỦA NGƯỜI THÀNH CÔNG | BÍ QUYẾT DẬY SỚM KHÔNG MỆT MỎI VÀ TRÀN ĐẦY NĂNG LƯỢNG](https://youtu.be/B9K8IvoLq2s) <br> - Dạy Phúc <br> - Thai Pham [NHỮNG SAI LẦM SẤP MẶT TRONG ĐẦU TƯ, KINH DOANH & CÁCH VƯỢT QUA. THIẾT KẾ CUỘC ĐỜI THỊNH VƯỢNG #9](https://youtu.be/Bzs1Da9IpPw) </details>
 |11|**01/05**| - &check; Đọc Disciplined Entrepreneurship `II` <br> - &check; Reading `I` <br> - &check; Đọc Computer Systems `II` | - Dậy sớm **5:30** <br> - Squat 50x4 = **200 cái** <br> - Plank 80s + 130s + 90s = **5'00** <br> - Hít đất 15 + 25x3 = 90 cái <br> - Ngủ sớm **21:00** | - Ôn 20 từ Verbal Advantage <br> <details close> - **DEFRAY**, **TACITURN**, **TERSE**, **BOON**, **PROLETARIAT** <br> - HETEROGENEOUS, PITTANCE, GLIB, PENCHANT, SOLICITOUS <br> - **CIRCUMSCRIBE**, **DEARTH**, **INGRATIATING**, **MERCENARY**, **EXTEMPORIZE** <br> - ERUDITE, AUSTERE, LACONIC, AMELIORATE, EXPUNGE </details> | | - Đọc Tờ kinh số 5 (sáng, trưa, tối) <br> - Đọc Disciplined Entrepreneurship (17, 20, 21, 22, 23, 24) <br> - Đọc Computer System (Exceptional Control Flow) <br> - Đọc Lolita (1, 2)  |  - TQKS [Quản lý tài chính cá nhân như thế nào với mức lương 20-30 triệu?](https://youtu.be/IWrcXb0QHXA) <br> - TQKS [Giá vàng mùa đại dịch: Chiến lược nào là hợp lý?](https://youtu.be/5QrFzThPIgU) <br>  - [Đọc Một Sàng Khôn](https://youtu.be/IExBLWv1cd8)
 |10|**30/04**| | - Dậy 8:30 <br> - Ngủ sớm **20:00** | - Học 5 từ Verbal Advantage <br> **ERUDITE**, **AUSTERE**, **LACONIC**, **AMELIORATE**, **EXPUNGE** | | - Thesis meeting với mentor + teammate | | - Không quản lý được sức khỏe, tinh thần
