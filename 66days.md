@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (13/66)
+* [ ] - Bảng C (17/66)
 
 ## Bảng C
 
@@ -68,13 +68,52 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 ### Track log
 
+#### After Reflection
+
+##### Check list
+
+* [ ] - Final Presentation CS407
+* [ ] - Final Exam CS386
+* [ ] - Thesis
+* [ ] - I plan to be a conquistador in a streak of job interviews
+
+
+No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
+|---|---|---|---|---|---|---|
+|29|19/05| - Dậy sớm 3:30 | | | | - [3:55 AM - Đồi hoa mặt trời](https://youtu.be/gDi4tuaX36s)
+| | | | |
+|||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|
+
+#### Reflection
+
+<details close><summary><i>May 19 3:47</i></summary> 
+
+_Tính viết vài dòng tổng kết mấy ngày qua (dành thời gian cho self-reflection), mà thôi không viết nữa. Tập trung nguồn lực chuẩn bị tốt cho đợt xin việc sắp tới.  
+Chạy nhanh Thesis để hoàn thành cho xong, 2021 đi làm nước ngoài (=)) xin việc ở 1st world người ta bắt nộp bachelor's degree)_
+
+</details>
 
 #### Post-revolution
 
 STT| Ngày | Sức khỏe | Road to SE - F - G | Thesis | 3 last courses | Miscellaneous | Gia đình | Note | 
 |---|---|---|---|---|---|---|---|---|
+|28|18/05| - Ngủ sớm | | | | - Nghe TSKD [#128 NÓI ĐẠO LÝ THƯỜNG SỐNG NHƯ L?](https://tamsukinhdoanh.com/tap-128-noi-dao-ly-thuong-song-nhu-l/) <br> - Đọc Lập trình quỹ đạo cuộc đời (**3** &rarr; **10**) <br> - Học Money Tree | - Tập VLTL cho ba (&check; tối) <br> - Đo huyết áp cho ba (&check; tối, &check; khuya) | - Hôm nay dùng caffeine và nicotine
+|27|17/05| | | | - Hoàn thành **Final Essay** CS407 (kết thúc môn)
+|26|16/05| | - Đọc Computer Systems: Exceptional Control Flow| | - Review Final team project CS409 (draft checkpoint) với mentor | - Dạy Phúc | - Tập VLTL cho ba (&check; tối) <br> - Đo huyết áp cho ba (&check; khuya)
+|25|15/05| | - Đọc Database Systems | | - Học Online CS386 <br> - Hoàn thành Final Report CS409 (draft) | - Học Money Tree | - Tập VLTL cho ba (&check; tối) 
+|24|14/05| | | | - Viết Final Report CS409
+|23|13/05| | | | - Viết Final Report CS409
+|22|12/05| - Dậy trễ 7:00 <br> - Hít đất 25x1 | | | - Viết Final Report CS409 | | | - Ngày mai dành 1 ngày để review lại bản thân, gỡ rối và tìm cách giải tỏa căng thẳng |
+|21|11/05| - Dậy sớm **4:00** <br> - Hít đất 25x6 = **150 cái** | | | - Viết Final Essay CS407 | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa) <br> - Nghe TSKD [#127](https://tamsukinhdoanh.com/tap-127-cong-viec-yeu-thich/) <br> - Học Money Tree
+|20|10/05| <details close><summary>Goal</summary> - &check; Dậy sớm 4:00 <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Plank 5'00 <br> - &check; Jump Squat 34x3 = **100 cái** <br> - Ngủ sớm **22:00** <hr> &cross; - Chạy bộ </details> | | | <details close><summary>Goal</summary>- Đọc Database Systems <br> - &check; Đọc hết sách Disciplined Entrepreneurship</details> | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, tối) | <details close><summary>Goal</summary>- &cross; Tập VLTL cho ba (4 lần) &rarr; &check; chiều, &check; tối <br> - &cross; Đo huyết áp cho ba (4 lần) </details>
+|19|09/05| - &check; Dậy sớm **5:00** | | | - &check; Học Online CS409 <br> - &check; Học Online CS407 | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối)- Dạy Phúc
+||
+|18|08/05| - &check; Dậy 6:00 <br> - &check; Hít đất 25x6 = **150 cái** <br> - &check; Thiền 5'00| | | - &check; Học Onine CS386 <br> - &check; Hoàn thành Assignment 4 CS409 <br> - &check; Chỉnh sửa Assignment 3 CS407 | - Đọc Tờ kinh số 5 (check; sáng) <br> - Học lớp MT &rarr; nay lớp nghỉ
 ||||||||||
-|14|04/05| Goal <br> - &check; Dậy sớm **4:00** <br> - &check; Jump Squat 34x3 = **102 cái** <br> - &check; Hít đất 25x6 = **150 cái** <br> - &check; Plank = 85s <hr> - &cross; Ngủ sớm <hr> Additional <br> - &check; Thiền **5'00**| Goal <hr> Incomplete <br> - &cross; Đọc Computer Systems (Virtual Memory) `II` <br> - &cross; Giải LeetCode `II` | Goal <hr> Incomplete <br> - &cross; Đọc Code anh Vũ `II` | Goal <br> - &check; Suy nghĩ Final Essay CS407 60 phút `I` <hr> - &cross; Hoàn thành Assignment 3 CS409 `II` &rarr; **chưa xong** <br> | Goal <br> - &check; Ôn 10 từ Verbal Advantage `I` <hr> Additional <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Nghe TSKD [#126](https://tamsukinhdoanh.com/tap-126-vo-mong/) Vỡ mộng <br> - &check; Bảo dưỡng xe `II` | Goal <br> - Tập VLTL cho ba (&check; sáng, &check; tối)<br> - &check; Đo huyết áp cho ba | - Trong tháng 5 phải hoàn thành Computer Systems, OS và DBMS <br> - **Target trong vòng 3 tháng LDCĐ sẽ làm việc ở Saigon Center làm việc** <br> - **Target trong vòng 7 tháng LDCĐ sẽ làm việc ở Singapore**
+|17|07/05| - Dậy sớm **5:30** | | | - &check; Thi Online CS385 <br> - &check; Họp team CS409 <br> - &check; Làm Assignment 4 CS409| - &check; Làm bài tập MT <br> - &check; Mở SSI <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối)
+|16|06/05| - &check; Hít đất 25x6 = **300 cái**| | | - &check; Đọc Database Management System - Raghu Ramakrishnan (chapter 3) | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa) | - Tập VLTL cho ba (&check; trưa) 
+|15|05/05| - &check; Hít đất 25x8 = **200 cái** | | | - &check; Đọc Business Model You - Timothy Clark (100%) <br> - &check; Hoàn thành CS409 Assignment 3 Business Model You | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối)| - Tập VLTL cho ba (&check; trưa)
+|14|04/05| Goal <br> - &check; Dậy sớm **4:00** <br> - &check; Jump Squat 34x3 = **102 cái** <br> - &check; Hít đất 25x6 = **150 cái** <br> - &check; Plank = 85s <hr> - &cross; Ngủ sớm <hr> Additional <br> - &check; Thiền **5'00**| Goal <hr> Incomplete <br> - &cross; Đọc Computer Systems (Virtual Memory) `II` <br> - &cross; Giải LeetCode `II` | Goal <hr> Incomplete <br> - &cross; Đọc Code anh Vũ `II` | Goal <br> - &check; Suy nghĩ Final Essay CS407 60 phút `I` <hr> - &cross; Hoàn thành Assignment 3 CS409 `II` &rarr; **chưa xong** <br> | Goal <br> - &check; Ôn 10 từ Verbal Advantage `I` <hr> Additional <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Nghe TSKD [#126](https://tamsukinhdoanh.com/tap-126-vo-mong/) Vỡ mộng <br> - &check; Bảo dưỡng xe `II` <br> - &check; Học khóa học MT `I` | Goal <br> - Tập VLTL cho ba (&check; sáng, &check; tối)<br> - &check; Đo huyết áp cho ba | - Trong tháng 5 phải hoàn thành Computer Systems, OS và DBMS <br> - **Target trong vòng 3 tháng LDCĐ sẽ làm việc ở Saigon Center làm việc** <br> - **Target trong vòng 7 tháng LDCĐ sẽ làm việc ở Singapore**
 |||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|
 
 #### Revolution
