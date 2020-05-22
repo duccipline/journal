@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (17/66)
+* [ ] - Bảng C (31/66)
 
 ## Bảng C
 
@@ -70,6 +70,26 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 #### After Reflection
 
+ 
+
+<details close>
+<summary><i>May 21, 23:00</i></summary>
+<br>
+
+> Hồi mình lớp 9, giai đoạn luyện thi vào cấp 3, mỗi ngày đến trường mình đều cảm thấy khác biệt. Mình không tìm thấy niềm vui trong những thứ niềm vui tầm thường của đám bạn, những mục tiêu bị người lớn định hướng của đám bạn. Ngày đó mình chỉ nhìn thấy một bức tranh duy nhất là 4 năm sau mình không phải thi đại học, và checkpoint gần nhất là vào PTNK. Đó là thứ duy nhất mình quan tâm khi đến trường, khi về nhà, và cả trong giấc ngủ. Đúng vậy, và năm 11 mình đủ tiêu chuẩn tuyển thẳng vào tất cả các ngành CNTT, tất cả các trường ĐH ở VN.  
+
+> Ngày hôm nay, mình không tìm thấy niềm vui trong những thứ niềm vui tầm thường của đám bạn, không tìm thấy ý nghĩa gì với những mục tiêu bị định hướng của đám bạn. Có lẽ cách mình tư duy không còn giống với đám đông trong lớp này nữa rồi /*Chắc chắn luôn chứ có lẽ gì*/. Được tiếp xúc với những life mentors xuất sắc như chú C và anh Đ, những người sẵn sàng coaching và cho định hướng tư duy mình để tìm ra câu trả lời cho những cuộc đời của mình. Mình còn may mắn được học những bài học từ anh TSKD, anh TP. Những người đã thay đổi hoàn toàn cách mình tư duy về cuộc sống trong 2 năm nay.  
+
+> Có lẽ cái duy nhất mình thiếu không phải là động cơ đúng, tầm nhìn, kế hoạch và một cái tâm đủ lớn mà mình đang thiếu là sức mạnh tinh thần để chống lại sự insecure. Những tháng cuối cùng ở HCMUS là chuỗi ngày mình không hạnh phúc, đau khổ, lo lắng, sợ hãi, cô đơn. Không phải vì những kiến thức phải học, năm 4 là năm học mà mình nhận ra sự bổ ích trong tất cả những môn học, mình mê những kiến thức đó, mình hạnh phúc khi được học những kiến thức đó. Nhưng mình chán ghét cái môi trường và con người. Mình chán Deep Learning, mình chán bọn học PhD không phải vì đam mê, mình chán cái môi trường mà ai cũng định hướng đi academia đi, mà không ai nói về những động cơ đẹp của academia.
+
+> Thôi thì kệ mẹ hết, như cách mà mình đã từng làm để vượt qua nỗi đau khác biệt, và cố gắng cho mục tiêu của mình hồi năm lớp 9. Trong đầu mình là một bức tranh lớn cho 10 năm sắp tới, bức tranh mà mình thấy từng cái checkpoint cụ thể và cách làm thế nào để đi đến những checkpoints đó. Cảm ơn cuộc đời đã cho mình may mắn được be aware of, biết, quen biết, tiếp xúc, học hỏi từ được rất nhiều con người xuất sắc trong xã hội (để tư duy của mình đa chiều hơn, không bị bó hẹp trong cái môi trường HCMUS).  
+
+> Cố gắng cho checkpoint 3 tháng và 7 tháng tới. Duc971
+
+> Cảm ơn cuộc đời đã cho mình biết đến những con người xuất sắc như DHL, Duc Ngo, Huy Holistics, LQNam, Mankiw, NMKhang, NTC, PMH, RR, TP, TSKD, chịH, nqminh, proculNQH, tDNT, tDNVu, tNHA, thaidn, ttd, uxlagiVA. Cuộc đời này chỉ theo đuổi hai thứ thôi excellence, happiness.
+
+</details>
+
 ##### Check list
 
 * [ ] - Final Presentation CS407
@@ -80,8 +100,11 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|29|19/05| - Dậy sớm 3:30 | | | | - [3:55 AM - Đồi hoa mặt trời](https://youtu.be/gDi4tuaX36s)
+|32|22/05| 
 | | | | |
+|31|21/05| - &check; Dậy sớm 4:30 <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Plank 90s + 105s + 115s = **5'10** | - &check; Học Lab CS386 | - &check; Nghe [Thai Pham](https://youtu.be/KhZsv6QHj6w) <br> - &check; Nghe [Thai Pham](https://youtu.be/1q1yZgfqRLw) <br> - &check; Làm bài tập Money Tree <br> - &check; Thiền 15 phút | - Tập VLTL cho ba (&check; tối) <br> - Đo huyết áp cho ba (&check; tối)
+|30|20/05| - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Plank 120s + 120s + 60s = **5'00**| | - &check; Đọc Lập trình quỹ đạo cuộc đời (**11, 12**) | - Tập VLTL cho ba (&check; tối)
+|29|19/05| - &check; Dậy sớm 3:30 <br> - &check; Đọc Computer Systems **Virtual Memory** | | - &check; Nghe [Thai Pham](https://youtu.be/Jx82p2zukjs) <br> - &check; Nghe [Thai Pham](https://youtu.be/Er6IK8U0hu4) <br> - &check; Nghe Web5ngay [3 thói quen &rarr; Tích cực + năng lượng](https://youtu.be/TVFgUYm9lmY) <br> - &check; Dạy Phúc | - Tập VLTL cho ba (&check; tối)| - [3:55 AM - Đồi hoa mặt trời](https://youtu.be/gDi4tuaX36s) |
 |||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|
 
 #### Reflection
