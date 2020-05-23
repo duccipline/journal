@@ -22,7 +22,7 @@
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (31/66)
+* [ ] - Bảng C (33/66)
 
 ## Bảng C
 
@@ -70,7 +70,10 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 #### After Reflection
 
- 
+_May 23, 4:00_  
+Gửi Đức, xin xây dựng thói quen dấn thân, cống hiến hết sức trẻ cho công việc, cho rèn luyện tiến thân, hãy góp sức trẻ để mang lại giá trị cho xã hội. Hãy làm việc chăm chỉ và hiệu quả bảy ngày một tuần, mỗi ngày hơn mười giờ. Hãy duy trì kỷ luật bản thân, hãy duy trì sự tích cực và năng lượng. Cảm ơn!  
+
+Mình chỉ còn 8 năm U30 khi còn là tỷ phú thời gian và tỷ phú sức khỏe thôi, hãy sử dụng nó để không phải hối hạn.
 
 <details close>
 <summary><i>May 21, 23:00</i></summary>
@@ -95,13 +98,14 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 * [ ] - Final Presentation CS407
 * [ ] - Final Exam CS386
 * [ ] - Thesis
-* [ ] - I plan to be a conquistador in a streak of job interviews
-
+* [ ] - Saigon Center office
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|32|22/05| 
+|34|24/05| - &check; Dậy sớm **4:00**
 | | | | |
+|33|23/05| - &check; Dậy sớm **4:00** <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump squat 34x3 = **100 cái** <br> - &check; Đọc Computer Systems: Virtual Memory | - &check; Thesis + teammate | - &check; Làm bài tập Money Tree <br> - &check; Nghe [Thai Pham](https://youtu.be/R8jkAOKbfAw) <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Dạy Phúc  | | |
+|32|22/05| - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - Plank | - &check; Học CS386: Functional Dependency & Normal Form | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Học Money Tree: Developing your saving plan & spending plan + Planning for your retirement
 |31|21/05| - &check; Dậy sớm 4:30 <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Plank 90s + 105s + 115s = **5'10** | - &check; Học Lab CS386 | - &check; Nghe [Thai Pham](https://youtu.be/KhZsv6QHj6w) <br> - &check; Nghe [Thai Pham](https://youtu.be/1q1yZgfqRLw) <br> - &check; Làm bài tập Money Tree <br> - &check; Thiền 15 phút | - Tập VLTL cho ba (&check; tối) <br> - Đo huyết áp cho ba (&check; tối)
 |30|20/05| - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Plank 120s + 120s + 60s = **5'00**| | - &check; Đọc Lập trình quỹ đạo cuộc đời (**11, 12**) | - Tập VLTL cho ba (&check; tối)
 |29|19/05| - &check; Dậy sớm 3:30 <br> - &check; Đọc Computer Systems **Virtual Memory** | | - &check; Nghe [Thai Pham](https://youtu.be/Jx82p2zukjs) <br> - &check; Nghe [Thai Pham](https://youtu.be/Er6IK8U0hu4) <br> - &check; Nghe Web5ngay [3 thói quen &rarr; Tích cực + năng lượng](https://youtu.be/TVFgUYm9lmY) <br> - &check; Dạy Phúc | - Tập VLTL cho ba (&check; tối)| - [3:55 AM - Đồi hoa mặt trời](https://youtu.be/gDi4tuaX36s) |
@@ -112,7 +116,7 @@ No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 <details close><summary><i>May 19 3:47</i></summary> 
 
 _Tính viết vài dòng tổng kết mấy ngày qua (dành thời gian cho self-reflection), mà thôi không viết nữa. Tập trung nguồn lực chuẩn bị tốt cho đợt xin việc sắp tới.  
-Chạy nhanh Thesis để hoàn thành cho xong, 2021 đi làm nước ngoài (=)) xin việc ở 1st world người ta bắt nộp bachelor's degree)_
+Chạy nhanh Thesis để hoàn thành cho xong, 2021 đi làm nước ngoài (=)) xin việc ở 1st world yêu cầu bachelor's degree)_
 
 </details>
 
