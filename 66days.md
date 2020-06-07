@@ -24,7 +24,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (34/66)
+* [ ] - Bảng C (47/66)
 
 ## Bảng C
 
@@ -77,17 +77,36 @@ Gửi Đức, xin xây dựng thói quen dấn thân, cống hiến hết sức 
 
 Mình chỉ còn 8 năm U30 khi còn là tỷ phú thời gian và tỷ phú sức khỏe thôi, hãy sử dụng nó để không phải hối hạn.
 
+_May 25_  
+Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và **hạnh phúc** &rarr; Cố lên Đức
+
+
 ##### Check list
 
-* [ ] - Final Presentation CS407
+* [x] - Final Presentation CS409
 * [ ] - Final Exam CS386
 * [ ] - Thesis
 * [ ] - Saigon Center office
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|35|25/05| - &check; Dậy **4:00** | | - &check; [BE](https://youtu.be/mnWTk1kzYyU) <br> - &check; [BE](https://youtu.be/uhzGUrRB0R8) <br> - [BE](https://youtu.be/tXhkSPuKJsQ) <br> - &check; Nghe [letthemtalktv](https://youtu.be/s0SWBnapIbY) <br> - &check; Nghe [letthemtalktv](https://youtu.be/hCNzhsBKTv0) <br> - Đọc Tờ kinh số 5 (&check; sáng) | | - Luyện tập quản trị thời gian, năng lượng
+|48|07/06| 
+| | |
+|47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37**
+| | |
+|46|05/06| - &check; Chạy bộ **3.01km/pace 5:36** | | - &check; Học MT19 <br> - &check; Đọc Chuông nguyện hồn ai (chương 4, 5, 6, 7, 8)
+|45|04/06| - &check; Chạy bộ 1.00km/pace 5:40 | - &check; Học Lab CS386 | - &check; Đọc Chuông nguyện hồn ai (chương 3)
+|44|03/06| - &check; Chạy bộ **3.01km/pace 5:47** <br> - Plank 2'00 | | - &check; Đọc Chuông nguyện hồn ai (chương 2)
+|43|02/06| | - &check; Virtual Memory: Address Translation
+|42|01/06|
+|41|31/05| | | - &check; Thi Thách thức 2020 <br> - &check; Đọc Beyond Wealth | 
+|40|30/05| - &check; Dậy sớm **5:30** | - &check; CS409 Final Presenatation (**hoàn thành môn**) | - &check; Đọc Thép đã tôi thế đấy (**100%**) <br> - Đọc Beyond Wealth <br> -  &check; Đọc Chuông nguyện hồn ai (chương 1)
+|39|29/05| - Dậy sớm **5:00** | - &check; Học CS386 - DB Concurrency + Locking
+|38|**28/05**| - &check; Dậy sớm **5:30** | - &check; Học Lab CS386 | 
+|37|27/05| - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Làm 2 bài IELTS Listening với bồ <br> - Chạy bộ <hr> - &cross; Dậy sớm <br> | - &check; Hoàn thành Improvement with Team CS409 <hr> - &cross; Hoàn thành Lab Assignment CS386 <br> - &cross; Hoàn thành 1/3 questions HW02 CS386 <br> - &cross; Thesis | - &check; Cắt tóc <br> - &check; Đọc Thép đã tôi thế đấy (một tí) <hr> - &cross; Gắn bóng đèn trong phòng <br> | - Tập VLTL cho ba <br> - Đo huyết áp cho ba (&check; tối) | - Tuần này tracking những việc làm trong ngày thì thấy productivity chưa cao &rarr; mục tiêu 3 ngày tới tăng được 50% 
 | | | | |
+|36|26/05| - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - &check; Ngủ sớm <hr> - &cross; Chạy bộ | - &check; Thesis <hr> - &cross; Làm Thesis nhiều giờ hơn | - &check; Đọc Thép đã tôi thế đấy (34% &rarr; 45%) <br> - Nghe TSKD #129, #128, #127 | <hr> - &cross; Tập VLTL cho ba <br> - &cross; Đo huyết áp cho ba
+|35|25/05| - &check; Dậy **4:00** <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <hr> - &cross; Ngủ sớm | <hr> - &cross; Thesis | - &check; [BE](https://youtu.be/mnWTk1kzYyU) <br> - &check; [BE](https://youtu.be/uhzGUrRB0R8) <br> - &check; Nghe [letthemtalktv](https://youtu.be/s0SWBnapIbY) <br> - &check; Nghe [letthemtalktv](https://youtu.be/hCNzhsBKTv0) <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Nghe TSKD [#129](https://tamsukinhdoanh.com/tap-129-ko-ai-tin-tuong-minh/) <br> - &check; Học Money Tree &rarr; kết thúc level 1 <br> - &check; Đọc Lập trình quỹ đạo cuộc đời (**100%, 17 &rarr; 36**<hr> - &cross; [BE](https://youtu.be/tXhkSPuKJsQ) | - Đo huyết áp cho ba (&check; tối) <hr> - &cross; Tập VLTL cho ba | - Luyện tập quản trị thời gian, năng lượng <br> - Bắt đầu tracking từng việc làm trong ngày &rarr; để quản trị
 |34|24/05| - &check; Dậy sớm **4:00** <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** | - &check; Thesis | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Lập trình (scripting) bảng quản lý hành động Google Sheet <br> - &check; Lập trình (scripting) bảng quản lý Mối quan hệ Google Sheet <br> - Đọc Lập trình quỹ đạo cuộc đời (**13, 14, 15, 16**) | - Tập VLTL cho ba (&check; tối)
 |33|23/05| - &check; Dậy sớm **4:00** <br> - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump squat 34x3 = **100 cái** <br> - &check; Đọc Computer Systems: Virtual Memory | - &check; Thesis + teammate | - &check; Làm bài tập Money Tree <br> - &check; Nghe [Thai Pham](https://youtu.be/R8jkAOKbfAw) <br> - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Dạy Phúc  | | |
 |32|22/05| - &check; Hít đất 25x8 = **200 cái** <br> - &check; Jump Squat 34x3 = **100 cái** <br> - Plank | - &check; Học CS386: Functional Dependency & Normal Form | - Đọc Tờ kinh số 5 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Học Money Tree: Developing your saving plan & spending plan + Planning for your retirement
