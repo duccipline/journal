@@ -24,7 +24,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (47/66)
+* [ ] - Bảng C (48/66)
 
 ## Bảng C
 
@@ -72,29 +72,32 @@ Tùy mức độ gấp mà `II` có thể được ưu tiên làm trước `I`
 
 #### After Reflection
 
-_May 23, 4:00_  
+<details close><summary><i>May 23, 4:00</i></summary>
 Gửi Đức, xin xây dựng thói quen dấn thân, cống hiến hết sức trẻ cho công việc, cho rèn luyện tiến thân, hãy góp sức trẻ để mang lại giá trị cho xã hội. Hãy làm việc chăm chỉ và hiệu quả bảy ngày một tuần, mỗi ngày hơn mười giờ. Hãy duy trì kỷ luật bản thân, hãy duy trì sự tích cực và năng lượng. Cảm ơn!  
 
-Mình chỉ còn 8 năm U30 khi còn là tỷ phú thời gian và tỷ phú sức khỏe thôi, hãy sử dụng nó để không phải hối hạn.
+Mình chỉ còn 8 năm U30 khi còn là tỷ phú thời gian và tỷ phú sức khỏe thôi, hãy sử dụng nó để không phải hối hận
+</details>
 
-_May 25_  
+<details close><summary><i>May 25</i></summary>
 Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và **hạnh phúc** &rarr; Cố lên Đức
+</details>
 
 
 ##### Check list
 
 * [x] - Final Presentation CS409
+* [ ] - Giải 100 bài LeetCode
 * [ ] - Final Exam CS386
 * [ ] - Thesis
 * [ ] - Saigon Center office
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|48|07/06| 
+|48|07/06| - &check; Chạy bộ 2.02km/pace 5:31 <br> - &check; Chạy bộ **5.01km/pace 5:51** | - &check; Làm 2 assignment deadlines Lab CS386 | | | - Lấy lại tinh thần được sơ sơ, đỡ buồn chuyện gia đình, chuyện sự nghiệp. <br> - 
 | | |
-|47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37**
+|47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37** | | - &check; Dạy Phúc <br> - &check; Đọc Chuông nguyện hồn ai (chương 9) | | - **Ngủ quá nhiều**
 | | |
-|46|05/06| - &check; Chạy bộ **3.01km/pace 5:36** | | - &check; Học MT19 <br> - &check; Đọc Chuông nguyện hồn ai (chương 4, 5, 6, 7, 8)
+|46|05/06| - &check; Chạy bộ **3.01km/pace 5:36** | | - &check; Học MT19 <br> - &check; Đọc Chuông nguyện hồn ai (chương 4, 5, 6, 7, 8) | | - **Ngủ quá nhiều**
 |45|04/06| - &check; Chạy bộ 1.00km/pace 5:40 | - &check; Học Lab CS386 | - &check; Đọc Chuông nguyện hồn ai (chương 3)
 |44|03/06| - &check; Chạy bộ **3.01km/pace 5:47** <br> - Plank 2'00 | | - &check; Đọc Chuông nguyện hồn ai (chương 2)
 |43|02/06| | - &check; Virtual Memory: Address Translation
