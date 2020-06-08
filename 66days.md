@@ -93,6 +93,7 @@ Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
+|49|08/06| Goal <br> - Làm Codeforces <br> - Làm LeetCode <br> - Chạy bộ | Goal <br> - Đọc Database Systems 
 |48|07/06| - &check; Chạy bộ 2.02km/pace 5:31 <br> - &check; Chạy bộ **5.01km/pace 5:51** | - &check; Làm 2 assignment deadlines Lab CS386 | | | - Lấy lại tinh thần được sơ sơ, đỡ buồn chuyện gia đình, chuyện sự nghiệp. <br> - 
 | | |
 |47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37** | | - &check; Dạy Phúc <br> - &check; Đọc Chuông nguyện hồn ai (chương 9) | | - **Ngủ quá nhiều**
