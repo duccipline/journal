@@ -24,7 +24,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (48/66)
+* [ ] - Bảng C (49/66)
 
 ## Bảng C
 
@@ -93,11 +93,11 @@ Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|49|08/06| Goal <br> - Làm Codeforces <br> - Làm LeetCode <br> - Chạy bộ | Goal <br> - Đọc Database Systems 
+|50|09/06|
+| | | 
+|49|08/06| Goal <br> - &check; Làm Codeforces &rarr; [1354D](https://codeforces.com/contest/1354/problem/D) <br> - Làm LeetCode [Easy1](https://leetcode.com/problems/invert-binary-tree/submissions/), [Hard2](https://leetcode.com/problems/reducing-dishes/), [Medium3](https://leetcode.com/problems/unique-paths-ii/), [Hard4](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) <br> - &check; Chạy bộ 1.14km/pace 6:15 | Goal <br> - &cross; Đọc Database Systems | - &check; Nghe TSKD [#131](https://tamsukinhdoanh.com/tap-131-quy-tac-3-kho/) <br> - &check; Học MT 19 | 
 |48|07/06| - &check; Chạy bộ 2.02km/pace 5:31 <br> - &check; Chạy bộ **5.01km/pace 5:51** | - &check; Làm 2 assignment deadlines Lab CS386 | | | - Lấy lại tinh thần được sơ sơ, đỡ buồn chuyện gia đình, chuyện sự nghiệp. <br> - 
-| | |
 |47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37** | | - &check; Dạy Phúc <br> - &check; Đọc Chuông nguyện hồn ai (chương 9) | | - **Ngủ quá nhiều**
-| | |
 |46|05/06| - &check; Chạy bộ **3.01km/pace 5:36** | | - &check; Học MT19 <br> - &check; Đọc Chuông nguyện hồn ai (chương 4, 5, 6, 7, 8) | | - **Ngủ quá nhiều**
 |45|04/06| - &check; Chạy bộ 1.00km/pace 5:40 | - &check; Học Lab CS386 | - &check; Đọc Chuông nguyện hồn ai (chương 3)
 |44|03/06| - &check; Chạy bộ **3.01km/pace 5:47** <br> - Plank 2'00 | | - &check; Đọc Chuông nguyện hồn ai (chương 2)
