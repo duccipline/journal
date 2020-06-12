@@ -93,8 +93,11 @@ Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|50|09/06|
-| | | 
+|53|12/06| - Làm LeetCode <br> - Đọc Database Systems | - Code Thesis <br> | - Nghe Web5ngay
+| | |
+|52|11/06| - &check; Đọc Database Systems: **Concurrency**, **Locking** <br> - &check; Chạy bộ 1.00km/pace 5:41 | - &check; Học Lab CS386 <br> - &check; Xong HW03 CS386
+|51|10/06| - Database Systems: <br> - &check; Làm leetcode [Hard5](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/), [Hard6](https://leetcode.com/problems/unique-paths-iii/), [Hard7](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | - &check; Làm HW03 CS386
+|50|09/06| - &check; Computer Systems: **Dynamic Memory Allocation** + **Garbage Collection** + **Common Memory-Related Bugs in C Programs** <br> - &cross; Chạy bộ
 |49|08/06| Goal <br> - &check; Làm Codeforces &rarr; [1354D](https://codeforces.com/contest/1354/problem/D) <br> - Làm LeetCode [Easy1](https://leetcode.com/problems/invert-binary-tree/submissions/), [Hard2](https://leetcode.com/problems/reducing-dishes/), [Medium3](https://leetcode.com/problems/unique-paths-ii/), [Hard4](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) <br> - &check; Chạy bộ 1.14km/pace 6:15 | Goal <br> - &cross; Đọc Database Systems | - &check; Nghe TSKD [#131](https://tamsukinhdoanh.com/tap-131-quy-tac-3-kho/) <br> - &check; Học MT 19 | 
 |48|07/06| - &check; Chạy bộ 2.02km/pace 5:31 <br> - &check; Chạy bộ **5.01km/pace 5:51** | - &check; Làm 2 assignment deadlines Lab CS386 | | | - Lấy lại tinh thần được sơ sơ, đỡ buồn chuyện gia đình, chuyện sự nghiệp. <br> - 
 |47|06/06| - &check; Virtual Memory: Dynamic Allocation <br> - &check; Chạy bộ **3.34km/pace 5:37** | | - &check; Dạy Phúc <br> - &check; Đọc Chuông nguyện hồn ai (chương 9) | | - **Ngủ quá nhiều**
