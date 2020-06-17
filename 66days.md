@@ -24,7 +24,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng A](https://github.com/duccipline/journal/blob/master/archive_66_days_A.md) (**hoàn thành**)
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
-* [ ] - Bảng C (49/66)
+* [ ] - Bảng C (58/66)
 
 ## Bảng C
 
@@ -86,13 +86,19 @@ Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và
 ##### Check list
 
 * [x] - Final Presentation CS409
-* [ ] - Giải 100 bài LeetCode
 * [ ] - Final Exam CS386
+* [ ] - Giải 100 bài LeetCode (9)
 * [ ] - Thesis
 * [ ] - Saigon Center office
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
+|59|18/06| - &check; **Dậy sớm 5:00** |
+|58|17/06| - &check; Làm LeetCode [Hard9](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | | - Nghe [TSKD #132](https://tamsukinhdoanh.com/tap-132-hoc-lam-gi/)
+|57|16/06| | | - &check; [Xem](https://youtu.be/cbOn2WvrolU)
+|56|15/06| - &check; Làm LeetCode [Hard8](https://leetcode.com/problems/first-missing-positive/)
+|55|14/06|
+|54|13/06|
 |53|12/06| - Làm LeetCode <br> - Đọc Database Systems | - Code Thesis <br> | - Nghe Web5ngay
 | | |
 |52|11/06| - &check; Đọc Database Systems: **Concurrency**, **Locking** <br> - &check; Chạy bộ 1.00km/pace 5:41 | - &check; Học Lab CS386 <br> - &check; Xong HW03 CS386
