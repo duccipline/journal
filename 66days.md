@@ -25,14 +25,22 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - Bảng C (**hoàn thành**)
-* [ ] - Bảng C2 (04/66)
+* [ ] - Bảng C2 (05/66)
 
 ## Bảng C2
 
+### Checklist
+
+* [ ] - 10K sub 1
+* [ ] - Saigon Center Office
+* [ ] - Thesis
+
+### Track log
+
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|05|30/06| - &check; **Dậy sớm 5:30** | | - &check; <details close><summary><b>**Đi xem Bất động sản**</b></summary> (lần đầu tiên trong đời, quá thú vị =)), chắc mỗi tuần đi xem 1 lần &rarr; 3, 4 năm nữa xuống tiền là vừa) </details> - &check; <details close><summary>Ăn sinh nhật muộn</summary> với người iu </details> | - &check; Đo huyết áp cho ba 
-|04|**29/06**| | | - &check; <details close><summary>Ăn sinh nhật </summary> với ba má</details> | - &check; Mua quần áo mới cho ba <br> - &check; Đo huyết áp cho ba
+|05|30/06| - &check; **Dậy sớm 5:30** | | - &check; <details close><summary><b>**Đi xem Bất động sản**</b></summary> (lần đầu tiên trong đời, quá thú vị =)), chắc mỗi tuần đi xem 1 lần &rarr; 3, 4 năm nữa xuống tiền là vừa) </details> - &check; <details close><summary>Ăn sinh nhật muộn</summary> với người iu </details> | - &check; Đo huyết áp cho ba <br> - Nghe &check; [TQKS](http://tqkradio.com/96-tqks_reup-gio-dc-i-hc-s-thay-i-ra-sao-sau-dch-covid-19)
+|04|**29/06**| | | - &check; <details close><summary>Ăn sinh nhật </summary> với ba má</details> | - &check; Mua quần áo mới cho ba <br> - &check; Đo huyết áp cho ba <br> - &check; Nghe [TSKD #134](https://tamsukinhdoanh.com/tap-134-cach-tui-leo-lai-cuoc-doi/)
 |03|28/06| - &check; **Dậy sớm 3:00** <br> | | - &check; <details close><summary>Ăn sinh nhật sớm</summary> với những người bạn mình quý nhất </details> | - &check; Đo huyết áp cho ba
 |02|27/06| - &check; **Dậy sớm 5:00** <br> | - &check; Thi Final Lab CS386 | &check; Đọc Từ kiến trúc sư đến bác sĩ tại Hoa Kỳ - BS Wynn Tran (chương 21 - 26, **100%**)
 |01|26/06| - &check; **Dậy sớm 5:00** <br> | - &check; Train team thi CS386 | &check; Đọc Từ kiến trúc sư đến bác sĩ tại Hoa Kỳ - BS Wynn Tran (chương 18, 19 20)
@@ -116,7 +124,7 @@ Cuộc đời mình chỉ theo đuổi hai thứ thôi **sự xuất sắc** và
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|66|25/06| | - &check; Nghe seminar CLC Lab | - &check; Đọc Từ kiến trúc sư đến bác sĩ tại Hoa Kỳ - BS Wynn Tran (chương 1 - 17)
+|66|25/06| | - &check; Nghe seminar CLC Lab | - &check; Đọc Từ kiến trúc sư đến bác sĩ tại Hoa Kỳ - BS Wynn Tran (chương 1 - 17) <br> - &check; Nghe [TSKD #133](https://tamsukinhdoanh.com/tap-133-cuoc-song-don-dieu-cua-tui/)
 |65|24/06| - &check; Meeting team job training <br> - &check; Làm LeetCode [Medium15](https://leetcode.com/problems/unique-binary-search-trees/) <br> - &check; Chạy bộ 1.00km/pace 5:50
 |64|23/06| - &check; Chạy bộ **7.07km/pace 5:53**
 |63|22/06| - &check; **Dậy sớm 4:00**<br> - &check; Làm LeetCode [Hard11](https://leetcode.com/problems/trapping-rain-water) <br> [Easy12](https://leetcode.com/problems/search-in-a-binary-search-tree/) <br> [Hard12](https://leetcode.com/problems/longest-consecutive-sequence) <br> [Hard13](https://leetcode.com/problems/find-median-from-data-stream) <br> [Hard14](https://leetcode.com/problems/edit-distance/) <br> - &check; Chạy bộ 3.6km/pace 6:41 <br> **5.0km/pace 5:53** <br> - Hít đất 
