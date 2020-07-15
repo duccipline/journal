@@ -50,7 +50,7 @@ No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |23|18/07| | | - Seminar Business MT19 |
 |22|17/07|
 | | | | | |
-|21|16/07| - &check; Dậy sớm **3:55** <br> - &check; Chạy bộ **2.00km/pace 5:39** | - Đọc sách Neural Machine Translation: chapter 2, 3, 4 | - Đọc Tờ kinh số 6, 7 (&check; sáng, trưa, tối) | - Đo huyết áp cho ba | Cố lên Đức ơi :D
+|21|16/07| - &check; Dậy sớm **3:55** <br> - &check; Chạy bộ **2.00km/pace 5:39** | - Đọc sách Neural Machine Translation: chapter 2, 3, 4 | - Đọc Tờ kinh số 6, 7 (&check; sáng, trưa, tối) | - &check; Đo huyết áp cho ba | Cố lên Đức ơi :D
 | | | | | | 
 |20|15/07| - &check; Chạy bộ **2.00km/pace 5:25** <hr> - &cross; **Dậy trễ** | - &check; Đọc sách Neural Machine Translation: chapter 1 | - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; chiều, &check; tối) <details close><summary>Nghe</summary> - &check; [Web5ngay](https://youtu.be/RbdxNLGBJNg) <br> - &check; [Web5ngay](https://youtu.be/rfaYJJ3QyVw) <br> - &check; TQKS [#74](https://youtu.be/N_J7XgxyciU) <br> - &check; [Thai Pham](https://www.facebook.com/watch/live/?v=1173178263025269&ref=watch_permalink) </details> - &check; Meeting (business team MT19) | - &check; Đo huyết áp cho ba |
 |19|14/07| - &check; Học Operating System: Memory Virtualization <hr> - &cross; Dậy trễ <br> - &cross; Chạy bộ | | - &check; Dạy Phúc| - &check; Đo huyết áp cho ba
