@@ -1,3 +1,5 @@
+> ##### I'm training to be DISCIPLINED and PROACTIVE  
+
 Meaning of my life `Happiness` `Excellence`
 
 ## LIFE MANIFESTO  
@@ -25,7 +27,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (17/66)
+* [ ] - Bảng C2 (19/66)
 
 ## Bảng C2
 
@@ -44,9 +46,16 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|18|13/07| - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ **3.02km/pace 5:28** <br> - Làm LeetCode <br> - Luyện Operating Systems <br> - Hít đất <br> - Plank | | - Thay pin Macbook <br> - Nghe TSKD #136 <br> - Đọc Khi hơi thở hóa thinh không | - Đo huyết áp cho ba | 
-| | | | | 
-|17|12/07| - **Dậy trễ** <br> - &check; Chạy bộ 1.27km/pace 5:31 <br> - &check; Hít đất 1x25 <br> - Plank <br> - &check; Học Operating Systems: Multiprocessor Scheduling | | - &check; Đọc sách Đọc vị thế hệ Gen Z (chương 1 - 8, **100%**) &rarr; sách dở quá | - &check; Đo huyết áp cho ba
+|24|19/07| | - Sinh hoạt công dân |
+|23|18/07| | | - Seminar Business MT19 |
+|22|17/07|
+|21|16/07|
+| | | | | |
+|20|15/07| - Chạy bộ <br> - Hít đất <hr> - &cross; **Dậy trễ** | - Đọc sách Neural Machine Translation: chapter 1, 2 | - Đọc Tờ kinh số 6, 7 (&check; sáng, chiều, tối) <details close><summary>Nghe</summary> - &check; [Web5ngay](https://youtu.be/RbdxNLGBJNg) <br> - &check; TQKS [#74](https://youtu.be/N_J7XgxyciU) </details> | - Đo huyết áp cho ba |
+| | | | | |
+|19|14/07| - &check; Học Operating System: Memory Virtualization <hr> - &cross; Dậy trễ <br> - &cross; Chạy bộ | | - &check; Dạy Phúc| - &check; Đo huyết áp cho ba
+|18|13/07| - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ **3.02km/pace 5:28** <br> - &check; Luyện Operating Systems <br> - &check; Hít đất 1x25 <hr> - &cross; Plank <br>- &cross; Làm LeetCode <br>| | - &check; Thay pin Macbook <br> - &check; Nghe TSKD [#136](https://tamsukinhdoanh.com/tap-136/) <br> <details close><summary>Đọc Khi hơi thở hóa thinh không</summary> Đọc được 12 trang thì thấy không hợp với sách dịch :)), có kiếm sách gốc đọc thử &rarr; dễ đọc hơn </details> | - &check; Đo huyết áp cho ba | 
+|17|12/07| - &check; Chạy bộ **1.27km/pace 5:31** <br> - &check; Hít đất 1x25 <br> - &check; Học Operating Systems: Memory Virtualization <hr> - &cross; **Dậy trễ** <br> - &cross; Plank | | - &check; Đọc sách Đọc vị thế hệ Gen Z (chương 1 - 8, **100%**) &rarr; sách dở quá <br> - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) | - &check; Đo huyết áp cho ba
 |16|11/07| - &check; Dậy sớm 5:00 <details><summary>&check; Học Operating Systems</summary> - Ticket Mechanism <br> - Stride Scheduling <br> - CFS </details> | | - &check; Workshop **Siêu cò** - anh [Thái](https://www.facebook.com/KBA.pham), anh [Khánh](https://www.facebook.com/qkhanh), anh [Ngọc](https://www.facebook.com/ngoc230270), anh [Dũng](https://www.facebook.com/donald.connector) <br> - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Dạy Phúc | - &check; Đo huyết áp cho ba
 |15|10/07| | | - &check; Dạy Phúc <br> - Đọc tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) | - &check; Đo huyết áp cho ba
 |14|09/07| | | - Đọc tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) | - &check; Đo huyết áp cho ba
