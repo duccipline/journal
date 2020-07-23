@@ -27,18 +27,27 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (25/66)
+* [ ] - Bảng C2 (27/66)
 
 ## Bảng C2
 
 ### Lessons
 
-> ##### "Leadership is not something you gain, it’s something you earn. If there’s someone willing to follow you, only then you’re a leader"
+> ##### "Leadership is not something you gain, it’s something you earn. If there’s someone willing to follow you, only then you’re a leader"  
+
+<br>
+
+> ##### "There is no way to happiness. Happiness is the way."
 
 ### Checklist
 
 * [ ] - Chạy 10K sub 1
+    * [ ] - Chạy 5K 30 phút tháng 7
+    * [ ] - Chạy Sala với Hội
 * [ ] - Giải 100 bài LeetCode (16)
+    * [ ] - July 11-day Challenge, July 21
+    * [ ] - July 11-day Challenge, July 22
+    * [ ] - July 11-day Challenge, July 23
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -46,12 +55,15 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|
-|26|21/07| - &check; Dậy sớm **4:15** | - Làm Presentation báo cáo 
-|25|20/07| - &check; Dậy sớm **5:30** <br> - &check; Chạy bộ **1.06km/pace 4:58** | | - &check; Nghe TSKD [#137](https://tamsukinhdoanh.com/tap-137/) <br> - &check; Nghe anh [Thái Dương](https://youtu.be/UGuKG4rMs8U) | - &check; Đo huyết áp cho ba
+|28|23/07| - Chạy bộ <hr> - &cross; Dậy sớm| - Đọc Neural Machine Translation: chapter 5 | - Nghe Tờ kinh số 6, 7 (&check; sáng, trưa, tối) <br> - &check; Cafe tư vấn cho 1 người bạn H | - Đo huyết áp cho ba 
+|27|22/07| - &check; Chạy bộ **3.07km/pace 6:19** <hr> - &cross; Làm LeetCode <br> - &cross; Dậy trễ 8:00 | - &check; Đọc Neural Machine Translation <br> - Làm presentation report | - &check; Nghe [Paris morning music](https://youtu.be/mHBSEieFVO0) <br> - Nghe Tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Đọc Thiết kế cuộc đời thịnh vượng (chương 1) <br> - &check; Nghe CBJS [Talk #5](https://www.facebook.com/watch/live/?v=926374671032123&ref=watch_permalink) thaidn | - &check; Đo huyết áp cho ba | Hôm nay nghe Talk #5 của CBJS hơn 3 giờ, học được khá nhiều insights về technical. Eventually fine!
+| | | | | | |
+|26|21/07| - &check; Dậy sớm **4:15** <br> - &check; Học Operating System: Segmentation <br> - &check; Ngủ sớm **22:00** | - Làm Presentation báo cáo | - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) <br> - &check; Nghe [TQKS](https://youtu.be/kjwwRuHZ9j0) <br> - &check; Nghe [TQKS](https://youtu.be/N_J7XgxyciU) <br> - &check; Đọc Thiết kế cuộc đời thịnh vượng (chương 7) <br> - &check; Dạy Phúc | - &check; Đo huyết áp cho ba
+|25|20/07| - &check; Dậy sớm **5:30** <br> - &check; Chạy bộ **1.06km/pace 4:58** <br> - Ngủ sớm **22:00** | | - &check; Nghe TSKD [#137](https://tamsukinhdoanh.com/tap-137/) <br> - &check; Nghe anh [Thái Dương](https://youtu.be/UGuKG4rMs8U) | - &check; Đo huyết áp cho ba
 |24|19/07| - &check; Dậy sớm **3:30** | - &check; Sinh hoạt công dân cuối khóa | - &check; Nghe [Web5ngay](https://youtu.be/NrvEpnh5Bj0) <br> - &check; Nghe [Thai Pham](https://youtu.be/ib4iW_5RQAQ) <br> - &check; Nghe anh [Thái Dương](https://youtu.be/UGuKG4rMs8U) | - &check; Đo huyết áp cho ba
 |23|18/07| <details close><summary>&check; Học Operating System</summary> Segmentation, Free Space Management</details> <hr> - &cross; Dậy trễ | | - &check; Seminar Business MT19 <br> - &check; Nghe [Web5ngay](https://youtu.be/LZ7rkztXglY) | - &check; Đo huyết áp cho ba
-|22|17/07| - &check; Chạy bộ **2.01km/pace 5:49** <hr> - &cross; Dậy trễ | - Đọc sách Neural Machine Translation: chapter 3, 4 | | - &check; Đo huyết áp cho ba
-|21|16/07| - &check; Dậy sớm **3:55** <br> - &check; Chạy bộ **2.00km/pace 5:39** | - &check; Đọc sách Neural Machine Translation: chapter 2 | - Đọc Tờ kinh số 6, 7 (&check; sáng, trưa, tối) | - &check; Đo huyết áp cho ba | Cố lên Đức ơi :D
+|22|17/07| - &check; Chạy bộ **2.01km/pace 5:49** <hr> - &cross; Dậy trễ | - &check; Đọc sách Neural Machine Translation: chapter 3, 4 | - &check; Nghe [TQKS](https://youtu.be/JpUQPrXfbvk) | - &check; Đo huyết áp cho ba
+|21|16/07| - &check; Dậy sớm **3:55** <br> - &check; Chạy bộ **2.00km/pace 5:39** | - &check; Đọc sách Neural Machine Translation: chapter 2 | - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; trưa, &check; tối) | - &check; Đo huyết áp cho ba | Cố lên Đức ơi :D
 |20|15/07| - &check; Chạy bộ **2.00km/pace 5:25** <hr> - &cross; **Dậy trễ** | - &check; Đọc sách Neural Machine Translation: chapter 1 | - Đọc Tờ kinh số 6, 7 (&check; sáng, &check; chiều, &check; tối) <details close><summary>Nghe</summary> - &check; [Web5ngay](https://youtu.be/RbdxNLGBJNg) <br> - &check; [Web5ngay](https://youtu.be/rfaYJJ3QyVw) <br> - &check; TQKS [#74](https://youtu.be/N_J7XgxyciU) <br> - &check; [Thai Pham](https://www.facebook.com/watch/live/?v=1173178263025269&ref=watch_permalink) </details> - &check; Meeting (business team MT19) | - &check; Đo huyết áp cho ba |
 |19|14/07| - &check; Học Operating System: Memory Virtualization <hr> - &cross; Dậy trễ <br> - &cross; Chạy bộ | | - &check; Dạy Phúc| - &check; Đo huyết áp cho ba
 |18|13/07| - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ **3.02km/pace 5:28** <br> - &check; Luyện Operating Systems <br> - &check; Hít đất 1x25 <hr> - &cross; Plank <br>- &cross; Làm LeetCode <br>| | - &check; Thay pin Macbook <br> - &check; Nghe TSKD [#136](https://tamsukinhdoanh.com/tap-136/) <br> <details close><summary>Đọc Khi hơi thở hóa thinh không</summary> Đọc được 12 trang thì thấy không hợp với sách dịch :)), có kiếm sách gốc đọc thử &rarr; dễ đọc hơn </details> | - &check; Đo huyết áp cho ba | 
