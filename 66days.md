@@ -27,21 +27,35 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (**36**/66)
+* [ ] - Bảng C2 (**38**/66)
 
 ## Bảng C2
 
 ### Lessons
 
-> ##### "Leadership is not something you gain, it’s something you earn. If there’s someone willing to follow you, only then you’re a leader"  
+> ### "Leadership is not something you gain, it’s something you earn. If there’s someone willing to follow you, only then you’re a leader"  
 
 <br>
 
-> ##### "There is no way to happiness. Happiness is the way."
+> ### "There is no way to happiness. Happiness is the way."
 
 <br>  
 
-> ##### "Sometimes you will never know the value of a moment until it becomes a memory."  
+> ### "Sometimes you will never know the value of a moment until it becomes a memory."  
+
+<br> 
+
+> ### "The best time to start doing this is now - the second best time was 10 years ago"
+
+<br> 
+
+> ### ["The hierarchy of success"](https://seths.blog/2009/09/the-hierarchy-of-success/) - [Tháp thành công](https://vnhacker.blogspot.com/2017/04/thap-thanh-cong.html)  
+> 1. Attitude
+> 2. Approach
+> 3. Goals
+> 4. Strategy
+> 5. Tactics
+> 6. Execution
 
 <br> 
 
@@ -51,9 +65,8 @@ Meaning of my life `Happiness` `Excellence`
 ### Checklist
 
 * [ ] - Chạy 10K sub 1
-    * [ ] - Chạy 5K 30 phút tháng 7
     * [ ] - Chạy Sala với Hội
-* [ ] - Giải 100 bài LeetCode (16)
+* [ ] - Giải 100 bài LeetCode (20)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -66,8 +79,11 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|38|03/08| - Làm LeetCode | | - &check; Nghe TSKD [#139 Đừng diễn nữa](https://tamsukinhdoanh.com/tap-139-dung-dien-nua/) <br> - Nghe Tờ kinh số 8 (&check; sáng, &check; chiều, tối)
-|37|02/08| <details close><summary>&check; Làm LeetCode</summary> [Easy 17](https://leetcode.com/problems/design-hashset/) <br> [Medium 18](https://leetcode.com/problems/counting-bits/) </details> - &check; Hít đất `II` 16x2 | | <details close><summary>Đọc</summary> - Tờ kinh số 8 (&check; sáng, &check; chiều, &check; tối) </details> <details close><summary>&check; Xem Grokking Webinar #06</summary> [Working at Tech Startups in the US](https://www.facebook.com/grokking.vietnam/videos/744677512755852)
+|39|04/08| | | | | <details close><summary>Cố lên</summary> - [Mẹo khi phỏng vấn tìm việc](https://vnhacker.blogspot.com/2018/03/meo-phong-van-tim-viec.html) <br> - [Tháp thành công](https://vnhacker.blogspot.com/2017/04/thap-thanh-cong.html) </details>
+| | | | | | |
+|38|03/08| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 19](https://leetcode.com/problems/valid-palindrome/) <br> - [Easy 20](https://leetcode.com/problems/valid-palindrome-ii) </details> - &check; Chạy bộ **1.10km/pace 5:27** <br> - &check; Đi bộ 1.00km/pace 11:14 | | - &check; Nghe TSKD [#139 Đừng diễn nữa](https://tamsukinhdoanh.com/tap-139-dung-dien-nua/) <details close><summary>Nghe Thai Pham</summary> - Nghe Tờ kinh số 8 (&check; sáng, &check; chiều, tối) <br> - &check; [CHỨNG KHOÁN, VÀNG SẼ RA SAO KHI ĐẠI DỊCH LAN RỘNG?](https://youtu.be/NvzXtVDz31c) </details> <details close><summary>&check; Học Coursera</summary> - Learning How to Learn: week 2 </details> | | <details close><summary>Tổng kết</summary> - Dạo này tiến độ train chậm quá, không ổn <br> - Xóa tài khoản instagram, youtube <br> - Xóa hết app gây xao nhãng trên điện thoại <hr> - Chấn thương từ July 16, tưởng hết rồi, hôm nay chạy vẫn bị đau lại &rarr; nên dừng sớm, chuyển sang đi bộ <hr> - Job training: 1.5 tháng nay luyện đúng hướng, nhưng mà vẫn còn chậm quá &rarr; x2 workload được thì tốt </details> 
+| | | | | | 
+|37|02/08| <details close><summary>&check; Làm LeetCode `I`</summary> [Easy 17](https://leetcode.com/problems/design-hashset/) <br> [Medium 18](https://leetcode.com/problems/counting-bits/) </details> - &check; Hít đất `II` 16x2 | | <details close><summary>Đọc</summary> - Tờ kinh số 8 (&check; sáng, &check; chiều, &check; tối) </details> <details close><summary>&check; Xem Grokking Webinar #06</summary> [Working at Tech Startups in the US](https://www.facebook.com/grokking.vietnam/videos/744677512755852)
 | | | | | | 
 |_36'_|01/08| | Hôm qua uống 5 shots cf | hôm nay đau đầu | nghỉ dưỡng 1 ngày 
 |36|31/07| - &check; Dậy sớm **4:00** | - &check; Đọc Neural Machine Translation `I` (chapter 11) <br> - &check; Báo cáo Mentor  `I` | - Update CV | | - Cần quản ý thời gian tốt hơn, elimiate the fucked up gap
