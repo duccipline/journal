@@ -27,7 +27,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (**38**/66)
+* [ ] - Bảng C2 (**40**/66)
 
 ## Bảng C2
 
@@ -59,6 +59,14 @@ Meaning of my life `Happiness` `Excellence`
 
 <br> 
 
+> ### Lady Luck favors the one who tries
+
+<br> 
+
+> ### Eat your frog first
+
+<br>
+
 > ### Tâm, thân, trí
 
 
@@ -66,7 +74,7 @@ Meaning of my life `Happiness` `Excellence`
 
 * [ ] - Chạy 10K sub 1
     * [ ] - Chạy Sala với Hội
-* [ ] - Giải 100 bài LeetCode (20)
+* [ ] - Giải 100 bài LeetCode (23)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -79,9 +87,16 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|39|04/08| | | | | <details close><summary>Cố lên</summary> - [Mẹo khi phỏng vấn tìm việc](https://vnhacker.blogspot.com/2018/03/meo-phong-van-tim-viec.html) <br> - [Tháp thành công](https://vnhacker.blogspot.com/2017/04/thap-thanh-cong.html) </details>
+|45|10/08| - **Dậy sớm 4:00** | | - &check; Nghe [CyberJutsu talk #1](https://www.facebook.com/watch/live/?v=509327146099412&ref=watch_permalink)
+|44|09/08| - Làm LeetCode `II` | | - &check; Nghe [Những side projects triệu $$](https://youtu.be/MiPtjGbSQYE) <br> - &check; [CyberJutsu Talk#3](https://youtu.be/k7LCgQEPtrA) - Thug4lif3 (Con đường để học/làm việc RE, phân tích Malware/virus)
 | | | | | | |
-|38|03/08| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 19](https://leetcode.com/problems/valid-palindrome/) <br> - [Easy 20](https://leetcode.com/problems/valid-palindrome-ii) </details> - &check; Chạy bộ **1.10km/pace 5:27** <br> - &check; Đi bộ 1.00km/pace 11:14 | | - &check; Nghe TSKD [#139 Đừng diễn nữa](https://tamsukinhdoanh.com/tap-139-dung-dien-nua/) <details close><summary>Nghe Thai Pham</summary> - Nghe Tờ kinh số 8 (&check; sáng, &check; chiều, tối) <br> - &check; [CHỨNG KHOÁN, VÀNG SẼ RA SAO KHI ĐẠI DỊCH LAN RỘNG?](https://youtu.be/NvzXtVDz31c) </details> <details close><summary>&check; Học Coursera</summary> - Learning How to Learn: week 2 </details> | | <details close><summary>Tổng kết</summary> - Dạo này tiến độ train chậm quá, không ổn <br> - Xóa tài khoản instagram, youtube <br> - Xóa hết app gây xao nhãng trên điện thoại <hr> - Chấn thương từ July 16, tưởng hết rồi, hôm nay chạy vẫn bị đau lại &rarr; nên dừng sớm, chuyển sang đi bộ <hr> - Job training: 1.5 tháng nay luyện đúng hướng, nhưng mà vẫn còn chậm quá &rarr; x2 workload được thì tốt </details> 
+|43|08/08| - &check; Làm LeetCode `II` [Medium 23](https://leetcode.com/problems/maximal-square/)
+|42|07/08|
+|41|06/08| - &check; Làm LeetCode `II` [Medium 22](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+|40|05/08| - &cross; Làm LeetCode `II` <br> - &check; Plank 65s + 62s <hr> - &cross; Dậy trễ
+|39|04/08| - &check; Làm LeetCode `II` [Easy 21](https://leetcode.com/problems/power-of-four/) | | - &check; Học Coursera - [Certificate](https://coursera.org/share/88d77c27321ee309eda3caa49e8ad654) | | <details close><summary>Cố lên</summary> - [Mẹo khi phỏng vấn tìm việc](https://vnhacker.blogspot.com/2018/03/meo-phong-van-tim-viec.html) <br> - [Tháp thành công](https://vnhacker.blogspot.com/2017/04/thap-thanh-cong.html) </details>
+| | | | | | |
+|38|03/08| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 19](https://leetcode.com/problems/valid-palindrome/) <br> - [Easy 20](https://leetcode.com/problems/valid-palindrome-ii) </details> - &check; Chạy bộ **1.10km/pace 5:27** <br> - &check; Đi bộ 1.00km/pace 11:14 | | - &check; Nghe TSKD [#139 Đừng diễn nữa](https://tamsukinhdoanh.com/tap-139-dung-dien-nua/) <details close><summary>Nghe Thai Pham</summary> - Nghe Tờ kinh số 8 (&check; sáng, &check; chiều, tối) <br> - &check; [CHỨNG KHOÁN, VÀNG SẼ RA SAO KHI ĐẠI DỊCH LAN RỘNG?](https://youtu.be/NvzXtVDz31c) </details> <details close><summary>&check; Học Coursera</summary> - Learning How to Learn: week 2, 3, 4 <br> - Hoàn thành [Certificate](https://coursera.org/share/6dbed49241d042cfaea86ad6b2d3210e) </details> | | <details close><summary>Tổng kết</summary> - Dạo này tiến độ train chậm quá, không ổn <br> - Xóa tài khoản instagram, youtube <br> - Xóa hết app gây xao nhãng trên điện thoại <hr> - Chấn thương từ July 16, tưởng hết rồi, hôm nay chạy vẫn bị đau lại &rarr; nên dừng sớm, chuyển sang đi bộ <hr> - Job training: 1.5 tháng nay luyện đúng hướng, nhưng mà vẫn còn chậm quá &rarr; x2 workload được thì tốt </details> 
 | | | | | | 
 |37|02/08| <details close><summary>&check; Làm LeetCode `I`</summary> [Easy 17](https://leetcode.com/problems/design-hashset/) <br> [Medium 18](https://leetcode.com/problems/counting-bits/) </details> - &check; Hít đất `II` 16x2 | | <details close><summary>Đọc</summary> - Tờ kinh số 8 (&check; sáng, &check; chiều, &check; tối) </details> <details close><summary>&check; Xem Grokking Webinar #06</summary> [Working at Tech Startups in the US](https://www.facebook.com/grokking.vietnam/videos/744677512755852)
 | | | | | | 
