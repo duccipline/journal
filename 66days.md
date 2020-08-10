@@ -27,7 +27,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (**40**/66)
+* [ ] - Bảng C2 (**46**/66)
 
 ## Bảng C2
 
@@ -69,6 +69,10 @@ Meaning of my life `Happiness` `Excellence`
 
 > ### Tâm, thân, trí
 
+<br> 
+
+> ### 3 điều bạn muốn từ bỏ để thăng tiến trong sự nghiệp: lười biếng, trì hoãn, sợ hãi
+
 
 ### Checklist
 
@@ -87,7 +91,8 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|45|10/08| - **Dậy sớm 4:00** | | - &check; Nghe [CyberJutsu talk #1](https://www.facebook.com/watch/live/?v=509327146099412&ref=watch_permalink)
+|46|11/08| - &check; **Dậy sớm 4:00** <details close><summary>&check; Làm LeetCode</summary> [Easy 26](https://leetcode.com/problems/path-sum/) <br> [Medium 27](https://leetcode.com/problems/path-sum-ii/) </details> - Chạy bộ (nhẹ) <br> - Học OS | - Nghiên cứu fairseq | - &check; Nghe chú [Dean Nguyen](https://youtu.be/EiaK7tNZMA0)
+|45|10/08| - &check; **Dậy sớm 4:00** <details close><summary>&check; Làm LeetCode `II`</summary> [Medium 24](https://leetcode.com/problems/excel-sheet-column-title/), [Medium 25](https://leetcode.com/problems/excel-sheet-column-number/) </details> | | - &check; Nghe [CyberJutsu talk #1](https://www.facebook.com/watch/live/?v=509327146099412&ref=watch_permalink) <br> - &check; Migrate Password Management System <br> - &check; Nghe TSKD [#140](https://tamsukinhdoanh.com/tap-140-hay-chon-gia-dung/) <br> - &check; Nghe [CyberJutsu talk #2](https://youtu.be/PxsmBeXFHO4) <br> - &check; Nghe [CyberJutsu talk #4](https://youtu.be/Dr-KfhtMBYc) <br> - &check; Dọn dẹp máy tính
 |44|09/08| - Làm LeetCode `II` | | - &check; Nghe [Những side projects triệu $$](https://youtu.be/MiPtjGbSQYE) <br> - &check; [CyberJutsu Talk#3](https://youtu.be/k7LCgQEPtrA) - Thug4lif3 (Con đường để học/làm việc RE, phân tích Malware/virus)
 | | | | | | |
 |43|08/08| - &check; Làm LeetCode `II` [Medium 23](https://leetcode.com/problems/maximal-square/)
