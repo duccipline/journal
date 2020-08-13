@@ -27,7 +27,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (**46**/66)
+* [ ] - Bảng C2 (**48**/66)
 
 ## Bảng C2
 
@@ -78,7 +78,7 @@ Meaning of my life `Happiness` `Excellence`
 
 * [ ] - Chạy 10K sub 1
     * [ ] - Chạy Sala với Hội
-* [ ] - Giải 100 bài LeetCode (23)
+* [ ] - Giải 100 bài LeetCode (28)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -91,20 +91,20 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|46|11/08| - &check; **Dậy sớm 4:00** <details close><summary>&check; Làm LeetCode</summary> [Easy 26](https://leetcode.com/problems/path-sum/) <br> [Medium 27](https://leetcode.com/problems/path-sum-ii/) </details> - Chạy bộ (nhẹ) <br> - Học OS | - Nghiên cứu fairseq | - &check; Nghe chú [Dean Nguyen](https://youtu.be/EiaK7tNZMA0)
+|49|14/08| - Làm LeetCode <br> - Học OS | - Nghiên cứu fairseq <br> - Báo cáo | - Dạy thêm | - Đo huyết áp cho ba
+| | | | | |
+|48|13/08| - &check; Chạy bộ 3.5km/pace 9:51 <br> - &check; Hít đất 50 cái <br> - &check; Plank 1'10 + 1'00x4 = 5'10 | | | - &check; Đo huyết áp cho ba | - Đau dây chằn gối (tái phát) &rarr; Ngày mai chuyển sang nhảy dây &rarr; Luyện tim. <br> - Đây là những ngày mà mental health và physical health của mình chạm đáy.
+|47|12/08| - &check; Hít đất 50 cái <br> - &check; Plank 1’00x3 + 1’01 + 1’05 = 5'06 <br> - &check; Squat 35x3 = 105 cái <br> - &check; Ngủ 23:00 |
+|46|11/08| - &check; **Dậy sớm 4:00** <details close><summary>&check; Làm LeetCode</summary> [Easy 26](https://leetcode.com/problems/path-sum/) <br> [Medium 27](https://leetcode.com/problems/path-sum-ii/) <br> [Medium 28](https://leetcode.com/problems/path-sum-iii/) </details> - Chạy bộ (nhẹ) <br> - &check; Học OS | - Nghiên cứu fairseq | - &check; Nghe chú [Dean Nguyen](https://youtu.be/EiaK7tNZMA0) <br> - &check; Dạy thêm
 |45|10/08| - &check; **Dậy sớm 4:00** <details close><summary>&check; Làm LeetCode `II`</summary> [Medium 24](https://leetcode.com/problems/excel-sheet-column-title/), [Medium 25](https://leetcode.com/problems/excel-sheet-column-number/) </details> | | - &check; Nghe [CyberJutsu talk #1](https://www.facebook.com/watch/live/?v=509327146099412&ref=watch_permalink) <br> - &check; Migrate Password Management System <br> - &check; Nghe TSKD [#140](https://tamsukinhdoanh.com/tap-140-hay-chon-gia-dung/) <br> - &check; Nghe [CyberJutsu talk #2](https://youtu.be/PxsmBeXFHO4) <br> - &check; Nghe [CyberJutsu talk #4](https://youtu.be/Dr-KfhtMBYc) <br> - &check; Dọn dẹp máy tính
 |44|09/08| - Làm LeetCode `II` | | - &check; Nghe [Những side projects triệu $$](https://youtu.be/MiPtjGbSQYE) <br> - &check; [CyberJutsu Talk#3](https://youtu.be/k7LCgQEPtrA) - Thug4lif3 (Con đường để học/làm việc RE, phân tích Malware/virus)
-| | | | | | |
 |43|08/08| - &check; Làm LeetCode `II` [Medium 23](https://leetcode.com/problems/maximal-square/)
 |42|07/08|
 |41|06/08| - &check; Làm LeetCode `II` [Medium 22](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 |40|05/08| - &cross; Làm LeetCode `II` <br> - &check; Plank 65s + 62s <hr> - &cross; Dậy trễ
 |39|04/08| - &check; Làm LeetCode `II` [Easy 21](https://leetcode.com/problems/power-of-four/) | | - &check; Học Coursera - [Certificate](https://coursera.org/share/88d77c27321ee309eda3caa49e8ad654) | | <details close><summary>Cố lên</summary> - [Mẹo khi phỏng vấn tìm việc](https://vnhacker.blogspot.com/2018/03/meo-phong-van-tim-viec.html) <br> - [Tháp thành công](https://vnhacker.blogspot.com/2017/04/thap-thanh-cong.html) </details>
-| | | | | | |
 |38|03/08| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 19](https://leetcode.com/problems/valid-palindrome/) <br> - [Easy 20](https://leetcode.com/problems/valid-palindrome-ii) </details> - &check; Chạy bộ **1.10km/pace 5:27** <br> - &check; Đi bộ 1.00km/pace 11:14 | | - &check; Nghe TSKD [#139 Đừng diễn nữa](https://tamsukinhdoanh.com/tap-139-dung-dien-nua/) <details close><summary>Nghe Thai Pham</summary> - Nghe Tờ kinh số 8 (&check; sáng, &check; chiều, tối) <br> - &check; [CHỨNG KHOÁN, VÀNG SẼ RA SAO KHI ĐẠI DỊCH LAN RỘNG?](https://youtu.be/NvzXtVDz31c) </details> <details close><summary>&check; Học Coursera</summary> - Learning How to Learn: week 2, 3, 4 <br> - Hoàn thành [Certificate](https://coursera.org/share/6dbed49241d042cfaea86ad6b2d3210e) </details> | | <details close><summary>Tổng kết</summary> - Dạo này tiến độ train chậm quá, không ổn <br> - Xóa tài khoản instagram, youtube <br> - Xóa hết app gây xao nhãng trên điện thoại <hr> - Chấn thương từ July 16, tưởng hết rồi, hôm nay chạy vẫn bị đau lại &rarr; nên dừng sớm, chuyển sang đi bộ <hr> - Job training: 1.5 tháng nay luyện đúng hướng, nhưng mà vẫn còn chậm quá &rarr; x2 workload được thì tốt </details> 
-| | | | | | 
 |37|02/08| <details close><summary>&check; Làm LeetCode `I`</summary> [Easy 17](https://leetcode.com/problems/design-hashset/) <br> [Medium 18](https://leetcode.com/problems/counting-bits/) </details> - &check; Hít đất `II` 16x2 | | <details close><summary>Đọc</summary> - Tờ kinh số 8 (&check; sáng, &check; chiều, &check; tối) </details> <details close><summary>&check; Xem Grokking Webinar #06</summary> [Working at Tech Startups in the US](https://www.facebook.com/grokking.vietnam/videos/744677512755852)
-| | | | | | 
 |_36'_|01/08| | Hôm qua uống 5 shots cf | hôm nay đau đầu | nghỉ dưỡng 1 ngày 
 |36|31/07| - &check; Dậy sớm **4:00** | - &check; Đọc Neural Machine Translation `I` (chapter 11) <br> - &check; Báo cáo Mentor  `I` | - Update CV | | - Cần quản ý thời gian tốt hơn, elimiate the fucked up gap
 |35|30/07| - &check; Chạy bộ **2.00km/pace 5:33** <hr> - &cross; Dậy sớm &rarr; **trễ** | - &check; VNG Campus Tour &rarr; hehe team won được 3tr <br> - &check; Đọc Neural Machine Translation `I` (chapter 10) | <details close><summary>Học Coursera</summary> - &check; Learning How to Learn: **Week 1** </details> <details close><summary>Đọc</summary> - Thiết kế cuộc đợi thịnh vượng `II` (chương 6, 100%) </details> | | - Hôm nay cần tập trung cao độ <br> - Ăn uống điều hòa, không nạp bậy bạ vào cơ thể
