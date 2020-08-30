@@ -27,7 +27,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [ ] - Bảng C2 (**63**/66)
+* [ ] - Bảng C2 (**65**/66)
 * [ ] - Bảng D
 
 ## Bảng C2
@@ -79,7 +79,7 @@ Meaning of my life `Happiness` `Excellence`
 
 * [ ] - Chạy 10K sub 1
     * [ ] - Chạy Sala với Hội
-* [ ] - Giải 100 bài LeetCode (84)
+* [ ] - Giải 100 bài LeetCode (90)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -92,6 +92,11 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
+| |01/09| | | | |
+|  |**31/08**| | | | | 
+| | | | | |
+|65|30/08| <details close><summary>&check; Làm LeetCode</summary> - [Medium 90](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)</details> | | - &check; Ăn chay ngày thứ 12  <details close><summary>&check; Nghe web5ngay</summary> - [90% Đi Sai Con Đường Thành Công](https://youtu.be/S-4nNucqzSQ) <br> - [Học gì để có nhiều tiền?](https://youtu.be/KB_xGS-JXIs) | - &check; Đo huyết áp cho ba <br> - &check; Đưa ba đi khám bệnh
+|64|29/08| <details close><summary>&check; Làm LeetCode</summary> - [Medium 85](https://leetcode.com/problems/summary-ranges) <br> - [Medium 86](https://leetcode.com/problems/generate-parentheses) <br> - [Medium 87](https://leetcode.com/problems/letter-combinations-of-a-phone-number) <br> - [Easy 88](https://leetcode.com/problems/valid-parentheses) <br> - [Easy 89](https://leetcode.com/problems/fizz-buzz/) </details> | | - &check; Ăn chay ngày thứ 11 | - &check; Đo huyết áp cho ba <br> - &check; Đưa ba đi khám bệnh
 |63|28/08| <details close><summary>&check; Làm LeetCode</summary> -[Medium 82](https://leetcode.com/problems/find-right-interval) <br> - [Medium 83](https://leetcode.com/problems/implement-rand10-using-rand7/) <br> - [Medium 84](https://leetcode.com/problems/contains-duplicate-iii) </details> | - &check; Nghiên cứu fairseq | - &check; Ăn chay ngày thứ 10 <br> - &check; [Nghe](https://www.facebook.com/watch/?v=302480734182756) <br> <details close><summary>&check; Nghe web5ngay</summary> - [Thực tập chánh niệm](https://youtu.be/Cf3GcmfVl84) </details> <details close><summary>Chánh niệm</summary> - Thầy Thích Nhất Hạnh [phần 1](https://youtu.be/a-8JbF18wQQ)| - &check; Đo huyết áp cho ba
 |62|27/08| <details close><summary>&check; Làm LeetCode</summary> - [Hard 66](https://leetcode.com/problems/count-of-range-sum) <br> - [Hard 67](https://leetcode.com/problems/reverse-pairs) <br> - [Hard 68](https://leetcode.com/problems/count-of-smaller-numbers-after-self) <br> - [Easy 69](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) <br> - [Easy 70](https://leetcode.com/problems/largest-number-at-least-twice-of-others) <br> - [Easy 71](https://leetcode.com/problems/sort-array-by-parity/) <br> - [Medium 72](https://leetcode.com/problems/reduce-array-size-to-the-half) <br> - [Medium 73](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) <br> - [Easy 74](https://leetcode.com/problems/first-bad-version) <br> - [Easy 75](https://leetcode.com/problems/search-insert-position) <br> - [Easy 76](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) <br> - [Easy 77](https://leetcode.com/problems/pascals-triangle-ii) <br> - [Easy 78](https://leetcode.com/problems/guess-number-higher-or-lower) <br> - [Easy 79](https://leetcode.com/problems/sort-array-by-parity-ii) <br> - [Medium 80](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) <br> - [Easy 81](https://leetcode.com/problems/check-if-it-is-a-straight-line) </details> | - &check; Nghiên cứu fairseq| - &check; Ăn chay ngày thứ 9 | - &check; Đo huyết áp cho ba
 |61|26/08| <details close><summary>&check; Làm LeetCode</summary> - [Medium 58](https://leetcode.com/problems/increasing-subsequences) <br> - [Medium 59](https://leetcode.com/problems/most-frequent-subtree-sum) <br> - [Medium 60](https://leetcode.com/problems/subarray-sum-equals-k) <br> - [Easy 61](https://leetcode.com/problems/find-pivot-index) <br> - [Easy 62](https://leetcode.com/problems/squares-of-a-sorted-array) <br> - [Easy 63](https://leetcode.com/problems/merge-sorted-array) <br> - [Medium 64](https://leetcode.com/problems/subarray-sums-divisible-by-k) <br> - [Hard 65](https://leetcode.com/problems/russian-doll-envelopes)    </details> | | - &check; Ăn chay ngày thứ 8 <br> - &check; Nghe [TQKS](https://youtu.be/-5ZfvwIJr6E)
