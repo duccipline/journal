@@ -27,10 +27,22 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B](https://github.com/duccipline/journal/blob/master/archive_66_days_B.md) (10 ngày only)
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
-* [x] - Bảng C2 (**hoàn thành**)
+* [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
 * [ ] - Bảng D (1/66)
 
 ## Bảng D
+
+### Checklist 
+
+* [ ] - Chạy 10K sub 1
+    * [ ] - Chạy Sala với Hội
+* [ ] - Làm LeetCode
+    * [x] - Giải 100 bài LeetCode
+    * [ ] - Giải 200 bài LeetCode (102)
+* [ ] - Saigon Center Office
+* [ ] - Thesis
+
+### Check log
 
 | | **Gấp** | Không gấp |
 |---|---|---|
@@ -39,5 +51,6 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|01|01/09| <details close><summary>&check; Làm LeetCode</summary> - [Medium 92](https://leetcode.com/problems/kth-smallest-element-in-a-bst) <br> - [Easy 93](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) <br> - [Easy 94](https://leetcode.com/problems/find-mode-in-binary-search-tree)  </details> - &check; Squat 50x5 = **100 cái** <br> - &check; Chạy bộ **2.01km/pace 5:42** <br> - &check; Plank `0'52` + `1'00` + `1'12` + `1'05` + `0'53` = **3'02** <br> - &check; Hít đất 10x5 = **50 cái** | - Học lại pytorch, fairseq | - &check; [Chánh niệm 1](https://youtu.be/a-8JbF18wQQ) - Thầy Thích Nhất Hạnh | - &check; Đo huyết áp cho ba |
+|**02**|**02/09**| <details close><summary>&check; Làm LeetCode</summary> - [Medium 95](https://leetcode.com/problems/binary-tree-preorder-traversal) <br> - [Medium 96](https://leetcode.com/problems/binary-tree-postorder-traversal) <br> - [Hard 97](https://leetcode.com/problems/maximum-performance-of-a-team) <br> - [Easy 98](https://leetcode.com/problems/house-robber) <br> - [Medium 99](https://leetcode.com/problems/house-robber-iii) <br> - [Medium 100](https://leetcode.com/problems/house-robber-ii) <br> - [Easy 101](https://leetcode.com/problems/minimum-absolute-difference-in-bst) <br> - [Easy 102](https://leetcode.com/problems/minimum-absolute-difference-in-bst)        </details> - &check; Squat 50x2 = **100 cái** <br> - Plank 5 phút <br> - Hít đất 50 cái | - Học lại pytorch, fairseq | - &check; Ăn chay ngày thứ 15 | - &check; Cả gia đình đi ăn
+|01|01/09| <details close><summary>&check; Làm LeetCode</summary> - [Medium 92](https://leetcode.com/problems/kth-smallest-element-in-a-bst) <br> - [Easy 93](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) <br> - [Easy 94](https://leetcode.com/problems/find-mode-in-binary-search-tree)  </details> - &check; Squat 50x5 = **100 cái** <br> - &check; Chạy bộ **2.01km/pace 5:42** <br> - &check; Plank `0'52` + `1'00` + `1'12` + `1'05` + `0'53` = **3'02** <br> - &check; Hít đất 10x5 = **50 cái** | - Học lại pytorch, fairseq | - &check; Ăn chay ngày thứ 14 <br> - &check; [Chánh niệm 1](https://youtu.be/a-8JbF18wQQ) - Thầy Thích Nhất Hạnh | - &check; Đo huyết áp cho ba |
 |||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|
