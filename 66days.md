@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (7/66)
+* [ ] - Bảng D (8/66)
 
 ## Bảng D
 
@@ -38,7 +38,7 @@ Meaning of my life `Happiness` `Excellence`
     * [ ] - Chạy Sala với Hội
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (128)
+    * [ ] - Giải 200 bài LeetCode (130)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -51,6 +51,7 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
+|08|08/09| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 129](https://leetcode.com/problems/word-pattern) <br> - [Easy 130](https://leetcode.com/problems/isomorphic-strings) </details> - &check; Chạy bộ **2.12km/pace 5:44**
 |07|07/09| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 123](https://leetcode.com/problems/delete-node-in-a-bst) <br> - [Easy 124](https://leetcode.com/problems/increasing-order-search-tree) <br> - [Medium 125](https://leetcode.com/problems/find-duplicate-subtrees) <br> - [Medium 126](https://leetcode.com/problems/add-one-row-to-tree) <br> - [Medium 127](https://leetcode.com/problems/serialize-and-deserialize-bst) <br> - [Hard 128](serialize-and-deserialize-binary-tree) </details> - &check; Chạy bộ `II` **3.54km/pace 7:04** <br> - Squat 50x2 = **100 cái** | - Làm thesis | - &check; Ăn chay ngày thứ 20 <br> - &check; Nghe TSKD [#144](https://tamsukinhdoanh.com/tap-144/) <br> - Nghe [Giao lưu VNOI](https://www.facebook.com/groups/VNOIForum/permalink/3501052953248847/) | - &check; Đo huyết áp cho ba <br> - &check; Dọn lá trên mái nhà
 |06|06/09| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 116](https://leetcode.com/problems/construct-string-from-binary-tree) <br> - [Easy 117](https://leetcode.com/problems/repeated-substring-pattern) <br> - [Medium 118](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) <br> - [Easy 119](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) <br> - [Medium 120](https://leetcode.com/problems/binary-tree-level-order-traversal) <br> - [Easy 121](https://leetcode.com/problems/average-of-levels-in-binary-tree) <br> - [Medium 122](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) </details> - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` **1.26km/pace 5:57** <br> - &check; Chạy bộ `II` **2.00km/pace 5:39** | | - &check; Ăn chay ngày thứ 19 <br> - &check; Nghe [UX Survival #1: Communication](https://www.facebook.com/uxmp.vn/videos/776195946509528)
 |05|05/09| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 115](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)     </details> - &check; Squat `II` 50x2 = **100 cái** <br> - &check; Chạy bộ `II` **2.13km/pace 6:20** | | - &check; Ăn chay ngày thứ 18 | - &check; Đo huyết áp cho ba
