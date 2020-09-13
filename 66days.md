@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (9/66)
+* [ ] - Bảng D (13/66)
 
 ## Bảng D
 
@@ -38,7 +38,7 @@ Meaning of my life `Happiness` `Excellence`
     * [ ] - Chạy Sala với Hội
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (138)
+    * [ ] - Giải 200 bài LeetCode (141)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 
@@ -51,8 +51,9 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|12|12/09| <details><summary>&check; Làm LeetCode</summary> - [Medium 131](https://leetcode.com/problems/non-overlapping-intervals) <br> - [Easy 132](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br> - [Easy 133](https://leetcode.com/problems/maximum-product-of-three-numbers) <br> - [Medium 134](https://leetcode.com/problems/friend-circles) <br> - [Easy 135](https://leetcode.com/problems/robot-return-to-origin) <br> - [Medium 136](https://leetcode.com/problems/longest-substring-without-repeating-characters) <br> - [Easy 137](https://leetcode.com/problems/bulls-and-cows) <br> - [Medium 138](https://leetcode.com/problems/score-of-parentheses) </details> - &check; Dậy sớm **3:00** <br> - &check; Offline team training <br> - Chạy bộ <br> - Chạy bộ (bù 11/9) | - Làm Thesis | - &check; Ăn chay ngày thứ 25 | | - Đưa ba đi khám bệnh
-|11|11/09| - &check; Ngủ sớm **22:30** | - &check; Đọc Neural Machine Translation <br> - &check; Dời lịch báo cáo | - &check; Ăn chay ngày thứ 24
+|13|13/09| <details><summary>&check; Làm LeetCode `I`</summary> - [Easy 139](https://leetcode.com/problems/most-common-word) <br> - [Easy 140](https://leetcode.com/problems/buddy-strings) <br> - [Easy 141](https://leetcode.com/problems/string-matching-in-an-array) </details> | - &check; Đọc Neural Machine Translation <br> - Làm task | - &check; Ăn chay ngày thứ 26 | - &check; Đo huyết áp cho ba
+|12|12/09| <details><summary>&check; Làm LeetCode `I`</summary> - [Medium 131](https://leetcode.com/problems/non-overlapping-intervals) <br> - [Easy 132](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) <br> - [Easy 133](https://leetcode.com/problems/maximum-product-of-three-numbers) <br> - [Medium 134](https://leetcode.com/problems/friend-circles) <br> - [Easy 135](https://leetcode.com/problems/robot-return-to-origin) <br> - [Medium 136](https://leetcode.com/problems/longest-substring-without-repeating-characters) <br> - [Easy 137](https://leetcode.com/problems/bulls-and-cows) <br> - [Medium 138](https://leetcode.com/problems/score-of-parentheses) </details> - &check; Dậy sớm **3:00** <br> - &check; Offline team training <hr> - Chạy bộ `II`<br> - Chạy bộ `II` (bù 11/9) | - Làm Thesis | - &check; Ăn chay ngày thứ 25 | | 
+|11|11/09| - &check; Ngủ sớm **22:30** <hr> - &check; Chạy bộ `II` **1.00km/pace 5:32** (13/9 chạy bù) | - &check; Đọc Neural Machine Translation <br> - &check; Dời lịch báo cáo | - &check; Ăn chay ngày thứ 24
 |10|10/09| - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` **2.00km/pace 5:33** <hr> - &cross; Squat `II` <br> - &cross; Ngủ sớm <details><summary>&cross; Làm LeetCode `I`</summary> </details> | - Làm Thesis <br> - &check; Đọc Neural Machine Translation | - Ăn chay ngày thứ 23 | - &check; Đo huyết áp cho ba <hr> - Đưa ba đi khám bệnh
 |09|09/09| - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` **2.00km/pace 5:46** <br> - &check; Ngủ sớm **21:00** <hr> <details close><summary>&cross; Làm LeetCode `I`</summary> </details> | - &check; Làm Thesis <br> - &check; Đọc Neural Machine Translation | - &check; Ăn chay ngày thứ 22 | - &check; Đo huyết áp cho ba
 |08|08/09| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 129](https://leetcode.com/problems/word-pattern) <br> - [Easy 130](https://leetcode.com/problems/isomorphic-strings) </details> - &check; Chạy bộ `II` **2.12km/pace 5:44** | - &check; Làm Thesis `I` | - &check; Ăn chay ngày thứ 21 | - &check; Đo huyết áp cho ba
