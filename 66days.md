@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (16/66)
+* [ ] - Bảng D (17/66)
 
 ## Bảng D
 
@@ -37,7 +37,7 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Chạy 10K sub 1
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (152)
+    * [ ] - Giải 200 bài LeetCode (159)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
@@ -51,7 +51,8 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|17|17/09| <details><summary>Làm LeetCode `I`</summary> </details> - &check; Dậy sớm **3:00** | | - **Ăn chay ngày thứ 30**
+|18|18/09| <details><summary>Làm LeetCode `I`</summary> </details> - &check; Dậy sớm **3:00** <br> - Ngủ sớm
+|17|17/09| <details><summary>&check; Làm LeetCode `I`</summary> - [Medium 153](https://leetcode.com/problems/teemo-attacking) <br> - [Medium 154](https://leetcode.com/problems/maximum-sum-circular-subarray) <br> - [Easy 155](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) <br> - [Easy 156](https://leetcode.com/problems/day-of-the-week) <br> - [Easy 157](https://leetcode.com/problems/max-consecutive-ones) <br> - [Easy 158](https://leetcode.com/problems/consecutive-characters) <br> - [Easy 159](https://leetcode.com/problems/split-a-string-in-balanced-strings) </details> - &check; Dậy sớm **3:00** <br> - &check; Ngủ sớm **19:00** | | - &check; **Ăn chay ngày thứ 30**
 |16|16/09| <details><summary>&check; Làm LeetCode `I`</summary> - [Easy 149](https://leetcode.com/problems/n-th-tribonacci-number) <br> - [Easy 150](https://leetcode.com/problems/range-sum-of-bst) <br> - [Easy 151](https://leetcode.com/problems/create-target-array-in-the-given-order) <br> - [Easy 152](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) </details> - &check; Dậy **7:00** <br> - &check; Ngủ sớm **20:00** |  | - &check; Ăn chay ngày thứ 29
 |15|15/09| <details><summary>&check; Làm LeetCode `I`</summary> - [Medium 142](https://leetcode.com/problems/container-with-most-water) <br> - [Medium 143](https://leetcode.com/problems/global-and-local-inversions)  <br> - [Medium 144](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) <br> - [Medium 145](https://leetcode.com/problems/corporate-flight-bookings) <br> - [Easy 146](https://leetcode.com/problems/min-cost-climbing-stairs) <br> - [Easy 147](https://leetcode.com/problems/climbing-stairs) <br> - [Easy 148](https://leetcode.com/problems/fibonacci-number) </details> - &check; Dậy sớm `I` **5:40** | - Nghiên cứu fairseq | - &check; Ăn chay ngày thứ 28 <br> - &check; Nghe TSKD [#145](https://tamsukinhdoanh.com/tap-145-duong-dai)| - &check; Đo huyết áp cho ba
 |14|14/09| - &check; Dậy sớm `I` **4:00** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ sớm **22:00** <hr> <details><summary>&cross; Làm LeetCode `I`</summary> </details> <hr> - &check; Chạy bộ **0.28km/pace 5:56** (17/09 sáng chạy bù &rarr; chạy ói luôn, nay yếu quá) | - &check; Làm task `I` <br> - &check; Báo cáo `I` | - &check; Ăn chay ngày thứ  27 <hr> - &cross; Nghe TSKD [#145](https://tamsukinhdoanh.com/tap-145-duong-dai) | - Đo huyết áp cho ba <br> - Chở ba đi khám bệnh
