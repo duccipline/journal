@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (**23**/66)
+* [ ] - Bảng D (**24**/66)
 
 ## Bảng D
 
@@ -37,7 +37,7 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Chạy 10K sub 1
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (**181**)
+    * [ ] - Giải 200 bài LeetCode (**184**)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
@@ -51,9 +51,11 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|24|24/09| <details close><summary>Làm LeetCode `I`</summary> </details> - Dậy sớm **3:00**
+|25|25/09| <details close><summary>Làm LeetCode `I`</summary> </details> - &check; Dậy sớm **5:30** <br> | | | | <details close><summary>Cảm xúc</summary> - Vẫn chưa dứt được self-doubt <br> - Mình sợ, kaka, sợ mình không làm được &rarr; chưa ra trận mà đã sợ thua như vậy thì chết rồi <br> - Rốt cuộc thì cái gì quan trọng với mình: Làm Thesis, cày vào S, ACM 2020, ba má, người yêu <br> - Tính ra cũng chỉ có 5 thứ nhỉ, 5 việc trong một ngày &rarr; có vẻ không khó <br> - Cố lên, thay đổi đi Đức, cày nhiều hơn </details>
 | | | | | | | |
-|23|23/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 181](https://leetcode.com/problems/matrix-block-sum/) </details> - &check; Dậy sớm **4:35** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ **18:00** | - Đọc Neural Machine Translation
+|24|24/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 182](https://leetcode.com/problems/filling-bookcase-shelves) <br> - [Medium 183](https://leetcode.com/problems/swap-nodes-in-pairs) <br> - [Medium 184](https://leetcode.com/problems/powx-n) </details> - &check; Dậy sớm **3:00** <br> - &check; Ngủ **23:00** | - Viết hàm sample_sentences <br> - Tóm tắt fairseq <br> - Đọc lại Neural Machine Translation | | - &check; Đo huyết áp cho ba <br> - &check; Đám giỗ Bà Ngoại | | - Dạo này ngày nào cũng dính mưa
+| | | | | | | |
+|23|23/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 181](https://leetcode.com/problems/matrix-block-sum/) </details> - &check; Dậy sớm **4:35** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ **18:00** | - Đọc Neural Machine Translation | - &check; Nghe web5ngay [Kinh Nghiệm Sống Khôn Ngoan Hay XUẤT SẮC](https://youtu.be/QGEYOBMeH1w)
 |22|22/09| - &check; Dậy sớm **3:00** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ sớm **22:00** | | | - &cross; Cãi nhau với ba | - Hôm nay máy tính hư, buồn &rarr; ngủ cả ngày 20 tiếng |
 |21|21/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Easy 170](https://leetcode.com/problems/three-consecutive-odds) <br> - [Medium 171](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) <br> - [Easy 172](https://leetcode.com/problems/degree-of-an-array) <br> - [Easy 173](https://leetcode.com/problems/reverse-integer) <br> - [Easy 174](https://leetcode.com/problems/reverse-bits) <br> - [Easy 175](https://leetcode.com/problems/number-of-1-bits) <br> - [Easy 176](https://leetcode.com/problems/power-of-two) <br> - [Easy 177](https://leetcode.com/problems/hamming-distance) <br> - [Medium 178](https://leetcode.com/problems/total-hamming-distance) <br> - [Easy 179](https://leetcode.com/problems/binary-number-with-alternating-bits) <br> - [Easy 180](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) </details> - &check; Dậy sớm **3:00** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ sớm **21:00** | - Nghiên cứu fairseq `I` <br> - Đọc Neural Machine Translation `I` | <details close><summary>&check; Nghe TQKS</summary> - [KIẾM TRIỆU USD TỪ TRADING TÀI CHÍNH: KHẢ THI HAY KHÔNG](https://youtu.be/IQBMr6BeDSU) <br> - [5 nguyên tắc để tự chủ tài chính của Chuyên gia Thái Vân Linh](https://youtu.be/V-w9r7l6q-g) </details> - &check; Nghe TSKD [#146](https://tamsukinhdoanh.com/tap-146/) <br> - &check; Nghe TSKD [#145](https://tamsukinhdoanh.com/tap-145-duong-dai/) | | - Dạo này chạy yếu qué, hehe <br> - Lâu lắm rồi không dám chạy 5K, 10K
 |20|20/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 168](https://leetcode.com/problems/h-index) <br>- [Medium 169](https://leetcode.com/problems/h-index-ii) </details> - Dậy sớm **5:00** <br> - Ngủ sớm **20:00** | | &check; Nghe [Trò chuyện Hieupc](https://youtu.be/wjABQ4ODQkM) <br> - &check; Dạy thêm | - &check; Đo huyết áp cho ba <br> - &check; Cả nhà ăn lẩu
