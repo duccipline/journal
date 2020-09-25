@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (**24**/66)
+* [ ] - Bảng D (**25**/66)
 
 ## Bảng D
 
@@ -37,7 +37,7 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Chạy 10K sub 1
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (**184**)
+    * [ ] - Giải 200 bài LeetCode (**186**)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
@@ -51,8 +51,7 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|25|25/09| <details close><summary>Làm LeetCode `I`</summary> </details> - &check; Dậy sớm **5:30** <br> | | | | <details close><summary>Cảm xúc</summary> - Vẫn chưa dứt được self-doubt <br> - Mình sợ, kaka, sợ mình không làm được &rarr; chưa ra trận mà đã sợ thua như vậy thì chết rồi <br> - Rốt cuộc thì cái gì quan trọng với mình: Làm Thesis, cày vào S, ACM 2020, ba má, người yêu <br> - Tính ra cũng chỉ có 5 thứ nhỉ, 5 việc trong một ngày &rarr; có vẻ không khó <br> - Cố lên, thay đổi đi Đức, cày nhiều hơn </details>
-| | | | | | | |
+|25|25/09| <details close><summary>Làm LeetCode `I`</summary> - [Easy 185](https://leetcode.com/problems/merge-two-sorted-lists) <br> - [Easy 186](https://leetcode.com/problems/pascals-triangle) </details> - &check; Dậy sớm **5:30** <br> - &check; Ngủ sớm **19:00**| - &check; Báo cáo tiến độ | - &check; Nghe [Cấy nền khởi nghiệp - GS Phan Văn Trường](https://www.facebook.com/coachdannyvo/videos/164374105301564) | | <details close><summary>Cảm xúc</summary> - Vẫn chưa dứt được self-doubt <br> - Mình sợ, kaka, sợ mình không làm được &rarr; chưa ra trận mà đã sợ thua như vậy thì chết rồi <br> - Rốt cuộc thì cái gì quan trọng với mình: Làm Thesis, cày vào S, ACM 2020, ba má, người yêu <br> - Tính ra cũng chỉ có 5 thứ nhỉ, 5 việc trong một ngày &rarr; có vẻ không khó <br> - Cố lên, thay đổi đi Đức, cày nhiều hơn </details>
 |24|24/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 182](https://leetcode.com/problems/filling-bookcase-shelves) <br> - [Medium 183](https://leetcode.com/problems/swap-nodes-in-pairs) <br> - [Medium 184](https://leetcode.com/problems/powx-n) </details> - &check; Dậy sớm **3:00** <br> - &check; Ngủ **23:00** | - Viết hàm sample_sentences <br> - Tóm tắt fairseq <br> - Đọc lại Neural Machine Translation | | - &check; Đo huyết áp cho ba <br> - &check; Đám giỗ Bà Ngoại | | - Dạo này ngày nào cũng dính mưa
 | | | | | | | |
 |23|23/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 181](https://leetcode.com/problems/matrix-block-sum/) </details> - &check; Dậy sớm **4:35** <br> - &check; Chạy bộ `II` <br> - &check; Ngủ **18:00** | - Đọc Neural Machine Translation | - &check; Nghe web5ngay [Kinh Nghiệm Sống Khôn Ngoan Hay XUẤT SẮC](https://youtu.be/QGEYOBMeH1w)
