@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (**25**/66)
+* [ ] - Bảng D (**29**/66)
 
 ## Bảng D
 
@@ -37,7 +37,7 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Chạy 10K sub 1
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
-    * [ ] - Giải 200 bài LeetCode (**187**)
+    * [ ] - Giải 200 bài LeetCode (**200**)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
@@ -51,7 +51,10 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Training | Bachelorship | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---| 
-|26|26/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 187](https://leetcode.com/problems/unique-binary-search-trees) </details> - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` | - Đi xem Thesis Defense | - Dạy thêm | | <details close>- 4:00 code một tí rồi đi chạy bộ </details>
+|29|29/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Hard 192](https://leetcode.com/problems/sudoku-solver) <br> - [Medium 193](https://leetcode.com/problems/combinations) <br> - [Easy 194](https://leetcode.com/problems/same-tree) <br> - [Easy 195](https://leetcode.com/problems/symmetric-tree) <br> - [Medium 196](https://leetcode.com/problems/sort-an-array) <br> - [Medium 197](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) <br> - [Easy 198](https://leetcode.com/problems/binary-search) <br> - [Easy 199](https://leetcode.com/problems/sqrtx) <br> - [Easy 200](https://leetcode.com/problems/valid-perfect-square) </details> - &check; Dậy **7:00** <br> | 
+|28|28/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Hard 190](https://leetcode.com/problems/n-queens) <br> - [Hard 191](https://leetcode.com/problems/n-queens-ii) </details> - &check; Dậy sớm **5:00** <br> - &check; Ngủ sớm **21:00**
+|27|27/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 188](https://leetcode.com/problems/unique-binary-search-trees-ii) <br> - [Medium 189](https://leetcode.com/problems/k-th-symbol-in-grammar) </details> - &check; Dậy sớm **5:30** <br> - &check; Ngủ 24:00 | 
+|26|26/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 187](https://leetcode.com/problems/unique-binary-search-trees) </details> - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` | - Đi xem Thesis Defense | - &check; Dạy thêm | | <details close>- 4:00 code một tí rồi đi chạy bộ </details>
 | | | | | | | |
 |25|25/09| <details close><summary>Làm LeetCode `I`</summary> - [Easy 185](https://leetcode.com/problems/merge-two-sorted-lists) <br> - [Easy 186](https://leetcode.com/problems/pascals-triangle) </details> - &check; Dậy sớm **5:30** <br> - &check; Ngủ sớm **19:00**| - &check; Báo cáo tiến độ | - &check; Nghe [Cấy nền khởi nghiệp - GS Phan Văn Trường](https://www.facebook.com/coachdannyvo/videos/164374105301564) | | <details close><summary>Cảm xúc</summary> - Vẫn chưa dứt được self-doubt <br> - Mình sợ, kaka, sợ mình không làm được &rarr; chưa ra trận mà đã sợ thua như vậy thì chết rồi <br> - Rốt cuộc thì cái gì quan trọng với mình: Làm Thesis, cày vào S, ACM 2020, ba má, người yêu <br> - Tính ra cũng chỉ có 5 thứ nhỉ, 5 việc trong một ngày &rarr; có vẻ không khó <br> - Cố lên, thay đổi đi Đức, cày nhiều hơn </details>
 |24|24/09| <details close><summary>&check; Làm LeetCode `I`</summary>- [Medium 182](https://leetcode.com/problems/filling-bookcase-shelves) <br> - [Medium 183](https://leetcode.com/problems/swap-nodes-in-pairs) <br> - [Medium 184](https://leetcode.com/problems/powx-n) </details> - &check; Dậy sớm **3:00** <br> - &check; Ngủ **23:00** | - Viết hàm sample_sentences <br> - Tóm tắt fairseq <br> - Đọc lại Neural Machine Translation | | - &check; Đo huyết áp cho ba <br> - &check; Đám giỗ Bà Ngoại | | - Dạo này ngày nào cũng dính mưa
