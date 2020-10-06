@@ -38,10 +38,11 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
     * [x] - Giải 200 bài LeetCode
-    * [ ] - Giải 300 bài LeetCode (**235**)
+    * [ ] - Giải 300 bài LeetCode (**236**)
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
+    * [ ] - Làm Contest (Round #192)
 
 ### Check log
 
@@ -52,8 +53,12 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Disicipline | Thesis | Engineering | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|---|---|
+|41|11/10| <details close><summary>Làm LeetCode `I`</summary> </details> | | | - Ăn trưa với N, A
+|40|10/10| <details close><summary>Làm LeetCode `I`</summary> </details> | | | - Dạy thêm <br> - Push climbing với bạn
+|39|09/10| <details close><summary>Làm LeetCode `I`</summary> </details>
+|38|08/10| <details close><summary>Làm LeetCode `I`</summary> </details>
 |37|07/10| <details close><summary>Làm LeetCode `I`</summary> </details> | | - Train Codeforces `II` [Round #190](https://codeforces.com/contest/321)
-|36|06/10| <details close><summary>Làm LeetCode `I`</summary> </details> | | - Train Codeforces `II` [Round #191](https://codeforces.com/contest/327)
+|36|06/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 237](https://leetcode.com/problems/range-sum-query-immutable) <br> - [Medium 238](https://leetcode.com/problems/range-sum-query-2d-immutable) <br> - [Medium 239](https://leetcode.com/problems/range-sum-query-mutable) <br> - [Medium 240](https://leetcode.com/problems/letter-case-permutation) <br> - [Hard 241](https://leetcode.com/problems/merge-k-sorted-lists) </details> - &check; Chạy bộ **1.19km/pace 5:52** <hr> - &cross; Dậy sớm &rarr; 8:00 | | - Train Codeforces `II` [Round #191](https://codeforces.com/contest/327) | - &check; Nghe web5ngay [Đức tính quý báu](https://youtu.be/zQp0c9lSo0s) | | - 9:00 - làm thesis &rarr; Eat the frog first
 |35|05/10 <br> Monday| <details close><summary>&check; Làm LeetCode `I`</summary> - [Hard 224](https://leetcode.com/problems/jump-game-ii) <br> - [Medium 225](https://leetcode.com/problems/perfect-squares) <br> - [Easy 226](https://leetcode.com/problems/count-primes) <br> - [Easy 227](https://leetcode.com/problems/ugly-number) <br> - [Easy 228](https://leetcode.com/problems/happy-number) <br> - [Easy 229](https://leetcode.com/problems/add-digits) <br> - [Medium 230](https://leetcode.com/problems/ugly-number-ii) <br> - [ Medium 231](https://leetcode.com/problems/ugly-number-iii) <br> - [Medium 232](https://leetcode.com/problems/minimum-size-subarray-sum) <br> - [Easy 233](https://leetcode.com/problems/complement-of-base-10-integer) <br> - [Easy 234](https://leetcode.com/problems/number-complement) <br> - [Medium 235](https://leetcode.com/problems/super-ugly-number) <br> - [Medium 236](https://leetcode.com/problems/network-delay-time) </details> - &check; Dậy sớm **4:00** <br> - &check; Chạy bộ `II` **3.22km/pace 5:59** <br> - &check; Đạp xe `II` 10km &rarr; **5.12km** in 21:57, **15.3km** in 1h16m | - Viết hàm `Sample_sentences` | - &check; Train Codeforces `II` [Round #192](https://codeforces.com/contest/329) | - &check; Nghe TSKD [#148](https://tamsukinhdoanh.com/tap-148-cong-bang) <br> - &check; Nghe TSKD #147, #146 | - &check; Đo huyết áp cho ba má | - Hôm nay đạp xe được 20km, hết stressed &rarr; cố lên Đức
 | | | | | | | | | 
 |34|04/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 212](https://leetcode.com/problems/flood-fill) <br> - [Easy 213](https://leetcode.com/problems/island-perimeter) <br> - [Medium 214](https://leetcode.com/problems/max-area-of-island) <br> - [Medium 215](https://leetcode.com/problems/remove-covered-intervals) <br> - [Easy 216](https://leetcode.com/problems/majority-element) <br> - [Medium 217](https://leetcode.com/problems/majority-element-ii) <br> - [Medium 218](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) <br> - [Medium 219](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) <br> - [Medium 220](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) <br> - [Medium 221](https://leetcode.com/problems/jump-game) <br> - [Medium 222](https://leetcode.com/problems/jump-game-iii) <br> - [Medium 223](https://leetcode.com/problems/product-of-the-last-k-numbers) </details> - &check; Chạy bộ `II` <hr> - &cross; Đạp xe `II` <br> - &cross; Dậy sớm &rarr; 8:00  | | | | - &check; Đo huyết áp cho ba, má 
