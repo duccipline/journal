@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (**38**/66)
+* [ ] - Bảng D (**42**/66)
 
 ## Bảng D
 
@@ -38,13 +38,12 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
     * [x] - Giải 200 bài LeetCode
-    * [ ] - Giải 300 bài LeetCode (**281**)
+    * [ ] - Giải 300 bài LeetCode (**293**)
     * [ ] - Giải 400 bài LeetCode
     * [ ] - Giải 500 bài LeetCode
 * [ ] - Saigon Center Office
 * [ ] - Thesis
 * [ ] - Red Coder on Codeforces
-    * [ ] - Làm Contest (Round #192)
 
 ### Check log
 
@@ -55,8 +54,10 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Disicipline | Thesis | Engineering | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|---|---|
-|41|11/10| <details close><summary>Làm LeetCode `I`</summary> </details> | | | - Ăn trưa với N, A
-|40|10/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 275](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum) <br> - [Medium 276](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) <br> - [Easy 277](https://leetcode.com/problems/maximum-subarray) <br> - [Easy 278](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) <br> - [Easy 279](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) <br> - [Medium 280](https://leetcode.com/problems/group-anagrams) <br> - [Easy 281](https://leetcode.com/problems/valid-anagram) </details> | | | - Push climbing với bạn
+|42|12/10 <br> **Monday** | <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 285](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) <br> - [Easy 286](https://leetcode.com/problems/second-highest-salary) <br> - [Easy 287](https://leetcode.com/problems/length-of-last-word) <br> - [Easy 289](https://leetcode.com/problems/to-lower-case) <br> - [Easy 290](https://leetcode.com/problems/implement-strstr) <br> - [Easy 291](https://leetcode.com/problems/next-greater-element-i) <br> - [Medium 292](https://leetcode.com/problems/next-greater-element-ii) <br> - [Medium 293](https://leetcode.com/problems/next-greater-element-iii) </details> - &check; Dậy 7:00 <br> - &check; Chạy bộ `I` **5.02km/pace 6:38** &rarr; cuối tuần race 10K <hr> - &cross; Đạp xe `I` &rarr; bánh xe hư | - Cài thesis `I` | | - &check; Nghe TSKD [#149 - Tầm nhìn](https://tamsukinhdoanh.com/tap-149-tam-nhin/) <br> - &check; Nghe web5ngay [50 Câu nói ý nghĩa](https://youtu.be/qfoq8IX43vE) | - &check; Đo huyết áp cho ba, má
+|
+|41|11/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 282](https://leetcode.com/problems/convert-to-base-2) <br> - [Medium 283](https://leetcode.com/problems/remove-duplicate-letters/) <bR> - [Medium 284](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) </details> <hr> - &cross; Đạp xe | | | - &check; Ăn trưa với N, A
+|40|10/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 275](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum) <br> - [Medium 276](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) <br> - [Easy 277](https://leetcode.com/problems/maximum-subarray) <br> - [Easy 278](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) <br> - [Easy 279](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) <br> - [Medium 280](https://leetcode.com/problems/group-anagrams) <br> - [Easy 281](https://leetcode.com/problems/valid-anagram) </details> | | | - &check; Push climbing với bạn
 |39|09/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 272](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) <br> - [Easy 273](https://leetcode.com/problems/prime-arrangements) <br> - [Easy 274](https://leetcode.com/problems/factorial-trailing-zeroes) </details> - &check; Đạp xe **12.1km** in 55m12s | - &check; Cài thesis `sample_sentences` <br> - &check; Báo cáo tiến độ | | - &check; Nghe chú [Dean Nguyen](https://youtu.be/hnjvb2WLmC0) | - &check; Đo huyết áp cho ba, má
 |38|08/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 253](maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) <br> - [Medium 254](https://leetcode.com/problems/count-number-of-teams) <br> - [Hard 255](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) <br> - [Easy 256](https://leetcode.com/problems/running-sum-of-1d-array) <br> - [Easy 257](https://leetcode.com/problems/number-of-good-pairs) <br> - [Medium 258](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) <br> - [Easy 259](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) <br> - [Medium 260](https://leetcode.com/problems/department-highest-salary) <br> - [Easy 261](https://leetcode.com/problems/xor-operation-in-an-array) <br> - [Easy 262](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) <br> - [Easy 262](https://leetcode.com/problems/jewels-and-stones) <br> - [Easy 263](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) <br> - [Easy 264](https://leetcode.com/problems/convert-a-number-to-hexadecimal) <br> - [Easy 265](https://leetcode.com/problems/sum-of-even-numbers-after-queries) <br> - [Easy 266](https://leetcode.com/problems/shuffle-string) <br> - [Easy 267](https://leetcode.com/problems/sort-colors) <br> - [Easy 268](https://leetcode.com/problems/decompress-run-length-encoded-list) <br> - [Easy 269](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) <br> - [Easy 270](average-salary-excluding-the-minimum-and-maximum-salary) <br> - [Easy 271](https://leetcode.com/problems/peak-index-in-a-mountain-array) </details>
 |37|07/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 242](https://leetcode.com/problems/palindrome-linked-list) <br> - [Easy 243](https://leetcode.com/problems/palindrome-number) <br> - [Medium 244](https://leetcode.com/problems/smallest-integer-divisible-by-k) <br> - [Medium 245](https://leetcode.com/problems/rotate-list) <br> - [Easy 246](https://leetcode.com/problems/toeplitz-matrix) <br> - [Easy 247](https://leetcode.com/problems/rotate-array) <br> - [Easy 248](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) <br> - [Easy 249](https://leetcode.com/problems/shuffle-the-array) <br> - [Medium 250](https://leetcode.com/problems/maximum-swap) <br> - [Easy 251](https://leetcode.com/problems/verifying-an-alien-dictionary) <br> - [Easy 252](https://leetcode.com/problems/unique-number-of-occurrences) </details> - &check; Đạp xe `I` **20.0km** in 1h20 <hr> - &cross; Dậy trễ 11:00 | | - Train Codeforces `II` [Round #190](https://codeforces.com/contest/321) | - &check; Nghe web5ngay [Thói quen tăng năng suất](https://youtu.be/R9OZXDsvDzQ) <br> - &check; Nghe chú [Dean Nguyen](https://youtu.be/BO5PfS_-FcM) | - &check; Đo huyết áp cho ba má <br> - &check; Mua đồ ăn khuya nhẹ
