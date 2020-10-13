@@ -28,7 +28,7 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng B2](https://github.com/duccipline/journal/blob/master/archive_66_days_B2.md) (**hoàn thành**)
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
-* [ ] - Bảng D (**42**/66)
+* [ ] - Bảng D (**43**/66)
 
 ## Bảng D
 
@@ -38,7 +38,7 @@ Meaning of my life `Happiness` `Excellence`
 * [ ] - Làm LeetCode `I`
     * [x] - Giải 100 bài LeetCode
     * [x] - Giải 200 bài LeetCode
-    * [ ] - Giải 300 bài LeetCode (**293**)
+    * [ ] - Giải 300 bài LeetCode (**295**)
     * [ ] - Giải 400 bài LeetCode
     * [ ] - Giải 500 bài LeetCode
 * [ ] - Saigon Center Office
@@ -54,6 +54,7 @@ Meaning of my life `Happiness` `Excellence`
 
 No | Date | Disicipline | Thesis | Engineering | Miscellaneous | Family | Note |
 |---|---|---|---|---|---|---|---|---|
+|43|13/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 294](https://leetcode.com/problems/middle-of-the-linked-list/) <br> - [Medium 295](https://leetcode.com/problems/sort-list) </details> - &check; Đạp xe `I` **17.4km** in 1h4m <hr> - &cross; Nay bệnh, ngủ từ 1:00 đến 18:30 | - Cài Thesis | | | - &check; Đo huyết áp cho ba má <br> - &check; Mua đồ ăn vui vui
 |42|12/10 <br> **Monday** | <details close><summary>&check; Làm LeetCode `I`</summary> - [Easy 285](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) <br> - [Easy 286](https://leetcode.com/problems/second-highest-salary) <br> - [Easy 287](https://leetcode.com/problems/length-of-last-word) <br> - [Easy 289](https://leetcode.com/problems/to-lower-case) <br> - [Easy 290](https://leetcode.com/problems/implement-strstr) <br> - [Easy 291](https://leetcode.com/problems/next-greater-element-i) <br> - [Medium 292](https://leetcode.com/problems/next-greater-element-ii) <br> - [Medium 293](https://leetcode.com/problems/next-greater-element-iii) </details> - &check; Dậy 7:00 <br> - &check; Chạy bộ `I` **5.02km/pace 6:38** &rarr; cuối tuần race 10K <hr> - &cross; Đạp xe `I` &rarr; bánh xe hư | - Cài thesis `I` | | - &check; Nghe TSKD [#149 - Tầm nhìn](https://tamsukinhdoanh.com/tap-149-tam-nhin/) <br> - &check; Nghe web5ngay [50 Câu nói ý nghĩa](https://youtu.be/qfoq8IX43vE) | - &check; Đo huyết áp cho ba, má
 |
 |41|11/10| <details close><summary>&check; Làm LeetCode `I`</summary> - [Medium 282](https://leetcode.com/problems/convert-to-base-2) <br> - [Medium 283](https://leetcode.com/problems/remove-duplicate-letters/) <bR> - [Medium 284](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) </details> <hr> - &cross; Đạp xe | | | - &check; Ăn trưa với N, A
