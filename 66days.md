@@ -1,6 +1,6 @@
 > ##### I'm training to be DISCIPLINED and PROACTIVE  
 
-Meaning of my life `Happiness` `Excellence`
+Meaning of life `Happiness` `Excellence`
 
 ## LIFE MANIFESTO  
 
@@ -29,48 +29,20 @@ Meaning of my life `Happiness` `Excellence`
 * [x] - [Bảng C](https://github.com/duccipline/journal/blob/master/archive_66_days_C.md) (**hoàn thành**)
 * [x] - [Bảng C2](https://github.com/duccipline/journal/blob/master/archive_66_days_C2.md) (**hoàn thành**)
 * [x] - Bảng D (**hoàn thành**)
-* [ ] - Bảng E (Ngày 1/66)
+* [x] - Bảng E (failed)
+* [ ] - Bảng E2 (1/66)
 
-# Short-term Goals
-
-* [ ] - Chạy 10K sub 1
-    * [x] - Chạy 10K sub 110 &rarr; 1:08:44
-        * [x] - **1:08:44**
-        * [x] - **1:05:31** (pace 6:30)
-    * [ ] - Chạy 10K sub 105
-    * [ ] - Chạy 5K sub 030
-    * [ ] - Chạy 10K **Techcombank International Marathon 2020**
-* [ ] - Làm LeetCode `I`
-    * [x] - Giải 100 bài LeetCode
-    * [x] - Giải 200 bài LeetCode
-    * [x] - Giải 300 bài LeetCode 
-    * [ ] - Giải 400 bài LeetCode (**304**)
-    * [ ] - Giải 500 bài LeetCode
-* [ ] - Saigon Center Office
-* [ ] - Thesis
-* [ ] - Red Coder on Codeforces
-    * [ ] - 5 Div-1 Contests
-
-# 1-year Goals
-
-* Software Engineer
-* Mandarin
-* Competitive Programming
-    * Google Code Jam
-    * Facebook Hackercup
-* Half Marathon
-
-## Bảng E
+## Bảng E2
 
 ### Check Log
 
 | No | Date | - Discipline <br> - Eliminating | - Thesis <br> - Engineering | - Family <br> - Miscellaneous | Note
 |---|---|---|---|---|---|---|
-|06|**16/11** <br> Monday | <hr> | <hr> | <hr> | |
-|05|15/11| <hr> | <hr> | <hr> | |
-|04|14/11| <hr> | <hr> | <hr> | |
-|||
-|03|13/11| <hr> | <hr> | <hr> | |
-|02|12/11| - &check; Dậy sớm 6:00 <br> - Chạy bộ <br> - Hít đất <hr> - FB <br> - Instagram <br> - Twitter <br> - Youtube <br> | <hr> <details close><summary>Làm LeetCode</summary>| <hr> | |
-|01|**11/11**| - &cross; Dậy sớm <br> - &check; Chạy bộ **1.04km/pace 5:07** <br> **2.01km/pace 5:51** <br> - &check; Hít đất &rarr; 20 cái (easy level) <hr> - &cross; FB &rarr; 108ms <br> - &cross; Instagram &rarr; 38ms <br> - &cross; Twitter <br> - &check; Youtube | <hr> <details close><summary>&cross; Làm LeetCode</summary> </details> - &check; [QMAX](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/G), [QMAX2](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H) | - &cross; Đo huyết áp cho ba má <hr> - &check; [Cảm hứng đầu ngày](https://youtu.be/xOrZkYESfec) <br> - &check; Ăn 4P với group | <details close><summary></summary> - Cố lên Đức, phải thay đổi thôi <br> - Phải mạnh mẽ, giỏi giang để không làm Ông Nội thất vọng </details> |
+|02|02/12| - Chạy bộ 3km <hr> | - Error Analysis <br> - `PoSD` | <hr> - Nghe [web5ngay](https://youtu.be/FP7qRBS5xv0) (lúc chạy bộ) 
+|01|**01/12**| <details close><summary>&check; Chạy bộ 2km</summary><img width="75%" src="https://user-images.githubusercontent.com/31420144/100769163-41157f80-342e-11eb-8934-026964c0bb29.png"></img></details><hr> | <hr> - &check; `PoSD` (chapter 3, 4) | <hr> - &check; Nghe TSKD [#135](https://tamsukinhdoanh.com/tap-155-dung-co-gang-vo-nghia/) | 
 |||&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;|&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;&hearts;| 
+
+### Reading
+
+* [ ] - A Philosophy of Software Design - `PoSD` - [Amazon](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+* [ ] - Operating Systems: Three Easy Pieces - `OS-3PS` - [Amazon](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4)
