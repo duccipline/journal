@@ -36,8 +36,19 @@ Meaning of life `Happiness` `Excellence`
 
 ### Check Log
 
-| No | Date | - Discipline <br> - Eliminating | - Thesis <br> - Engineering | - Family <br> - Miscellaneous | Note
+| No | Date | Discipline <br> - Eliminating | Thesis <br> - Engineering | Family <br> - Miscellaneous | Note
 |---|---|---|---|---|---|---|
+|15|15/12| - Dậy sớm 4:00 | - Error Analysis <hr> - &check; `PoSD` (chapter 9)
+|14|14/12 <br> Monday | - Dậy sớm 4:00 | <hr> - &check; `PoSD` (chapter 8) | <hr> - &check; Nghe TSKD [#158](https://tamsukinhdoanh.com/tap-158-bat-buoc-phai-biet/)
+|13|13/12| | <hr> - &check; `PoSD` (chapter 7) | <hr> - &check; Dạy thêm
+|12|12/12|
+|11|11/12
+|10|10/12
+|09|09/12|  
+|08|08/12|
+|07|07/12 <br> Monday | | | <hr> - &check; Nghe TSKD [#157](https://tamsukinhdoanh.com/tap-157-nhin-vao-su-that-ma-song/)
+|06|06/12|
+|05|05/12|
 |04|04/12| <details close><summary>Chạy bộ</summary><img width="75%" src=""></img></details>
 |03|03/12| <details close><summary>&check; Chạy bộ</summary><img width="75%" src="https://user-images.githubusercontent.com/31420144/101172892-5845ae80-3674-11eb-8e3a-1a5d2cb199ee.png"></img></details>
 |02|02/12| <details close><summary>&check; Chạy bộ 3km</summary><img width="75%" src="https://user-images.githubusercontent.com/31420144/100903924-075d7b00-34f9-11eb-924b-49d568220bdc.png"></img></details> <hr> | - Error Analysis <br> - &check; `PoSD` (chapter 5) | <hr> - &check; Nghe [web5ngay](https://youtu.be/FP7qRBS5xv0) (lúc chạy bộ) 
