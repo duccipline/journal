@@ -6,3 +6,6 @@
 | Những tháng ngày bên nhau | 一起走过的日子 <br> Những tháng ngày bên nhau | Lưu Đức Hoa |
 | Tình nhạt phai | 来生缘 | |
 | Khi người đàn ông khóc | 男人哭吧不是罪 | Lưu Đức Hoa | 
+
+[https://youtu.be/JelK9gLVMVM](https://youtu.be/JelK9gLVMVM)  
+[https://youtu.be/2VeYkS6FfM8](https://youtu.be/2VeYkS6FfM8)
