@@ -1,0 +1,8 @@
+- Job interview campaign
+- Tốt nghiệp
+- Dắt ba má đi du lịch: Châu Đốc, Cần Thơ, Phú Quốc
+- Học, thi bằng lái xe B2
+- Mua chuột Logitech MX Master
+- Mua 1 bàn phím cơ
+- Viết web app blog cá nhân
+- Build chú kỹ dot sư
