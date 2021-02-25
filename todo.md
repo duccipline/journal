@@ -1,4 +1,7 @@
 - Job interview campaign
+    - Orange Logic
+    - [Kyber Network](https://kyber.vn/post/627412537148948480/were-hiring-a-backend-developer-in-hcmc)
+    - [CodeLynx](https://devsquad.io/job-list/5fc3b298b82b107f33e1de7d)
 - Tốt nghiệp
 - Dắt ba má đi du lịch: Châu Đốc, Cần Thơ, Phú Quốc
 - Học, thi bằng lái xe B2
