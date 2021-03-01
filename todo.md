@@ -1,11 +1,19 @@
+# To do list 2021
+
+Actually these are urgent objectives to be finished in early of 2021:  
+
 - Job interview campaign
     - Orange Logic
     - [Kyber Network](https://kyber.vn/post/627412537148948480/were-hiring-a-backend-developer-in-hcmc)
     - [CodeLynx](https://devsquad.io/job-list/5fc3b298b82b107f33e1de7d)
+    - Cốc cốc
 - Tốt nghiệp
-- Dắt ba má đi du lịch: Châu Đốc, Cần Thơ, Phú Quốc
-- Học, thi bằng lái xe B2
-- Mua chuột Logitech MX Master
-- Mua 1 bàn phím cơ
+- Đi làm lại:  
+    - Dắt ba má đi du lịch: Châu Đốc, Cần Thơ, Phú Quốc
+    - Học, thi bằng lái xe B2
+    - Mua chuột Logitech MX Master
+    - Mua 1 bàn phím cơ
 - Viết web app blog cá nhân
 - Build chú kỹ dot sư
+
+
