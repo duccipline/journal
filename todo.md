@@ -15,5 +15,3 @@ Actually these are urgent objectives to be finished in early of 2021:
     - Mua 1 bàn phím cơ
 - Viết web app blog cá nhân
 - Build chú kỹ dot sư
-
-
