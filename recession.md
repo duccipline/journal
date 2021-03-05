@@ -1,6 +1,6 @@
 # Spiritual Recession
 
-### Wednesday 17, 2021
+### Wednesday February 17, 2021
 
 * Brief: more than one year ago, perhaps 13 months, there were lots of difficulties apppeared in my life. Instead of facing them bravefully, nakedly, I chose to hide. Remembering about that period, I currently don't understand why that man managed to do so.
 * Right now writing these lines, I can even hear a voice, the British one, not in my mind but in my room. That's my voice with (I trully believe) a British accent.
@@ -11,3 +11,8 @@
 * For one year of hiding, refusing the responsibilites to solve my-life-problems, thing getting worse. 
 * It's the second best time to make a change, I don't know, I must change.
 * CHANGE or keeping being trapped, dangerously morose, and being losing more CHANCEs in life.
+
+### Saturday March 06, 2021
+
+* I just want to write a line for you:
+    * Believe in your goals, believe in your plans, and do your best for them.
