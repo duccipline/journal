@@ -1,17 +1,6 @@
-# To do list 2021
-
-Actually these are urgent objectives to be finished in early of 2021:  
-
-- Job interview campaign
-    - Orange Logic
-    - [Kyber Network](https://kyber.vn/post/627412537148948480/were-hiring-a-backend-developer-in-hcmc)
-    - [CodeLynx](https://devsquad.io/job-list/5fc3b298b82b107f33e1de7d)
-    - Cá»‘c cá»‘c
-- Tá»‘t nghiá»‡p
-- Äi lÃ m láº¡i:  
-    - Dáº¯t ba mÃ¡ Ä‘i du lá»‹ch: ChÃ¢u Äá»‘c, Cáº§n ThÆ¡, PhÃº Quá»‘c
-    - Há»c, thi báº±ng lÃ¡i xe B2
-    - Mua chuá»™t Logitech MX Master
-    - Mua 1 bÃ n phÃ­m cÆ¡
-- Viáº¿t web app blog cÃ¡ nhÃ¢n
-- Build chÃº ká»¹ dot sÆ°
+VimCrypt~03!ÿ†-Z©­úßWhß/øü0¼Šé•Ù°›ˆp</ÄâÀVThé „lW‰d»9
+yéq ÷šWçp²„Ûuwc6$8Häõ3‘@ˆ(˜Zs€Í	$BS°F^Ì¦Ã†h'æ.EUíW@?~2êV1Û€µÒÔ%SGóSì¤$CäãåOeL÷÷®xğ¦©óÑ|vÎğNëxôMhûÚv_qÔ>ÚëXsQşôw‘BLS·ÊI‹f¿dÛCP]9”íÊğ”ZâCRÎ¡pe3Å<¡,½ìâš±!WNfj‘‘·:«<
+{Ty:ã.Ò¿"é#P«x'ô•é¶úmAƒ#sO©ğ)³£^DÔ;sTö²ı[b……Q&xŞäx+#GµõFx³¡Ëö—¾ğ$ÌÚgÖ'ªëÕ¸Áº¥ª+zÒsáìxLv‚^Ñ•õëîFÅå¹|ÛÂ>RáA@ÇÍ”Ú4ë*6´»é°.ä\ü?0‚ô‹Æô~N%G&DúdöùÔ íK½ÉÀŒ‹âïší
+ºr|+÷ÂP,Á`æFR¬îêM!_âñWy_IĞæœ"´)¢Q€±4ÊÑòõˆ²Ï¢b~Îg|«Ÿkç	aÓn4™P0ãuÔLƒe†üZÆ¿{£iC[¨àf˜­Ì…7FeJÈssìO!jzşá‹ÒàºÇ)Xl2CüŸØ¼l+PQ³¡6‚ÑÛaéè§vEã€x	RàEÌh¾©P‹!Ãz‘›ˆ§gG0pØÌ çwÚÏŞBî7ê¸ÿ¯#Q	‰P	±;U›yBİf—8KåÖÑFuòòšT'»“¹PØ·!NÊ8o	£ifeÇö|(L½»î„­nŸcHúcçà·kqø¢†³’c‚¢@Õ_Ğ>#S
+TÔØ?šà9P|=»Y&ªiºÎg9%+@6r8êhD´øğZöú4½eÎ'fôÊë>DÖAÊ‰Z²­ö¹WC± %Ğø!Ğ1?‚ã²?„Û¢†-¨³?Ç
+Jæ3õ>"†\÷@[˜½O/c+¹#—ª(e£·‡é×œ9ƒjn €Ô^¤DN98ŞöŒQnÛ™2Zùf,t¹>`Ì'Ü£„?³8ßÙ®ŞS÷Ã-:É’Šë­¥yqº¼€èô/‹‹ÿ?ÍÀobY«4µ¡˜²öndİ/	ßù@A‡mU–òXöãhıP%‡´ÁI’&gw„õµ=c™TéL+ï·¼YwÔøLk¢:LAÅû4ƒUæ€&ÓxÕ¤‡*%/]úË?©äS î.ƒ?¶ğÕ´ƒGšRÚt'•mR:™‡m„n`>ÚPŞZw
